@@ -40,7 +40,7 @@ export default function Home() {
       </div> */}
 
       {/* Event Details Replacement Start */}
-      <div className="my-12 p-6 max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
+      <div className="my-12 p-6 max-w-full w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
         <p className="mb-4">3/10 周日 1PM - 4PM<br />️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：9人，微信限定4人</p>
         <p className="mb-4">320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />Located in: The Westin Chicago River North</p>
