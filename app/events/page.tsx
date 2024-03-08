@@ -11,6 +11,7 @@
 import Link from 'next/link';
 
 const eventsData = [
+  // Add the events as the following template ahead
   {
     imageUrl: '/mar3coffeechat.jpg', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/u4Qy9C', // 替换为对应的网站链接
