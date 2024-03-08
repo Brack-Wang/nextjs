@@ -49,7 +49,7 @@ const eventsData = [
   {
     imageUrl: '/first_event.jpg',
     // websiteUrl: 'http://xhslink.com/0omE9C',
-    altText: '1/23 Climbing@TARY Coffee House.Our starting point, welcome every new friend!',
+    altText: '1/23 MilkTea@TARY Coffee House.Our starting point, welcome every new friend!',
   },
   // 可以继续添加更多事件
 ];
