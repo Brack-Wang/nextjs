@@ -13,11 +13,12 @@ export default function Home() {
         </p>
       </div>
 <center>
+          <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
       {/* Event Details Replacement Start */}
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         
         {/* TODO: Change the content for weekly events' information below */}
-        <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
+
         <h2 className="text-2xl font-bold mb-2">【本周安排】</h2>
         <p className="mb-4">3/10 周日 1PM - 4PM<br />️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：9人</p>
         <p className="mb-4">320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />Located in: The Westin Chicago River North</p>
