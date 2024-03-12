@@ -2,6 +2,7 @@
 // pages/page.tsx or any other file within the pages directory
 import Link from 'next/link';
 import Image from "next/image";
+import React from 'react';
 
 export default function Home() {
   return (
