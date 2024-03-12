@@ -17,14 +17,30 @@ export default function Home() {
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         
         {/* TODO: Change the content for weekly events' information below */}
-        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <p className="mb-4">3/10 周日 1PM - 4PM<br />️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：9人</p>
-        <p className="mb-4">320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />Located in: The Westin Chicago River North</p>
-        <a href="https://www.eventbrite.co.nz/e/cfcht-310-1pm-tickets-858290468897?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4">本次活动主题投票（此投票不等于报名）<br /><a href="https://forms.gle/3BLyjCJshx5oz3Uv8" className="text-blue-600 hover:underline" target="_blank">点击这里投票</a></p>
-        <p className="mt-4">报名成功的各位，饮品统一预订，点单Google Form链接<br /><a href="https://forms.gle/SiBYXj3vpWv8xURL6" className="text-blue-600 hover:underline" target="_blank">点击打开填写</a></p>
-        <p className="mt-4 italic">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
-        <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+        <h2>This Week's Schedule - Sign Up Now!</h2>
+        <p>Sign-up Open</p>
+        <p>Date: 3/16, Saturday</p>
+        <p>Time: 1:00 PM - 2:30 PM</p>
+        <p>Activity: Indoor Games</p>
+        <p>Cost: $33/person (tax included), payment to be made individually at the venue</p>
+        <p>Limit: Maximum 20 participants, Waitlist: 5</p>
+  
+        <h3>Location:</h3>
+        <p>Activate - Chicago (Oak Brook)</p>
+        <p>Address: 1600 16th St Unit 6, Oak Brook, IL 60523</p>
+        <p>(Approximately 30 minutes drive from Loop, please plan your travel time accordingly)</p>
+  
+        <p>Flexibility Alert: After the games, if interested, we can go together to see the green-dyed lake and take a stroll.</p>
+  
+        <p>Important Notes:</p>
+        <ul>
+          <li>If you sign up and fail to attend without timely notice, you may be liable for any incurred costs as requested by the venue.</li>
+          <li>If you're unable to attend after signing up, please cancel on Eventbrite. Waitlisted individuals will receive email notifications for available slots, so keep an eye on your inbox.</li>
+          <li>Please make cancellations at least one day in advance.</li>
+        </ul>
+  
+        <p>We look forward to seeing you all this Saturday!</p>
+      <p><span role="img" aria-label="sun">🌞</span></p>
 
 
       </div>
