@@ -13,34 +13,23 @@ export default function Home() {
         </p>
       </div>
 
-
-
-
-      
-      <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
       {/* Event Details Replacement Start */}
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         
         {/* TODO: Change the content for weekly events' information below */}
-
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <p className="mb-4"> 3/16 周六1PM Activate - Chicago (Oak Brook) <br />限定报名人数：20人</p>
-        <p className="mb-4">320 River Bar<br />📍1600 16th St Unit 6, Oak Brook, IL 60523 <br />（距离Loop车程大概30分钟，请各位合理安排出行时间）</p>
-        <a href="https://www.eventbrite.co.nz/e/cfcht-316-1pm-activate-chicago-oak-brook-tickets-861313109697" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4 italic">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用</p>
-        <p className="mt-4 italic">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
-        <p className="mt-4 italic">*请大家至少提前一天取消</p>
-        <p className="mt-4 font-bold">那么各位，这周六见🌞</p>
+        <p className="mb-4">3/10 周日 1PM - 4PM<br />️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：9人</p>
+        <p className="mb-4">320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />Located in: The Westin Chicago River North</p>
+        <a href="https://www.eventbrite.co.nz/e/cfcht-310-1pm-tickets-858290468897?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <p className="mt-4">本次活动主题投票（此投票不等于报名）<br /><a href="https://forms.gle/3BLyjCJshx5oz3Uv8" className="text-blue-600 hover:underline" target="_blank">点击这里投票</a></p>
+        <p className="mt-4">报名成功的各位，饮品统一预订，点单Google Form链接<br /><a href="https://forms.gle/SiBYXj3vpWv8xURL6" className="text-blue-600 hover:underline" target="_blank">点击打开填写</a></p>
+        <p className="mt-4 italic">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
+        <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+
 
       </div>
       {/* Event Details Replacement End */}
 
-
-
-
-
-
-      
       {/* Button of About and Events Start*/}
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <Link
@@ -75,7 +64,6 @@ export default function Home() {
             All previous events we hold!
           </p>
         </Link>
-        </center>
         {/* <a
           href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
