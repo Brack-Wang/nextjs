@@ -12,8 +12,12 @@ export default function Home() {
           &nbsp;You need, we see, we achieve&nbsp;and  welcome!
         </p>
       </div>
-<center>
-          <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
+
+
+
+
+      
+      <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
       {/* Event Details Replacement Start */}
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         
@@ -28,10 +32,15 @@ export default function Home() {
         <p className="mt-4 italic">*请大家至少提前一天取消</p>
         <p className="mt-4 font-bold">那么各位，这周六见🌞</p>
 
-
       </div>
       {/* Event Details Replacement End */}
 
+
+
+
+
+
+      
       {/* Button of About and Events Start*/}
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <Link
