@@ -21,7 +21,16 @@ Replace the following part with your new content published for wechat or xhs. Yo
         <p className="mt-4 italic">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
         <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
 
+### Using chatgpt
 ```
+To use chatgpt to generate the content:
+```css
+please change the following content for the next.js, do not use react:
+
+[your content here]
+
+```
+
 ### 2. Update previous events
 in `/public`
 
