@@ -2,7 +2,7 @@
 // pages/page.tsx or any other file within the pages directory
 import Link from 'next/link';
 import Image from "next/image";
-import React from 'react';
+
 
 export default function Home() {
   return (
@@ -18,30 +18,20 @@ export default function Home() {
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         
         {/* TODO: Change the content for weekly events' information below */}
-        <h2>This Week's Schedule - Sign Up Now!</h2>
-        <p>Sign-up Open</p>
-        <p>Date: 3/16, Saturday</p>
-        <p>Time: 1:00 PM - 2:30 PM</p>
-        <p>Activity: Indoor Games</p>
-        <p>Cost: $33/person (tax included), payment to be made individually at the venue</p>
-        <p>Limit: Maximum 20 participants, Waitlist: 5</p>
-  
-        <h3>Location:</h3>
+        <h2>本周安排</h2>
+        <p>报名中</p>
+        <p>3/16 周六 1PM - 2:30PM</p>
+        <p>🔥室内游戏</p>
+        <p>33🔪/人（含税），参与者将到店每人分别向店家付款</p>
+        <p>限定报名人数：20人，Waitlist人数：5人</p>
         <p>Activate - Chicago (Oak Brook)</p>
-        <p>Address: 1600 16th St Unit 6, Oak Brook, IL 60523</p>
-        <p>(Approximately 30 minutes drive from Loop, please plan your travel time accordingly)</p>
-  
-        <p>Flexibility Alert: After the games, if interested, we can go together to see the green-dyed lake and take a stroll.</p>
-  
-        <p>Important Notes:</p>
-        <ul>
-          <li>If you sign up and fail to attend without timely notice, you may be liable for any incurred costs as requested by the venue.</li>
-          <li>If you're unable to attend after signing up, please cancel on Eventbrite. Waitlisted individuals will receive email notifications for available slots, so keep an eye on your inbox.</li>
-          <li>Please make cancellations at least one day in advance.</li>
-        </ul>
-  
-        <p>We look forward to seeing you all this Saturday!</p>
-      <p><span role="img" aria-label="sun">🌞</span></p>
+        <p>📍1600 16th St Unit 6, Oak Brook, IL 60523</p>
+        <p>（距离Loop车程大概30分钟，请各位合理安排出行时间）</p>
+        <p>看需求灵活变通：游戏结束后，大家想的话可以一起去看染绿的湖，散散步</p>
+        <p>*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用</p>
+        <p>*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
+        <p>*请大家至少提前一天取消</p>
+        <p>那么各位，这周六见！🌞</p>
 
 
       </div>
