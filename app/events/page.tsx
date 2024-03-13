@@ -28,7 +28,7 @@ const eventsData = [
     altText: '2/27 Chat @富丽华粤菜',
   },
   {
-    imageUrl: '/xiangxun.jpg',
+    imageUrl: '/0222aura.jpg',
     websiteUrl: 'http://xhslink.com/fF1A9C',
     altText: '2/22 香薰制作 @AURA Candle Bar',
   },
@@ -38,22 +38,22 @@ const eventsData = [
     altText: '2/20 Chat @厨尚JM Seafood ',
   },
   {
-    imageUrl: '/newyear.jpg',
+    imageUrl: '/0212ny.jpg',
     websiteUrl: 'http://xhslink.com/ln0C9C',
     altText: '2/12 新年快乐！@D Cruisine & KTV',
   },
   {
-    imageUrl: '/grandpalace.jpg',
+    imageUrl: '/0204sw.jpg',
     websiteUrl: 'http://xhslink.com/bMiA9C',
     altText: '2/4 Coffee chat @Sweet Bean & 口福阁',
   },
   {
-    imageUrl: '/climbing.jpg',
+    imageUrl: '/0127climbing.jpg',
     websiteUrl: 'http://xhslink.com/0omE9C',
     altText: '1/27 Climbing @First Ascent Block 37',
   },
   {
-    imageUrl: '/first_event.jpg',
+    imageUrl: '/0123tary.jpg',
     // websiteUrl: 'http://xhslink.com/0omE9C',
     altText: '1/23 MilkTea @TARY Coffee House. Our starting point, welcome every new friend!',
   },
