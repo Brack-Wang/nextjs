@@ -20,22 +20,22 @@ const eventsData = [
    {
     imageUrl: '/mar3coffeechat.jpg', 
     websiteUrl: 'http://xhslink.com/u4Qy9C', 
-    altText: '3/3 主题性小桌聊天@Sawada Coffee', 
+    altText: '3/3 主题性小桌聊天 @Sawada Coffee', 
   },
   {
     imageUrl: '/fulihua.jpg',
     websiteUrl: 'http://xhslink.com/osNE9C',
-    altText: '2/27 Chat@富丽华粤菜',
+    altText: '2/27 Chat @富丽华粤菜',
   },
   {
     imageUrl: '/xiangxun.jpg',
     websiteUrl: 'http://xhslink.com/fF1A9C',
-    altText: '2/22 香薰制作@AURA Candle Bar',
+    altText: '2/22 香薰制作 @AURA Candle Bar',
   },
   {
     imageUrl: '/chushang.jpg',
     websiteUrl: 'http://xhslink.com/vtOz9C',
-    altText: '2/20 Chat@厨尚JM Seafood ',
+    altText: '2/20 Chat @厨尚JM Seafood ',
   },
   {
     imageUrl: '/newyear.jpg',
@@ -45,12 +45,12 @@ const eventsData = [
   {
     imageUrl: '/grandpalace.jpg',
     websiteUrl: 'http://xhslink.com/bMiA9C',
-    altText: '2/4 Coffee chat@Sweet Bean & 口福阁',
+    altText: '2/4 Coffee chat @Sweet Bean & 口福阁',
   },
   {
     imageUrl: '/climbing.jpg',
     websiteUrl: 'http://xhslink.com/0omE9C',
-    altText: '1/27 Climbing@First Ascent Block 37',
+    altText: '1/27 Climbing @First Ascent Block 37',
   },
   {
     imageUrl: '/first_event.jpg',
