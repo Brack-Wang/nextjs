@@ -14,12 +14,13 @@ export default function Home() {
         </p>
       </div>
 
-      {/* Event Details Replacement Start */}
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
-
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
-        
-        {/* TODO: Change the content for weekly events' information below */}
+
+
+  ####################################################################################################################
+      {/* TODO: Change the content for weekly events' information below */}
+      {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
         <p className="mb-4">3/16 周六 1PM - 2:30PM<br />🔥室内游戏<br />33🔪/人（含税），参与者将到店每人分别向店家付款（店家只接受信用卡）<br />限定报名人数：20人，Waitlist人数：5人</p>
         <p className="mb-4">Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />（距离Loop车程大概30分钟，请各位合理安排出行时间）<br />看需求灵活变通：游戏结束后，大家想的话可以一起去看染绿的湖，散散步</p>
@@ -28,12 +29,11 @@ export default function Home() {
         <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
         <p className="mt-4">*请大家至少提前一天取消</p>
         <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
-
-
-
-
-      </div>
       {/* Event Details Replacement End */}
+  ####################################################################################################################
+
+        
+      </div>
 
       {/* Button of About and Events Start*/}
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
