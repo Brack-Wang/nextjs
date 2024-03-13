@@ -9,26 +9,28 @@ Change on the github and the website will be updated in minutes
 ### 1. Update weekly information
 in `/app/page.tsx`
 
-Replace the following part with your new content published for wechat or xhs. You could copy the following content as the format inside the chatgpt and inform it to change your content to the same format.
-```css
-        {/* TODO: Change the content for weekly events' information below */}
-        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <p className="mb-4">3/10 周日 1PM - 4PM<br />️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：9人，微信限定4人</p>
-        <p className="mb-4">320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />Located in: The Westin Chicago River North</p>
-        <a href="https://www.eventbrite.co.nz/e/cfcht-310-1pm-tickets-858290468897?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4">本次活动主题投票（此投票不等于报名）<br /><a href="https://forms.gle/3BLyjCJshx5oz3Uv8" className="text-blue-600 hover:underline" target="_blank">点击这里投票</a></p>
-        <p className="mt-4">报名成功的各位，饮品统一预订，点单Google Form链接<br /><a href="https://forms.gle/SiBYXj3vpWv8xURL6" className="text-blue-600 hover:underline" target="_blank">点击打开填写</a></p>
-        <p className="mt-4 italic">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
-        <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+You could simply 1. use Chatgpt to generate the content , and 2.replace the marked part (Event details) with generated content.
 
-```
-To use chatgpt to generate the content:
+#### 1.1 Please copy following on Chatgpt and replace [your content here] (at the end) with your content published for wechat or xhs:
 ```css
-please change the following content for the next.js, do not use react:
+      {/* TODO: Change the content for weekly events' information below */}
+      {/* Event Details Replacement Start */}
+        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+        <p className="mb-4">3/16 周六 1PM - 2:30PM<br />🔥室内游戏<br />33🔪/人（含税），参与者将到店每人分别向店家付款（店家只接受信用卡）<br />限定报名人数：20人，Waitlist人数：5人</p>
+        <p className="mb-4">Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />（距离Loop车程大概30分钟，请各位合理安排出行时间）<br />看需求灵活变通：游戏结束后，大家想的话可以一起去看染绿的湖，散散步</p>
+        <a href="https://www.eventbrite.com/e/861313109697?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <p className="mt-4">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用</p>
+        <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
+        <p className="mt-4">*请大家至少提前一天取消</p>
+        <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+      {/* Event Details Replacement End */}
+
+please change the following content for the next.js as above sample format, do not use react:
 
 [your content here]
 
 ```
+#### 1.2 copy the generated content to replace content between {Event Details Replacement Start/End}
 
 ### 2. Update previous events
 in `/public`
