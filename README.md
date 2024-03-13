@@ -35,7 +35,7 @@ please change the following content for the next.js as above sample format, do n
 ### 2. Update previous events
 in `/public`
 
-Please upload your image in ".png" or ".jpg" format to the /public folder. 进入public文件夹，右上角有**Add File**，选择你的图片。
+Please upload your image in ".png" or ".jpg" format to the /public folder. 进入public文件夹，右上角有**Add File**，选择你的图片（图片比例请保持4:3）。
 
 > Might use this tool to convert image to ".jpg", note that can't directly use image token from your iphone (which is HEIC format):https://cloudconvert.com/jpg-converter
 
