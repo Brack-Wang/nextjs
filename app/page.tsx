@@ -16,9 +16,10 @@ export default function Home() {
 
       {/* Event Details Replacement Start */}
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
+
+        <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
         
         {/* TODO: Change the content for weekly events' information below */}
-        <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
         <p className="mb-4">3/16 周六 1PM - 2:30PM<br />🔥室内游戏<br />33🔪/人（含税），参与者将到店每人分别向店家付款（店家只接受信用卡）<br />限定报名人数：20人，Waitlist人数：5人</p>
         <p className="mb-4">Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />（距离Loop车程大概30分钟，请各位合理安排出行时间）<br />看需求灵活变通：游戏结束后，大家想的话可以一起去看染绿的湖，散散步</p>
