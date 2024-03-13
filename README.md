@@ -37,7 +37,7 @@ in `/public`
 
 Please upload your image in ".png" or ".jpg" format to the /public folder. 进入public文件夹，右上角有**Add File**，选择你的图片。
 
-> 修改图片的后缀，
+> Might use this tool to convert image to ".jpg", note that can't directly use image token from your iphone (which is HEIC format):https://cloudconvert.com/jpg-converter
 
 in `/app/events/page.tsx`
 
