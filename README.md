@@ -39,6 +39,9 @@ Please upload your image in ".png" or ".jpg" format to the /public folder. è¿›å…
 
 > Might use this tool to convert image to ".jpg", note that can't directly use image token from your iphone (which is HEIC format):https://cloudconvert.com/jpg-converter
 
+> Please make sure the uploaded image is 4:3 ratio format, you might use this web to crop image: https://imageresizer.com/crop-image/editor
+
+
 in `/app/events/page.tsx`
 
 Add a list like the given format which contain the image name, weburl, the describtion.
