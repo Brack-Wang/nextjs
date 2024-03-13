@@ -28,6 +28,9 @@ You could simply 1. use Chatgpt to generate the content , and 2.replace the mark
 please change the following content for the next.js as above sample format, do not use react:
 
 [your content here]
+*格式保持统一
+*文字发布前请发群里大家一起看看
+*Eventbrite的报名链接请问下Chloe
 
 ```
 #### 1.2 Copy the generated content to replace content between { / * ############# / * }
