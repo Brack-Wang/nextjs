@@ -35,7 +35,9 @@ please change the following content for the next.js as above sample format, do n
 ### 2. Update previous events
 in `/public`
 
-Please upload your image in ".png" or ".jpg" format to the /public folder
+Please upload your image in ".png" or ".jpg" format to the /public folder. 进入public文件夹，右上角有**Add File**，选择你的图片。
+
+> 修改图片的后缀，最简单的方法是把图片传到微信上再下载下来，后缀会自动变成.jpg
 
 in `/app/events/page.tsx`
 
