@@ -30,7 +30,7 @@ please change the following content for the next.js as above sample format, do n
 [your content here]
 
 ```
-#### 1.2 copy the generated content to replace content between {Event Details Replacement Start/End}
+#### 1.2 copy the generated content to replace content between {/*############# /*}
 
 ### 2. Update previous events
 in `/public`
