@@ -35,7 +35,7 @@ please change the following content for the next.js as above sample format, do n
 ### 2. Update previous events
 in `/public`
 
-Please upload your image in ".png/.jpg" format to the /public folder
+Please upload your image in ".png" or ".jpg" format to the /public folder
 
 in `/app/events/page.tsx`
 
@@ -44,7 +44,7 @@ Add a list like the given format which contain the image name, weburl, the descr
 ```html
   // Add the events as the following template ahead
   {
-    imageUrl: '/mar3coffeechat.jpg', // 替换为图片路径
+    imageUrl: '/name.xxx', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/u4Qy9C', // 替换为对应的网站链接
     altText: '3/3 主题性小桌聊天@Sawada Coffee', // 图片的替代文本
   },
