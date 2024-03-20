@@ -23,7 +23,7 @@ export default function Home() {
       {/* Event Details Replacement Start */}
      <h2 className="text-2xl font-bold mb-2">【本周安排】</h2>
      <h2 className="text-2xl font-bold mb-2"> 周三8PM开始报名</h2>
-      <p className="mb-4">3/23 周六 2PM - 4PM<br />🔥室内保龄球<br />40🔪/人（不含税），参与者将到店每人分别向店家付款，限定报名人数：12人</p>
+      <p className="mb-4">3/23 周六 2PM - 4PM<br />🔥室内保龄球<br />40🔪/人(不含税), 参与者将到店每人分别向店家付款,限定报名人数:12人</p>
       <p className="mb-4">Pinstripes- Chicago (Downtown)<br />📍435 E Illinois St, Chicago, IL 60611</p>
       <a href="https://www.eventbrite.co.nz/e/cfcht-323-2pm-tickets-866023428387" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
       <p className="mt-4">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用。</p>
