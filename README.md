@@ -4,7 +4,7 @@ This is the homepage of the **Chicago Coffee Chat**, welcome to visit: https://w
 
 ## Updating method
 
-Change on the github and the website will be updated in minutes
+Changes on the github and the website will be updated in minutes
 
 ### 1. Update weekly information
 in `/app/page.tsx`
@@ -30,7 +30,7 @@ You could simply 1. use Chatgpt to generate the content , and 2.replace the mark
         <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
       {/* Event Details Replacement End */}
 
-please change the following content for the next.js as above sample format, do not use react, no need <div>:
+please change the following content for the next.js as above sample JSX code format, do not use react, no need <div>:
 
 [your content here]
 ```
