@@ -21,14 +21,14 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
-        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <p className="mb-4">3/16 周六 1PM - 2:30PM<br />🔥室内游戏<br />33🔪/人（含税），参与者将到店每人分别向店家付款（店家只接受信用卡）<br />限定报名人数：20人，Waitlist人数：5人</p>
-        <p className="mb-4">Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />（距离Loop车程大概30分钟，请各位合理安排出行时间）<br />看需求灵活变通：游戏结束后，大家想的话可以一起去看染绿的湖，散散步</p>
-        <a href="https://www.eventbrite.com/e/861313109697?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用</p>
-        <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
-        <p className="mt-4">*请大家至少提前一天取消</p>
-        <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+      <h2 class="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+      <p class="mb-4">3/23 周六 2PM - 4PM<br />🔥室内保龄球<br />40🔪/人（不含税），参与者将到店每人分别向店家付款，限定报名人数：12人</p>
+      <p class="mb-4">Pinstripes- Chicago (Downtown)<br />📍435 E Illinois St, Chicago, IL 60611</p>
+      <a href="https://www.eventbrite.co.nz/e/cfcht-323-2pm-tickets-866023428387" target="_blank" class="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+      <p class="mt-4">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用。</p>
+      <p class="mt-4">*请至少提前2天取消，店家要求预约时间前48小时内 cancelation fee： 20刀/人</p>
+      <p class="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
+      <p class="mt-4 font-bold">那么各位，这周六见！🌞</p>
       {/* Event Details Replacement End */}
 {/*   #################################################################################################################### */}
 
