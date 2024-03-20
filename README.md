@@ -30,7 +30,7 @@ You could simply 1. use Chatgpt to generate the content , and 2.replace the mark
         <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
       {/* Event Details Replacement End */}
 
-please change the following content for the next.js as above sample format, do not use react,no need <div>:
+please change the following content for the next.js as above sample format, do not use react, no need <div>:
 
 [your content here]
 ```
