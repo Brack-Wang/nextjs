@@ -13,7 +13,9 @@ You could simply 1. use Chatgpt to generate the content , and 2.replace the mark
 
 #### 1.1 Please copy following on Chatgpt and replace [your content here] (at the end) with your content published for wechat or xhs:
 >Note: 格式保持统一
+>
 > 文字发布前请发群里大家一起看看
+>
 > Eventbrite的报名链接请问下Chloe
 ```css
       {/* TODO: Change the content for weekly events' information below */}
