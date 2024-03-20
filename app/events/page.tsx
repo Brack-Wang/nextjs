@@ -13,7 +13,7 @@ import Link from 'next/link';
 const eventsData = [
   // Add the events as the following template ahead
    {
-    imageUrl: '/0316activate.png', // 替换为图片路径
+    imageUrl: '/0316activate.jpg', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/J5WxgE', // 替换为对应的网站链接
     altText: '3/16 超火室内游戏@Activate+粤菜@D Cuisine', // 图片的替代文本
    },
