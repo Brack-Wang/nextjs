@@ -41,9 +41,9 @@ in `/public`
 
 Please upload your image in ".png" or ".jpg" format to the /public folder. 进入public文件夹，右上角有**Add File**，选择你的图片。（请统一图片比例为4:3）
 
-> Might use this tool to convert image to ".jpg", note that can't directly use image token from your iphone (which is HEIC format):https://cloudconvert.com/jpg-converter
+> Might use this tool to convert image to ".jpg", note that can't directly use image token from your iphone (which is HEIC format):[https://cloudconvert.com/jpg-converter](https://cloudconvert.com/jpg-converter)
 
-> Please make sure the uploaded image is 4:3 ratio format, you might use this web to crop image: [https://imageresizer.com/crop-image/editor](https://imageresizer.com/crop-image)
+> Please make sure the uploaded image is 4:3 ratio format, you might use this web to crop image: [https://www.resizepixel.com/](https://www.resizepixel.com/)
 
 
 in `/app/events/page.tsx`
