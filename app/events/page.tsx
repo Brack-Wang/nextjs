@@ -13,6 +13,11 @@ import Link from 'next/link';
 const eventsData = [
   // Add the events as the following template ahead
    {
+    imageUrl: '/mar3activate.png', // 替换为图片路径
+    websiteUrl: 'http://xhslink.com/eT9ozD', // 替换为对应的网站链接
+    altText: '3/10 主题性小桌聊天 @320 River Bar', // 图片的替代文本
+   },
+   {
     imageUrl: '/0310CF.png', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/eT9ozD', // 替换为对应的网站链接
     altText: '3/10 主题性小桌聊天 @320 River Bar', // 图片的替代文本
