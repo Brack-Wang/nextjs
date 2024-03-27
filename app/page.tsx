@@ -21,16 +21,17 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
-     <h2 className="text-2xl font-bold mb-2">【本周安排】</h2>
-     <h2 className="text-2xl font-bold mb-2"> 周三8PM开始报名</h2>
-      <p className="mb-4">3/23 周六 2PM - 4PM<br />🔥室内保龄球<br />40🔪/人(不含税), 参与者将到店每人分别向店家付款,限定报名人数:12人</p>
-      <p className="mb-4">Pinstripes- Chicago (Downtown)<br />📍435 E Illinois St, Chicago, IL 60611</p>
-      <a href="https://www.eventbrite.co.nz/e/cfcht-323-2pm-tickets-866023428387" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-      <p className="mt-4">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用。</p>
-      <p className="mt-4">*请至少提前2天取消，店家要求预约时间前48小时内 cancelation fee： 20刀/人</p>
-      <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
+      <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+      <h2 className="text-2xl font-bold mb-2">3/30 周六 1:40PM - 3:30PM </h2>
+      <p className="mb-4">🔥Laser Tag<br />25🔪/人<br />限定报名人数：15人</p>
+      <a href="https://www.eventbrite.co.nz/e/cfcht330-140pm-laser-tag-tickets-871534381797" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+      <p className="mb-4">Combat Chicago<br />📍5520 W 111th St， Unit 1，Oak Lawn, IL 60453<br />距离loop车程大概40分钟左右，请各位合理安排出行时间</p>
+      <p className="mb-4">店家票价：$25/人 </p>
+      <p className="mb-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com<br />群主已付好定金，到店后群主会付完全款。<br />因为之前活动出现过报名后但最后未出现造成损失的情况，所以咱们这次提前AA门票。</p>
+      <p className="mt-4">*请报名成功后半小时内向群主转zelle，并私信群主转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
+      <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
       <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
-      {/* Event Details Replacement End */}
+
 {/*   #################################################################################################################### */}
 
         
