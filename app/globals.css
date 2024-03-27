@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -24,9 +24,9 @@ body {
     text-wrap: balance;
   }
 }
+ */
 
-
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -59,4 +59,4 @@ body {
     text-wrap: balance;
   }
 }
- */
+
