@@ -10,22 +10,6 @@
 
 /* Removed the media query for dark mode preferences */
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-    to bottom,
-    transparent,
-    rgb(var(--background-end-rgb))
-  ) rgb(var(--background-start-rgb));
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
- */
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -59,4 +43,3 @@ body {
     text-wrap: balance;
   }
 }
-
