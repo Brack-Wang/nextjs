@@ -21,16 +21,14 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
-      <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-      <h2 className="text-2xl font-bold mb-2">3/30 周六 1:40PM - 3:30PM </h2>
-      <p className="mb-4">🔥Laser Tag<br />25🔪/人<br />限定报名人数：15人</p>
-      <a href="https://www.eventbrite.co.nz/e/cfcht330-140pm-laser-tag-tickets-871534381797" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-      <p className="mb-4">Combat Chicago<br />📍5520 W 111th St， Unit 1，Oak Lawn, IL 60453<br />距离loop车程大概40分钟左右，请各位合理安排出行时间</p>
-      <p className="mb-4">店家票价：$25/人 </p>
-      <p className="mb-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com<br />群主已付好定金，到店后群主会付完全款。<br />因为之前活动出现过报名后但最后未出现造成损失的情况，所以咱们这次提前AA门票。</p>
-      <p className="mt-4">*请报名成功后半小时内向群主转zelle，并私信群主转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
-      <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-      <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+     <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+    <h2 className="text-2xl font-bold mb-2">4/6 周六 1PM - 3:30PM</h2>
+    <p className="mb-4">☕️小桌主题聊天<br />320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />Located in: The Westin Chicago River North<br />（限定报名人数：10人）</p>
+    <a href="https://www.eventbrite.co.nz/e/cfcht46-100pm-4pm-tickets-873105059737" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+    <p className="mb-4">报名成功的各位，饮品统一预定，饮品点单Google Form：<br />https://forms.gle/yDv2TzxYwsDQjpHAA</p>
+    <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
+    <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+
 
 {/*   #################################################################################################################### */}
 
