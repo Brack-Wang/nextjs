@@ -13,6 +13,11 @@ import Link from 'next/link';
 const eventsData = [
   // Add the events as the following template ahead
    {
+    imageUrl: '/laser tag.jpg', // 替换为图片路径
+    websiteUrl: 'http://xhslink.com/nQnUeF', // 替换为对应的网站链接
+    altText: '3/30 Laser Tag版真人室内CS@Combat Chicago'
+   },
+   {
     imageUrl: '/0323bowling.jpg', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/NaFwUE', // 替换为对应的网站链接
     altText: '3/23 保龄球@Pinstripes'
