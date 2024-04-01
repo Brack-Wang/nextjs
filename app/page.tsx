@@ -27,7 +27,7 @@ export default function Home() {
     <a href="https://www.eventbrite.co.nz/e/cfcht46-100pm-4pm-tickets-873105059737" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
     <a href="https://forms.gle/yDv2TzxYwsDQjpHAA" target="_blank" className="inline-block bg-yellow-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">饮品点单🔗</a>
     <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
-    <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+    <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
 
 
 {/*   #################################################################################################################### */}
