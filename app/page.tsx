@@ -25,7 +25,7 @@ export default function Home() {
     <h2 className="text-2xl font-bold mb-2">4/6 周六 1PM - 3:30PM</h2>
     <p className="mb-4">☕️小桌主题聊天<br />320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />Located in: The Westin Chicago River North<br />（限定报名人数：10人）</p>
     <a href="https://www.eventbrite.co.nz/e/cfcht46-100pm-4pm-tickets-873105059737" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-    <p className="mb-4">报名成功的各位，饮品统一预定，饮品点单Google Form：<br />https://forms.gle/yDv2TzxYwsDQjpHAA</p>
+    <a href="https://forms.gle/yDv2TzxYwsDQjpHAA" target="_blank" className="inline-block bg-yellow-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">饮品点单🔗</a>
     <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
     <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
 
