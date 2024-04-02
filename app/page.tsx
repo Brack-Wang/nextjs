@@ -24,7 +24,7 @@ export default function Home() {
      <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
     <h2 className="text-2xl font-bold mb-2">4/6 周六 1PM - 3:30PM</h2>
     <p className="mb-4">☕️小桌主题聊天<br />320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />从酒店入口进就行！（酒店名：The Westin Chicago River North）<br />（限定报名人数：9人）</p>
-   <h2 className="mt-2">本次话题包括：旅游、家乡、工作、户外、运动、日常娱乐（游戏，电视剧，kpop，动漫）、艺术人文（书籍，音乐，艺术，历史，歌剧，话剧，电影）、萌宠、养生 （睡觉，茶）、大家是如何留美的、做饭（一人食，大鱼大肉）、刚搬来芝加哥（美国）的适应期生活</h2>
+   <div id="smallText"> className="mt-2">本次话题包括：旅游、家乡、工作、户外、运动、日常娱乐（游戏，电视剧，kpop，动漫）、艺术人文（书籍，音乐，艺术，历史，歌剧，话剧，电影）、萌宠、养生 （睡觉，茶）、大家是如何留美的、做饭（一人食，大鱼大肉）、刚搬来芝加哥（美国）的适应期生活</div>
     <a href="https://www.eventbrite.co.nz/e/cfcht46-100pm-4pm-tickets-873105059737" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
     <h2 className="font-bold mt-4">报名成功后的参与者请点单</h2>
     <a href="https://forms.gle/yDv2TzxYwsDQjpHAA" target="_blank" className="inline-block bg-yellow-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">饮品点单🔗</a>
