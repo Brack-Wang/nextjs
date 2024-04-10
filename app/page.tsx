@@ -21,14 +21,18 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
-     <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-    <h2 className="text-2xl font-bold mb-2">4/6 周六 1PM - 3:30PM</h2>
-    <p className="mb-4">☕️小桌主题聊天<br />320 River Bar<br />📍320 N Dearborn St, Chicago, IL 60654<br />从酒店入口进就行！（酒店名：The Westin Chicago River North）<br />（限定报名人数：9人）</p>
-    <a href="https://www.eventbrite.co.nz/e/cfcht46-100pm-4pm-tickets-873105059737" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-    <h2 className="font-bold mt-4">报名成功后的参与者请点单</h2>
-    <a href="https://forms.gle/yDv2TzxYwsDQjpHAA" target="_blank" className="inline-block bg-yellow-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">饮品点单🔗</a>
-    <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，平台waitlist将自动补位，请各位留意自己的邮箱</p>
-    <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+      <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+      <h2 className="text-2xl font-bold mb-2">4/13 周六 3:30 PM - 5:00 PM</h2>
+      <p className="mb-4">WhirlyBall<br />（坐着碰碰车拿着拍子玩篮球）<br />限定报名人数：14人</p>
+      <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
+      <a href="https://www.eventbrite.com/e/cfcht413-330pm-500pm-whirlyball-chicago-tickets-880615002177" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+      <p className="mt-4">价格：$税后24.57/人<br />Zelle: Tianyou Luo, 4707753396</p>
+      <p className="mt-4">*定金已付好，到店后管理员会付完全款</p>
+      <p className="mt-4">*因为之前活动出现过报名后未出现而造成损失的情况，所以咱们这次提前AA门票</p>
+      <p className="mt-4">*请报名成功后于周三11:59pm前zelle，备注Eventbrite报名名字，否则将取消名额</p>
+      <p className="mt-4">*如果报名后临时有事无法出席，请联系群里其他小伙伴进行转票哦</p>
+      <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+
 
 
 {/*   #################################################################################################################### */}
