@@ -23,7 +23,7 @@ export default function Home() {
       {/* Event Details Replacement Start */}
       <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
       <h2 className="text-2xl font-bold mb-2">4/13 周六 3:30 PM - 5:00 PM</h2>
-      <p className="mb-4">WhirlyBall<br />（坐着碰碰车拿着拍子玩篮球）<br />限定报名人数：14人</p>
+      <p className="mb-4">WhirlyBall<br />（坐着碰碰车拿着拍子玩篮球）<a href="https://www.whirlyball.com/" target="_blank" className="text-blue-500 hover:text-blue-700">了解更多</a><br />限定报名人数：14人</p>
       <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
       <a href="https://www.eventbrite.com/e/cfcht413-330pm-500pm-whirlyball-chicago-tickets-880615002177" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
       <p className="mt-4">价格：$税后24.57/人<br />Zelle: Tianyou Luo, 4707753396</p>
@@ -32,6 +32,7 @@ export default function Home() {
       <p className="mt-4">*请报名成功后于周三11:59pm前zelle，备注Eventbrite报名名字，否则将取消名额</p>
       <p className="mt-4">*如果报名后临时有事无法出席，请联系群里其他小伙伴进行转票哦</p>
       <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+
 
 
 
