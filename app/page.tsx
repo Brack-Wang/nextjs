@@ -23,6 +23,7 @@ export default function Home() {
       {/* Event Details Replacement Start */}
       <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
       <h2 className="text-2xl font-bold mb-2">4/13 周六 3:10 PM - 5:00 PM</h2>
+      <h2 className="text-2xl font-bold mb-2">活动将于3:10开始哦</h2>
       <p className="mb-4">WhirlyBall<br /> <a href="https://www.whirlyball.com/" target="_blank" className="text-blue-500 hover:text-blue-700">（坐着碰碰车拿着拍子玩球）</a><br />限定报名人数：14人</p>
       <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
       <a href="https://www.eventbrite.com/e/cfcht413-330pm-500pm-whirlyball-chicago-tickets-880615002177" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
