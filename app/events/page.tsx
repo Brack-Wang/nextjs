@@ -13,24 +13,29 @@ import Link from 'next/link';
 const eventsData = [
   // Add the events as the following template ahead
    {
+    imageUrl: '/0413whirlyball.jpg', // 替换为图片路径
+    websiteUrl: 'http://xhslink.com/p8YcyG', // 替换为对应的网站链接
+    altText: '4/13 Whirlyball @WhirlyBall Chicago'
+   },
+   {
     imageUrl: '/0406riverbar.jpg', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/EZ9q3F', // 替换为对应的网站链接
-    altText: '4/6 主题性小桌聊天@320 River Bar+炸鸡@CM Korean Fried Chicken'
+    altText: '4/6 主题性小桌聊天 @320 River Bar'
    },
    {
     imageUrl: '/laser tag.jpg', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/nQnUeF', // 替换为对应的网站链接
-    altText: '3/30 Laser Tag版真人室内CS@Combat Chicago'
+    altText: '3/30 Laser Tag版真人室内CS @Combat Chicago'
    },
    {
     imageUrl: '/0323bowling.jpg', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/NaFwUE', // 替换为对应的网站链接
-    altText: '3/23 保龄球@Pinstripes'
+    altText: '3/23 保龄球 @Pinstripes'
    },
    {
     imageUrl: '/0316activate.jpg', // 替换为图片路径
     websiteUrl: 'http://xhslink.com/J5WxgE', // 替换为对应的网站链接
-    altText: '3/16 超火室内游戏@Activate+粤菜@D Cuisine', // 图片的替代文本
+    altText: '3/16 超火室内游戏 @Activate & 粤菜 @D Cuisine', // 图片的替代文本
    },
    {
     imageUrl: '/0310CF.png', // 替换为图片路径
