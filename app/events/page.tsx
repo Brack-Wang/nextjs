@@ -58,7 +58,7 @@ const eventsData = [
     altText: '2/22 香薰制作 @AURA Candle Bar',
   },
   {
-    imageUrl: '/chushang.jpg',
+    imageUrl: '/chushang.png',
     websiteUrl: 'http://xhslink.com/vtOz9C',
     altText: '2/20 Chat @厨尚JM Seafood ',
   },
