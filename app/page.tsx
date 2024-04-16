@@ -20,19 +20,19 @@ export default function Home() {
 
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
-      {/* Event Details Replacement Start */}
-      <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-      <h2 className="text-2xl font-bold mb-2">4/13 周六 3:10 PM - 5:00 PM</h2>
-      <h2 className="text-2xl font-bold mb-2">活动将于3:10开始哦</h2>
-      <p className="mb-4">WhirlyBall<br /> <a href="https://www.whirlyball.com/" target="_blank" className="text-blue-500 hover:text-blue-700">（坐着碰碰车拿着拍子玩球）</a><br />限定报名人数：14人</p>
-      <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
-      <a href="https://www.eventbrite.com/e/cfcht413-330pm-500pm-whirlyball-chicago-tickets-880615002177" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-      <p className="mt-4">价格：$税后24.57/人<br />Zelle: Tianyou Luo, 4707753396</p>
-      <p className="mt-4">*定金已付好，到店后管理员会付完全款</p>
-      <p className="mt-4">*因为之前活动出现过报名后未出现而造成损失的情况，所以咱们这次提前AA门票</p>
-      <p className="mt-4">*请报名成功后于周三11:59pm前zelle，备注Eventbrite报名名字，否则将取消名额</p>
-      <p className="mt-4">*如果报名后临时有事无法出席，请联系群里其他小伙伴进行转票哦</p>
-      <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+  {/* Event Details Replacement Start */}
+    <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+    <h2 className="text-2xl font-bold mb-2">4/20 周六 2:40 PM - 4:30 PM</h2>
+    <p className="mb-4">🔥Activate<br />32.24🔪/人，限定报名人数：21人</p>
+    <p className="mb-4">地点：Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />距离loop车程大概25分钟左右，请各位合理安排出行时间</p>
+    <a href="https://www.eventbrite.com/e/cfcht420-240pm-activate-tickets-883886537427?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+    <p className="mt-4">*报名当天23:59前向管理员转zelle，并私信群主/管理员转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
+    <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+    <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
+    <h2 className="text-2xl font-bold mb-2">每周固定报名时间：周三8PM</h2>
+  {/* Event Details Replacement End */}
+
+
 
 
 
