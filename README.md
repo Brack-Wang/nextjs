@@ -29,7 +29,7 @@ You could simply 1. use Chatgpt to generate the content , and 2.replace the mark
         <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
         <p className="mt-4">*请大家至少提前一天取消</p>
         <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
-        <h2 className="text-2xl font-bold mb-2">每周固定报名时间：周三8PM</h2>
+          <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
       {/* Event Details Replacement End */}
 
 please change the following content for the next.js as above sample JSX code format, do not use react, no need <div>:
