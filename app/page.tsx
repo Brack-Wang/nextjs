@@ -28,7 +28,7 @@ export default function Home() {
 <a href="https://www.eventbrite.com/e/cfcht420-240pm-activate-tickets-883886537427?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 <p className="mt-4">Zelle:<br />SHENGKUN CUI<br />shengkunrz@hotmail.com</p>
 <p className="mt-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们这次提前AA门票。</p>
-<p className="mt-4">*请报名当天23:59前向管理员转zelle，并私信管理员Jack 小红书@瑶夜的猫 转账zelle名字+Eventbrite报名名字，否则将取消名额</p>
+<p className="mt-4">*请报名当天23:59前向管理员转zelle，并私信管理员杰克崔 小红书@瑶夜的猫 转账zelle名字+Eventbrite报名名字，否则将取消名额</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
     <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
