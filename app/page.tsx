@@ -21,11 +21,10 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
   {/* Event Details Replacement Start */}
-<h2 className="text-2xl font-bold mb-2">【本周安排】报名截止</h2>
+<h2 className="text-2xl font-bold mb-2">【本周安排】报名已截止</h2>
 <h2 className="text-2xl font-bold mb-2">4/20 周六 2:40 PM - 4:30 PM</h2>
 <p className="mb-4">地点：Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />距离loop车程大概25分钟左右，请各位合理安排出行时间</p>
 <p className="mt-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们这次提前AA门票。</p>
-<p className="mt-4">*请在eventbrite报名后，当天23:59前向群主转zelle，并私信群主转账zelle名字+Eventbrite报名名字，否则将取消名额</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
     <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
