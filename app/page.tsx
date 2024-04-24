@@ -29,7 +29,7 @@ export default function Home() {
   <p className="mb-4">报名成功的各位，饮品统一预订点单，请打开Google Form链接填写：<br /><a href="https://forms.gle/xmxDWuqAc7m5CMsX9" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">填写表单🔗</a></p>
   <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱点击确认补位</p>
   <p className="mt-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共4个不同主题的聚点，每个聚点共4人，45分钟Shift一次到其他主题，共2轮</p>
-  <p className="mt-4">本次话题包括：<br />刚搬来芝加哥（美国）的适应期生活、平时如何放松 - 平衡工作/学习和生活、租房/买房/股票、喜欢的城市、家乡</p>
+  <p className="mt-4">本次话题包括：<br />刚搬来芝加哥（美国）的适应期生活、平时如何放松 - 平衡工作/学习和生活、租房/买房/股票、喜欢的城市、家乡、工作、旅游</p>
   <p className="mt-4 font-bold">预告：</p>
   <p className="mt-4">1. 下周BBQ活动！<br />2. 下周开始，报名时间正式变更为每周一8PM！请各位注意</p>
   <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
