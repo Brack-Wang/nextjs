@@ -21,13 +21,18 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
   {/* Event Details Replacement Start */}
-<h2 className="text-2xl font-bold mb-2">【本周安排】报名已截止</h2>
-<h2 className="text-2xl font-bold mb-2">4/20 周六 2:40 PM - 4:30 PM</h2>
-<p className="mb-4">地点：Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />距离loop车程大概25分钟左右，请各位合理安排出行时间</p>
-<p className="mt-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们这次提前AA门票。</p>
-<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-<p className="mt-4 font-bold">那么各位，周六见！🌞</p>
-    <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
+  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+  <h2 className="text-2xl font-bold mb-2">4/27 周六 1PM - 4PM</h2>
+  <p className="mb-4">☕️小桌Shift制主题聊天（i人友好）<br />限定报名人数：11人，Waitlist人数：3人（微信4，小红书7）</p>
+  <p className="mb-4">地点：320 River Bar<br />320 North Dearborn Street Chicago, IL 60654<br />建议导航到酒店！直接从酒店入口进就行！（酒店名：The Westin Chicago River North）</p>
+  <a href="https://www.eventbrite.com/e/887360287507?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+  <p className="mb-4">报名成功的各位，饮品统一预订点单，请打开Google Form链接填写：<br /><a href="https://forms.gle/xmxDWuqAc7m5CMsX9" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">填写表单🔗</a></p>
+  <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱点击确认补位</p>
+  <p className="mt-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共4个不同主题的聚点，每个聚点共4人，45分钟Shift一次到其他主题，共2轮</p>
+  <p className="mt-4">本次话题包括：<br />刚搬来芝加哥（美国）的适应期生活、平时如何放松 - 平衡工作/学习和生活、租房/买房/股票、喜欢的城市、家乡</p>
+  <p className="mt-4 font-bold">预告：</p>
+  <p className="mt-4">1. 下周BBQ活动！<br />2. 下周开始，报名时间正式变更为每周一8PM！请各位注意</p>
+
   {/* Event Details Replacement End */}
 
 
