@@ -13,8 +13,8 @@ import Link from 'next/link';
 const eventsData = [
      // Add the events as the following template ahead
   {
-    imageUrl: '/name.xxx', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    websiteUrl: 'http://xhslink.com/u4Qy9C', // 替换为对应的网站链接
+    imageUrl: '/0420activate.png', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/h7rcrH', // 替换为对应的网站链接
     altText: '4/20 主题性小桌聊天@Sawada Coffee', // 图片的替代文本
   },
   // Add the events as the following template ahead
