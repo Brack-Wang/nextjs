@@ -10,8 +10,7 @@
 
 import Link from 'next/link';
 
-const groupsData = [
-     // Add the events as the following template ahead
+const eventsData = [
   {
     imageUrl: '/xiaohongshu2.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     // websiteUrl: 'http://xhslink.com/h7rcrH', // 替换为对应的网站链接
@@ -29,16 +28,16 @@ const groupsData = [
   },
 ];
 
-export default function groups() {
+export default function events() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-8">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {groupsData.map((group, index) => (
+        {eventsData.map((event, index) => (
           <div key={index} className="max-w-sm rounded overflow-hidden shadow-lg">
-            <img className="w-full" src={group.imageUrl} alt={group.altText} />
+            <img className="w-full" src={event.imageUrl} alt={event.altText} />
             <div className="px-6 py-4">
-                <a href={group.websiteUrl} target="_blank" rel="noopener noreferrer" className="text-xl font-bold hover:underline">
-                  {group.altText}
+                <a href={event.websiteUrl} target="_blank" rel="noopener noreferrer" className="text-xl font-bold hover:underline">
+                  {event.altText}
                 </a>
             </div>
           </div>
