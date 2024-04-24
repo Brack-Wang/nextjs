@@ -23,7 +23,7 @@ export default function Home() {
   {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">4/27 周六 1PM - 4PM</h2>
-  <p className="mb-4">☕️小桌Shift制主题聊天（i人友好）<br />限定报名人数：11人，Waitlist人数：3人（微信4，小红书7）</p>
+  <p className="mb-4">☕️小桌Shift制主题聊天（i人友好）<br />限定报名人数：11人，Waitlist人数：3人</p>
   <p className="mb-4">地点：320 River Bar<br />320 North Dearborn Street Chicago, IL 60654<br />建议导航到酒店！直接从酒店入口进就行！（酒店名：The Westin Chicago River North）</p>
   <a href="https://www.eventbrite.com/e/887360287507?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
   <p className="mb-4">报名成功的各位，饮品统一预订点单，请打开Google Form链接填写：<br /><a href="https://forms.gle/xmxDWuqAc7m5CMsX9" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">填写表单🔗</a></p>
