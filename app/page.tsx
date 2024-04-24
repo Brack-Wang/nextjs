@@ -32,7 +32,8 @@ export default function Home() {
   <p className="mt-4">本次话题包括：<br />刚搬来芝加哥（美国）的适应期生活、平时如何放松 - 平衡工作/学习和生活、租房/买房/股票、喜欢的城市、家乡</p>
   <p className="mt-4 font-bold">预告：</p>
   <p className="mt-4">1. 下周BBQ活动！<br />2. 下周开始，报名时间正式变更为每周一8PM！请各位注意</p>
-
+  <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
+        
   {/* Event Details Replacement End */}
 
 
