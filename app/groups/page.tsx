@@ -13,17 +13,17 @@ import Link from 'next/link';
 const eventsData = [
   {
     imageUrl: '/xiaohongshu2.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    // websiteUrl: 'http://xhslink.com/h7rcrH', // 替换为对应的网站链接
+    // websiteUrl: ' ', // 替换为对应的网站链接
     altText: 'CFCHT小红书群--每日分享🎁', // 图片的替代文本
   },
   {
     imageUrl: '/ershouqun.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    // websiteUrl: 'http://xhslink.com/h7rcrH', // 替换为对应的网站链接
+    // websiteUrl: ' ', // 替换为对应的网站链接
     altText: 'CFCHT微信二手群--无广告🪟', // 图片的替代文本
   },
   {
     imageUrl: '/manager.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    // websiteUrl: 'http://xhslink.com/h7rcrH', // 替换为对应的网站链接
+    // websiteUrl: ' ', // 替换为对应的网站链接
     altText: 'CFCHT管理员--🔗联系，备注来意', // 图片的替代文本
   },
 ];
@@ -36,7 +36,7 @@ export default function events() {
           <div key={index} className="max-w-sm rounded overflow-hidden shadow-lg">
             <img className="w-full" src={event.imageUrl} alt={event.altText} />
             <div className="px-6 py-4">
-                <a href={event.websiteUrl} target="_blank" rel="noopener noreferrer" className="text-xl font-bold hover:underline">
+                <a target="_blank" rel="noopener noreferrer" className="text-xl font-bold hover:underline">
                   {event.altText}
                 </a>
             </div>
