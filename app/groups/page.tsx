@@ -18,7 +18,7 @@ const groupsData = [
   },
   {
     imageUrl: '/ershouqun.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    altText: 'CFCHT微信二手群--无广告🪟', // 图片的替代文本
+    altText: 'CFCHT微信二手群--无广告🪟 （为确保无广二维码已停用，请想进群的大家添加管理员微信）', // 图片的替代文本
   },
   {
     imageUrl: '/manager.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
