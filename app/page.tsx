@@ -29,7 +29,7 @@ export default function Home() {
 <p className="mb-4">BBQ参与定金：$10/人<br />*10刀每人为BBQ预付款，用于购买食材和器材，具体数额将在BBQ Event后通知大家补或返还差价。<br />*请在eventbrite报名后，当天23:59前 小红书私信联系管理员@瑶夜的猫 Eventbrite报名所用的名字，管理员会私信Zelle转账信息。请在报名当天零点之前联系管理员并转账，否则名额将作废。<br />*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">辛苦这次主负责人Jack！</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
-```
+
   <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
   <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
         
