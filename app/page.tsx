@@ -21,7 +21,6 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
   {/* Event Details Replacement Start */}
- ```jsx
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">5/4 周六 12:30 - 5:00PM</h2>
 <p className="mb-4">🔥BBQ<br />定金（预付款）10🔪/人<br />限定报名人数：20人</p>
