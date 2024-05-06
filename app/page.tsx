@@ -28,7 +28,7 @@ export default function Home() {
 <p className="mb-4">🔥Special Ops: Mysterious Market<br />45.76🔪/人，限定报名人数：7人，集合时间：1:10 PM</p>
 <p className="mb-4">🔥The Heist<br />45.76🔪/人，限定报名人数：7人，集合时间：1:30 PM</p>
 <p className="mb-4">地点：The Escape Game Chicago<br />📍42 E Ontario St, Chicago, IL 60611<br />店家票价：$45.76/人</p>
-<a href="" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Special Ops报名🔗</a><br>
+<a href="" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Special Ops报名🔗</a>
 <a href="" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">The Heist报名🔗</a>
 <p className="mb-4">管理员已付好定金，到店后管理员会付完全款。</p>
 <p className="mb-4">因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们这次提前AA门票。</p>
