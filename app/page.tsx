@@ -28,8 +28,8 @@ export default function Home() {
 <p className="mb-4">🔥Special Ops: Mysterious Market<br />45.76🔪/人，限定报名人数：7人，集合时间：1:10 PM</p>
 <p className="mb-4">🔥The Heist<br />45.76🔪/人，限定报名人数：7人，集合时间：1:30 PM</p>
 <p className="mb-4">地点：The Escape Game Chicago<br />📍42 E Ontario St, Chicago, IL 60611<br />店家票价：$45.76/人</p>
-<a href="" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Special Ops报名🔗</a>
-<a href="" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">The Heist报名🔗</a>
+<a href="https://www.eventbrite.com/e/cfcht511-110pm-escape-game-mysterious-market-tickets-898868278217?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Special Ops报名🔗</a>
+<a href="https://www.eventbrite.com/e/cfcht511-130pm-escape-game-the-heist-tickets-898849853107?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">The Heist报名🔗</a>
 <p className="mb-4">管理员已付好定金，到店后管理员会付完全款。</p>
 <p className="mb-4">因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们这次提前AA门票。</p>
 <p className="mb-4">*请报名当天23:59前私信管理员@Justin(奶牛猫头像)转zelle，并提供 转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
