@@ -22,18 +22,13 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
   {/* Event Details Replacement Start */}
 
-  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">5/11 周六 1:10 PM/1:30 PM - 3:00 PM</h2>
-<p className="mb-4">🔥Escape Game 密室逃脱</p>
-<p className="mb-4">🔥Special Ops: Mysterious Market<br />45.76🔪/人，限定报名人数：7人，集合时间：1:10 PM</p>
-<p className="mb-4">🔥The Heist<br />45.76🔪/人，限定报名人数：7人，集合时间：1:30 PM</p>
-<p className="mb-4">地点：The Escape Game Chicago<br />📍42 E Ontario St, Chicago, IL 60611<br />店家票价：$45.76/人</p>
-<a href="https://www.eventbrite.com/e/cfcht511-110pm-escape-game-mysterious-market-tickets-898868278217?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Special Ops报名🔗</a>
-<a href="https://www.eventbrite.com/e/cfcht511-130pm-escape-game-the-heist-tickets-898849853107?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">The Heist报名🔗</a>
-<p className="mb-4">管理员已付好定金，到店后管理员会付完全款。</p>
-<p className="mb-4">因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们这次提前AA门票。</p>
-<p className="mb-4">*请报名当天23:59前私信管理员@Justin(奶牛猫头像)转zelle，并提供 转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
-<p className="mb-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+<h2 className="text-2xl font-bold mb-2">5/18 周六 1:30PM - 3:30PM</h2>
+<p className="mb-4">☕️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：7人</p>
+<p className="mb-4">地点：Sawada Coffee<br />112 North Green Street Chicago, IL 60607</p>
+<a href="https://forms.gle/xmxDWuqAc7m5CMsX9" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+<p className="mt-4">*报名成功后，如无法出席请周四23:59前在eventbrite取消</p>
+<p className="mt-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共2个不同主题的聚点，每个聚点共4位参与者，45分钟Shift一次到其他主题，共2轮</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
 
   <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
