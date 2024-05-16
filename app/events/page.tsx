@@ -12,7 +12,12 @@ import Link from 'next/link';
 
 const eventsData = [
      // Add the events as the following template ahead
-      {
+     {
+    imageUrl: '/0511密室.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/x8vfmJ', // 替换为对应的网站链接
+    altText: '5/4 密逃 @The Escape Game Chicago', // 图片的替代文本
+  },
+   {
     imageUrl: '/bbq.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/HsCa1I', // 替换为对应的网站链接
     altText: '5/4 BBQ @Blackwell Forest Preserve', // 图片的替代文本
