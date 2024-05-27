@@ -28,8 +28,8 @@ export default function Home() {
       <a href="https://www.eventbrite.com/e/cfcht61-240pm-laser-tag-tickets-913951342067" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
       <p className="mb-4">Combat Chicago<br />📍5520 W 111th St, Unit 1, Oak Lawn, IL 60453<br />距离loop车程大概40分钟左右，请各位合理安排出行时间</p>
       <p className="mb-4">店家票价：含税$29.15/人 </p>
-      <p className="mb-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com<br />群主已付好定金，到店后群主会付完全款。<br />因为之前活动出现过报名后但最后未出现造成损失的情况，所以咱们这次提前AA门票。</p>
-      <p className="mt-4">*请报名成功后半小时内向群主转zelle，并私信群主转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
+      <p className="mb-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现造成损失的情况，所以咱们这次提前AA门票。</p>
+      <p className="mt-4">*请报名成功后当天23:59前私信管理员@Justin（付款管理员小红书昵称）Eventbrite报名名字，管理员将告知zelle转账方式，否则将取消名额</p>
       <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
       <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
 
