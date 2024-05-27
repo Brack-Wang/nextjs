@@ -23,14 +23,15 @@ export default function Home() {
   {/* Event Details Replacement Start */}
 
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">5/18 周六 1:30PM - 3:30PM</h2>
-<p className="mb-4">☕️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：7人</p>
-<p className="mb-4">地点：Sawada Coffee<br />112 North Green Street Chicago, IL 60607</p>
-<a href="https://www.eventbrite.com/e/cfcht0518-130pm-outdoor-coffee-chat-tickets-904272221557?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<a href="https://forms.gle/vcZr4jbJCDEeRWfq5" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">饮品预订点单🔗</a>
-<p className="mt-4">*报名成功后，如无法出席请周四23:59前在eventbrite取消</p>
-<p className="mt-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共2个不同主题的聚点，每个聚点共4位参与者，45分钟Shift一次到其他主题，共2轮</p>
-<p className="mt-4 font-bold">那么各位，周六见！🌞</p>
+<h2 className="text-2xl font-bold mb-2">6/1 周六 2:40PM - 4:30PM </h2>
+      <p className="mb-4">🔥Laser Tag<br />29.15🔪/人<br />限定报名人数：15人</p>
+      <a href="https://www.eventbrite.com/e/cfcht61-240pm-laser-tag-tickets-913951342067" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+      <p className="mb-4">Combat Chicago<br />📍5520 W 111th St, Unit 1, Oak Lawn, IL 60453<br />距离loop车程大概40分钟左右，请各位合理安排出行时间</p>
+      <p className="mb-4">店家票价：含税$29.15/人 </p>
+      <p className="mb-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com<br />群主已付好定金，到店后群主会付完全款。<br />因为之前活动出现过报名后但最后未出现造成损失的情况，所以咱们这次提前AA门票。</p>
+      <p className="mt-4">*请报名成功后半小时内向群主转zelle，并私信群主转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
+      <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+      <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
 
   <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
   <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
