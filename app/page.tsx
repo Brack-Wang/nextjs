@@ -23,7 +23,7 @@ export default function Home() {
   {/* Event Details Replacement Start */}
 
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">6/1 周六 2:15PM - 4:30PM </h2>
+<h2 className="text-2xl font-bold mb-2">6/8 周六 2:15PM - 4:30PM </h2>
       <p className="mb-4">🔥Go Ape Treetop Journey<br />28.6🔪/人<br />限定报名人数：10人</p>
       <a href="https://www.eventbrite.com/e/cfcht068-215pm-go-ape-treetop-journey-tickets-918556285577" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
       <p className="mb-4">Go Ape!<br />📍1100 Ogden Avenue, Western Springs, IL 60558<br />距离loop车程大概30分钟左右，请各位合理安排出行时间</p>
