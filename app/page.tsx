@@ -23,10 +23,10 @@ export default function Home() {
   {/* Event Details Replacement Start */}
 
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">06/15 周六 1:30PM - 4:00PM</h2>
-<p className="mb-4">☕️小桌Shift制主题聊天+西北大学湖边散步（i人友好）<br />限定报名人数：11人</p>
+<h2 className="text-2xl font-bold mb-2">06/15 周六 1:40PM - 4:00PM</h2>
+<p className="mb-4">☕️小桌Shift制主题聊天+西北大学湖边散步（i人友好）<br />限定报名人数：12人</p>
 <p className="mb-4">地点：Gillson Park<br />Lake Ave and Michigan Ave, Wilmette, IL 60091</p>
-<a href="Placeholder" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+<a href="https://www.eventbrite.com/e/cfcht615-140pm-tickets-923296022257?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 <p className="mt-4">*报名成功后，如无法出席请周四23:59前在eventbrite取消</p>
 <p className="mt-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共3个不同主题的聚点，每个聚点共4位参与者，45分钟Shift一次到其他主题，共2轮</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
