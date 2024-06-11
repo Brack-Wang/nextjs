@@ -12,6 +12,21 @@ import Link from 'next/link';
 
 const eventsData = [
      // Add the events as the following template ahead
+        {
+    imageUrl: '/68goape.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/', // 替换为对应的网站链接
+    altText: '6/8 🐒户外丛林探险 @Go Apes Chicago', // 图片的替代文本
+  },
+        {
+    imageUrl: '/61cs.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/KcGo1L', // 替换为对应的网站链接
+    altText: '6/1 Laser Tag版真人室内CS @Combat Chicago', // 图片的替代文本
+  },
+        {
+    imageUrl: '/518小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/bKPo1L', // 替换为对应的网站链接
+    altText: '5/18 主题性小桌聊天 @Sawada Coffee', // 图片的替代文本
+  },
      {
     imageUrl: '/0511密室.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/x8vfmJ', // 替换为对应的网站链接
