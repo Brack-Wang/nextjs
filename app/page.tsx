@@ -27,7 +27,6 @@ export default function Home() {
 <p className="mb-4">🔥Strawberry Picking at Stade's Farm<br />0🔪/人<br />限定报名人数：10人</p>
 <a href="https://www.eventbrite.com/e/cfcht0622-1145am-stades-farm-market-tickets-927579253517?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 <p className="mb-4">Stade's Farm U-Pick<br />📍3709 Miller Road McHenry, IL 60051 <br />距离loop车程大概1小时45分钟左右，请各位合理安排出行时间</p>
-<p className="mb-4">到现场后各自付款。</p>
 <p className="mt-4">*如报名后无法出席，请在本周四前联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
 
