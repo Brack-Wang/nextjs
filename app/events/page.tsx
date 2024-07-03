@@ -12,6 +12,16 @@ import Link from 'next/link';
 
 const eventsData = [
      // Add the events as the following template ahead
+          {
+    imageUrl: '/630hiking.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://', // 替换为对应的网站链接
+    altText: '6/30 Hiking🚶 @Starved Rock State Park', // 图片的替代文本
+  },
+       {
+    imageUrl: '/622草莓 2.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/kOm0iO', // 替换为对应的网站链接
+    altText: '6/22 摘草莓🍓 @Stade‘s Farm and Market', // 图片的替代文本
+  },
     {
     imageUrl: '/618野餐小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/tJTmKM', // 替换为对应的网站链接
