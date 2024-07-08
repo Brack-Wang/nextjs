@@ -22,13 +22,14 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
   {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">6/30 周日 2:15 PM - 4:30 PM </h2>
-      <p className="mb-4">🔥Starved Rock State Park<br />0.0🔪/人<br />限定报名人数：10人</p>
-      <a href="https://www.eventbrite.com/e/cfcht0630-215pm-starved-rock-state-park-hiking-tickets-934421378497?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-      <p className="mb-4">Starved Rock State Park Visitor Center<br />📍2678 East 873 Road Oglesby, IL 61348<br />距离loop车程大概1小时45分钟左右，请各位合理安排出行时间</p>
-      <p className="mb-4">因天气原因，本周活动改为<b>周日</b>下午，活动前后会组织聚餐。</p>
-      <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-      <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+<h2 className="text-2xl font-bold mb-2">7/13 周六 2:00PM - 4:00PM</h2>
+<p className="mb-4">☕️小桌Shift制主题聊天 （i人友好）<br />限定报名人数：8人</p>
+<p className="mb-4">地点：Sawada Coffee<br />112 North Green Street Chicago, IL 60607</p>
+<a href="https://www.eventbrite.com/e/cfcht0713-200pm-outdoor-coffee-chat-tickets-943685006257?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+<a href="https://forms.gle/WJp6oLZPvmXqf71p8" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">饮品预订点单🔗</a>
+<p className="mt-4">*报名成功后，如无法出席请周四23:59前在eventbrite取消</p>
+<p className="mt-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共2个不同主题的聚点，每个聚点共4位参与者，45分钟Shift一次到其他主题，共2轮</p>
+<p className="mt-4 font-bold">那么各位，周六见！🌞7</p>
 
   <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
   <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
