@@ -23,7 +23,7 @@ export default function Home() {
   {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">7/20 周六 3:00PM - 4:45PM</h2>
-<p className="mb-4">🔥Activate <br />限定报名人数：13人</p>
+<p className="mb-4">🔥Activate返场啦 <br />限定报名人数：13人</p>
 <p className="mb-4">地点：Activate - Chicago (Oak Brook)<br />📍1600 16th St Unit 6, Oak Brook, IL 60523<br />距离loop车程大概35分钟左右，请各位合理安排出行时间<br />活动后计划一起聚餐</p>
 <a href="https://www.eventbrite.com/e/cfcht720-300-pm-activate-tickets-948294182427?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 <p className="mt-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们提前AA门票。</p>
