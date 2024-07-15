@@ -29,7 +29,7 @@ export default function Home() {
 <p className="mt-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们提前AA门票。</p>
 <p className="mt-4">*请在eventbrite报名后，当天23:59前私信管理员@Timaximum （付款管理员小红书昵称）Eventbrite报名名字，管理员将告知zelle转账方式，否则将取消名额</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-<p className="mt-4 font-bold">那么各位，周六见！🌞7</p>
+<p className="mt-4 font-bold">那么各位，周六见！🌞</p>
 
   <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
   <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
