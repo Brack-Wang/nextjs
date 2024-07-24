@@ -26,8 +26,7 @@ export default function Home() {
 <p className="mb-4">🔥万众期待的Six Flags! <br />限定报名人数：12人</p>
 <p className="mb-4">地点：Six Flags Great America <br />📍1 Great America Parkway, Gurnee, IL 60031<br />距离loop车程大概1小时左右，请各位合理安排出行时间</p>
 <a href="https://www.eventbrite.com/e/cfcht720-300-pm-activate-tickets-948294182427?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mt-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们提前AA门票。</p>
-<p className="mt-4">*请在eventbrite报名后，当天23:59前私信管理员@Timaximum （付款管理员小红书昵称）Eventbrite报名名字，管理员将告知zelle转账方式，否则将取消名额</p>
+<p className="mt-4">本次报名不需要预付款，管理员会根据报名人数选择合适的个人或者团体票。</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
 
