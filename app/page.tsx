@@ -22,7 +22,7 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
   {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">7/27 周六 11:00AM - 10:00PM</h2>
+<h2 className="text-2xl font-bold mb-2">7/27 周六 11:00AM - 10:00PM。10:00PM为夜晚烟火时间，可根据个人需要安排具体离场时间。</h2>
 <p className="mb-4">🔥万众期待的Six Flags! <br />限定报名人数：12人</p>
 <p className="mb-4">地点：Six Flags Great America <br />📍1 Great America Parkway, Gurnee, IL 60031<br />距离loop车程大概1小时左右，请各位合理安排出行时间</p>
 <a href="https://www.eventbrite.com/e/cfcht0727-1100am-six-flags-great-america-chicago-tickets-956660596597?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
