@@ -24,6 +24,7 @@ export default function Home() {
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">8/3 周六 1:40PM - 4PM</h2>
 <p className="mb-4">小桌聊天Coffee Chat再度返场! <br />限定报名人数：8人</p>
+<p className="mb-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />本次话题多样化欢迎大家一起来聊天&认识朋友</p>
 <p className="mb-4">地点：Sawada Coffee <br />📍112 N Green St, Chicago, IL 60607</p>
 <a href="https://www.eventbrite.com/e/cfcht83-140pm-coffee-chat-tickets-965403426637?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 <p className="mt-4">*报名成功后无法出席，请在eventbrite取消</p>
