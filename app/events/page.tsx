@@ -12,9 +12,14 @@ import Link from 'next/link';
 
 const eventsData = [
      // Add the events as the following template ahead
+             {
+    imageUrl: '/0713小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/oxEFiR', // 替换为对应的网站链接
+    altText: '7/13 主题性小桌聊天 @Sawada Coffee', // 图片的替代文本
+  },
           {
     imageUrl: '/630hiking.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    websiteUrl: 'http://', // 替换为对应的网站链接
+    websiteUrl: 'http://xhslink.com/ddGFiR', // 替换为对应的网站链接
     altText: '6/30 Hiking🚶 @Starved Rock State Park', // 图片的替代文本
   },
        {
