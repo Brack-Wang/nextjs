@@ -22,13 +22,11 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
   {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">7/27 周六 11:00AM - 10:00PM(最晚)</h2>
-<p className="mb-4">🔥万众期待的Six Flags! <br />限定报名人数：12人</p>
-<p className="mb-4">地点：Six Flags Great America <br />📍1 Great America Parkway, Gurnee, IL 60031<br />距离loop车程大概1小时左右，请各位合理安排出行时间</p>
-<p className="mb-4">10:00PM为夜晚烟花表演时间，具体离场时间可根据个人需要自行安排。</p>
-<a href="https://www.eventbrite.com/e/cfcht0727-1100am-six-flags-great-america-chicago-tickets-956660596597?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mt-4">本次报名不需要预付款，管理员会根据报名人数选择合适的个人或者团体票。</p>
-<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+<h2 className="text-2xl font-bold mb-2">8/3 周六 1:40PM - 4PM</h2>
+<p className="mb-4">小桌聊天Coffee Chat再度返场! <br />限定报名人数：8人</p>
+<p className="mb-4">地点：Sawada Coffee <br />📍112 N Green St, Chicago, IL 60607</p>
+<a href="https://www.eventbrite.com/e/cfcht83-140pm-coffee-chat-tickets-965403426637?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+<p className="mt-4">*报名成功后无法出席，请在eventbrite取消</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
 
   <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
