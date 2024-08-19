@@ -23,7 +23,7 @@ export default function Home() {
 {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">8/24 周六 1:30 PM - 3:00 PM</h2>
-<p className="mb-4">🔥Mini桌聊天<br />限定人数：5人</p>
+<p className="mb-4">🔥小桌聊天<br />限定人数：5人</p>
 <p className="mb-4">📍Sawada Coffee</p>
 <a href="https://www.eventbrite.co.nz/e/coffee-chat-tickets-998669656827?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Eventribe报名🔗</a>
 <p className="mt-4">活动简介：本次话题多样化欢迎各位一起来聊天&认识朋友</p>
