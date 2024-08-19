@@ -32,7 +32,7 @@ export default function Home() {
 <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
 {/* Event Details Replacement End */}
-```​⬤
+
 
 
 
