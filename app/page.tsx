@@ -20,23 +20,19 @@ export default function Home() {
 
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
-  {/* Event Details Replacement Start */}
+{/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">8/17 周六 2:30 PM - 4:00 PM</h2>
-<p className="mb-4">🔥一起去Sandbox玩VR游戏吧！ <br />限定报名人数：9人</p>
-<p className="mb-4">活动简介：<br />每场最多容纳6人，我们预订了一间玩Squid Game，一间玩Amber Sky 2088<br />Squid Game官方介绍：https://sandboxvr.com/chicago/experience/squidgame<br />Amber Sky 2088官方介绍: https://sandboxvr.com/chicago/experience/ambersky<br />报名的朋友请看好报名的游戏场次哦~</p>
-<p className="mb-4">地点：Sandbox VR - Lincoln Commons <br />📍2359 N Lincoln Avenue, Chicago, IL 60614<br />近Brown/Red/Purple Line Fullerton站，商家也提供validated parking</p>
-<p className="mb-4">票价: <br />🔥Squid Game 含税 $59.40<br />🔥Amber Sky 2088 含税 $53.96</p>
-<a href="https://www.eventbrite.com/e/cfcht0817-230pm-sandbox-vr-tickets-989657611557?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mt-4">管理员已付好定金，到店后管理员会付完全款。<br />因为之前活动出现过报名后但最后未出现而造成损失的情况，所以咱们提前AA门票。</p>
-<p className="mt-4">*请在eventbrite报名后，当天23:59前私信管理员@Timaximum （付款管理员小红书昵称）Eventbrite报名名字，管理员将告知zelle转账方式，否则将取消名额</p>
+<h2 className="text-2xl font-bold mb-2">8/24 周六 1:30 PM - 3:00 PM</h2>
+<p className="mb-4">🔥Mini桌聊天<br />限定人数：5人</p>
+<p className="mb-4">📍Sawada Coffee</p>
+<a href="https://www.eventbrite.co.nz/e/coffee-chat-tickets-998669656827?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Eventribe报名🔗</a>
+<p className="mt-4">活动简介：本次话题多样化欢迎各位一起来聊天&认识朋友</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
-
-  <p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
-  <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
-        
-  {/* Event Details Replacement End */}
+<p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
+<p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
+{/* Event Details Replacement End */}
+```​⬤
 
 
 
