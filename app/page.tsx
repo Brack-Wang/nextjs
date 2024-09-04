@@ -22,7 +22,7 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
 <h2 class="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 class="text-2xl font-bold mb-2">9/8 周日 13:45 - 15:45</h2>
+<h2 class="text-2xl font-bold mb-2">9/8 周日 1:45 - 3:45 PM</h2>
 <p class="mb-4">🍷 品酒 / 酒庄 What we do & how we do / 漫步葡萄园</p>
 <p class="mb-4">📍 Valentino Vineyards & Winery <br>地址：5175 Aptakisic Rd, Long Grove, IL 60047 <br>（距离Loop车程约1小时左右，请合理安排出行时间）</p>
 <a href="https://www.eventbrite.co.nz/e/cfcht-98-145pm-tickets-1008546779567?aff=oddtdtcreator" target="_blank" class="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Eventbrite报名🔗</a>
