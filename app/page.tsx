@@ -20,18 +20,26 @@ export default function Home() {
 
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
+{/* TODO: Change the content for weekly events' information below */}
+{/* Event Details Replacement Start */}
+{/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">9/8 周日 13:45 - 15:45</h2>
-  <p className="mb-4">🍷 品酒 / 酒庄 What We Do & How We Do / 漫步葡萄园</p>
-  <p className="mb-4">📍 Valentino Vineyards & Winery<br />地址：5175 Aptakisic Rd, Long Grove, IL 60047<br />（距离Loop车程1小时左右，请各位合理安排出行时间）</p>
-  <p className="mb-4">票价：$35/人（含税）<br />Zelle：<br />Justin Lin<br />7328043047</p>
-  <a href="https://www.eventbrite.co.nz/e/cfcht-98-145pm-tickets-1008546779567?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mt-4">*请报名成功后，今天22:00前向本次活动负责管理员Justin转帐，否则将取消名额</p>
+  <h2 className="text-2xl font-bold mb-2">9/15 周日 1:00 - 3:30PM 小桌聊天</h2>
+  <p className="mb-4">🔥限定报名人数：11人</p>
+  <p className="mb-4">📍 1821 W Hubbard St in Suite 209 on the second floor</p>
+  <p className="mb-4">楼下有先到先得的免费停车场以及街pa</p>
+  <p className="mb-4">场地介绍：<a href="https://www.peerspace.com/pages/listings/61aa587fbdb172000d2e398e" target="_blank" className="text-blue-500 hover:underline">Peerspace场地链接</a></p>
+  <p className="mb-4">场地预约平摊：$25/人（含税）<br />Zelle：<br />QIONG YIN<br />yin_chloe@icloud.com</p>
+  <p className="mb-4">欢迎大家带一些自己想分享的小零食！</p>
+  <p className="mb-4">报名链接：<a href="https://www.eventbrite.co.nz/e/cfcht915-100-330pm-tickets-1014757706617?aff=oddtdtcreator" target="_blank" className="text-blue-500 hover:underline">Eventbrite报名链接</a></p>
+  <p className="mb-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共4个不同主题的聚点，每个聚点共4人，45分钟Shift一次到其他主题，共2轮</p>
+  <p className="mb-4">本次话题包括：<br />旅行，怎么保证自己的wlb，生活中的趣事，怎么决定来芝加哥/美国的 等</p>
+  <p className="mt-4">*请报名成功后，当天22:00前向群主CHLOE ZL， 否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+  <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
+  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
-<p className="mt-4 font-bold">那么各位，周日见！🌞</p>
-<p className="mt-4 font-bold">固定报名时间：每周一8PM</p>
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
 {/* Event Details Replacement End */}
 
