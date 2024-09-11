@@ -37,7 +37,7 @@ export default function Home() {
   <p className="mb-4">本次话题包括：<br />旅行，怎么保证自己的wlb，生活中的趣事，怎么决定来芝加哥/美国的 等</p>
   <p className="mt-4">*请报名成功后，当天22:00前向群主CHLOE zelle， 否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-  <p className="mt-4">*这次小桌是我们首次自行预约场地的尝试，以往我们使用免费场地时常遇到人数问题抢不到位置或需店家不支持functional event等问题。<br />本次活动收取的费用将全部用于场地预订。如果筹集的费用不足，可能需要更换场地，敬请大家理解！若有任何变动，我们会提前通知所有参与者。</p>
+  <p className="mt-4">*这次小桌是我们首次自行预约场地的尝试，以往我们使用免费场地时常遇到人数问题抢不到位置或店家不支持functional event等问题。<br />本次活动收取的费用将全部用于场地预订。如果筹集的费用不足，可能需要更换场地，敬请大家理解！若有任何变动，我们会提前通知所有参与者。</p>
   <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
