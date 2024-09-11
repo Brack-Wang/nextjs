@@ -28,7 +28,7 @@ You could simply 1. use Chatgpt to generate the content , and 2.replace the mark
         <p className="mt-4">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用</p>
         <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消。平台waitlist将发送补位邮件，请大家留意自己的邮箱</p>
         <p className="mt-4">*请大家至少提前一天取消</p>
-        <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+        <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
         <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
       {/* Event Details Replacement End */}
 
