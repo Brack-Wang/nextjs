@@ -35,7 +35,7 @@ export default function Home() {
   <a href="https://www.eventbrite.co.nz/e/cfcht915-100-330pm-tickets-1014757706617?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
   <p className="mb-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共4个不同主题的聚点，每个聚点共4人，45分钟Shift一次到其他主题，共2轮</p>
   <p className="mb-4">本次话题包括：<br />旅行，怎么保证自己的wlb，生活中的趣事，怎么决定来芝加哥/美国的 等</p>
-  <p className="mt-4">*请报名成功后，今天22:00前向群主CHLOE ZL， 否则将取消名额</p>
+  <p className="mt-4">*请报名成功后，当天22:00前向群主CHLOE zelle， 否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
   <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
