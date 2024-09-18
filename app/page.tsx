@@ -24,21 +24,14 @@ export default function Home() {
 {/* Event Details Replacement Start */}
 {/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
-  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">9/15 周日 1:00 - 3:30PM 小桌聊天</h2>
-  <p className="mb-4">🔥限定报名人数：11人</p>
-  <p className="mb-4">📍 1821 W Hubbard St in Suite 209 on the second floor</p>
-  <p className="mb-4">楼下有先到先得的免费停车场以及街pa</p>
-  <p className="mb-4">场地介绍：<a href="https://www.peerspace.com/pages/listings/61aa587fbdb172000d2e398e" target="_blank" className="text-blue-500 hover:underline">Peerspace场地链接</a></p>
-  <p className="mb-4">场地预约平摊：$25/人（含税）<br />Zelle：<br />QIONG YIN<br />yin_chloe@icloud.com</p>
-  <p className="mb-4">欢迎大家带一些自己想分享的小零食！</p>
-  <a href="https://www.eventbrite.co.nz/e/cfcht915-100-330pm-tickets-1014757706617?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mb-4">活动简介：<br />2轮Shift制小桌主题性聊天 + Gather + Free to talk<br />共4个不同主题的聚点，每个聚点共4人，45分钟Shift一次到其他主题，共2轮</p>
-  <p className="mb-4">本次话题包括：<br />旅行，怎么保证自己的wlb，生活中的趣事，怎么决定来芝加哥/美国的 等</p>
-  <p className="mt-4">*请报名成功后，当天22:00前向群主CHLOE zelle， 否则将取消名额</p>
-  <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-  <p className="mt-4">*这次小桌是我们首次自行预约场地的尝试，以往我们使用免费场地时常遇到人数问题抢不到位置或店家不支持functional event等问题。<br />本次活动收取的费用将全部用于场地预订。如果筹集的费用不足，可能需要更换场地，敬请大家理解！若有任何变动，我们会提前通知所有参与者。</p>
-  <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
+<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+<h2 className="text-2xl font-bold mb-2">09/22 周日 12:30 - 5:00PM</h2>
+<p className="mb-4">🔥BBQ<br />定金（预付款）20🔪/人<br />限定报名人数：25人</p>
+<p className="mb-4">地点：Blackwell Forest Preserve South Shelter<br />Google Map可直接搜索: Blackwell Forest Preserve South Shelter, Warrenville, Illinois 60555<br /><a href="https://maps.app.goo.gl/m7kYeqmEbHxtteRr6" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">📍Google Map Link</a><br />距离loop车程大概60分钟左右，请各位合理安排出行时间</p>
+<a href="https://www.eventbrite.com/e/893358006847?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+<p className="mb-4">BBQ参与定金：$20/人<br />*10刀每人为BBQ预付款，用于购买食材和器材，具体数额将在BBQ Event后通知大家补或返还差价。<br />*请在eventbrite报名后，当天23:59前 小红书私信联系管理员Dessi Eventbrite报名所用的名字，管理员会私信Zelle转账信息。请在报名当天零点之前联系管理员并转账，否则名额将作废。<br />*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+<p className="mt-4 font-bold">辛苦这次主负责人Dessi！</p>
+<p className="mt-4 font-bold">那么各位，周日见！🌞</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
