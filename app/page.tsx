@@ -25,12 +25,12 @@ export default function Home() {
 {/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">09/22 周日 12:30 - 5:00PM</h2>
-<p className="mb-4">🔥BBQ<br />定金（预付款）20🔪/人<br />限定报名人数：25人</p>
-<p className="mb-4">地点：Blackwell Forest Preserve South Shelter<br />Google Map可直接搜索: Blackwell Forest Preserve South Shelter, Warrenville, Illinois 60555<br /><a href="https://maps.app.goo.gl/m7kYeqmEbHxtteRr6" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">📍Google Map Link</a><br />距离loop车程大概60分钟左右，请各位合理安排出行时间</p>
-<a href="https://www.eventbrite.com/e/cfcht0922-1230pm-outdoor-bbq-tickets-1022842819407?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mb-4">BBQ参与定金：$20/人<br />*20刀每人为BBQ预付款，用于购买食材和器材，具体数额将在BBQ Event后通知大家补或返还差价。<br />*请在eventbrite报名后，当天23:59前 小红书私信联系管理员Dessi Eventbrite报名所用的名字，管理员会私信Zelle转账信息。请在报名当天零点之前联系管理员并转账，否则名额将作废。<br />*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-<p className="mt-4 font-bold">辛苦这次主负责人Dessi！</p>
+<h2 className="text-2xl font-bold mb-2">09/29 周日 2:00 - 5:00PM</h2>
+<p className="mb-4">🐒户外丛林探险3hrs Treetop Journey<br />店家票价64.3🔪/人<br />限定报名人数：8人</p>
+<p className="mb-4">地点：1100 Ogden Avenue, Western Springs, IL 60558r<br /<a https://maps.app.goo.gl/qBgr2uDWMCUsG4ZB6?g_st=com.google.maps.preview.copy>📍Google Map Link</a><br />距离loop车程大概60分钟左右，请各位合理安排出行时间</p>
+<a href="https://www.eventbrite.com/e/1027172128487?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+<p className="mb-4">活动票价：$64.3/人<br />*<br />*请在eventbrite报名后，当天23:59前 小红书私信联系管理员Chensi Xue(薛辰思) Eventbrite报名所用的名字，管理员会私信Zelle转账信息。请在报名当天0点之前联系管理员并转账，否则名额将作废。<br />*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+<p className="mt-4 font-bold">辛苦这次主负责人Chensi！</p>
 <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
