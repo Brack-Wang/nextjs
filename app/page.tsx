@@ -21,16 +21,24 @@ export default function Home() {
 {/*   #################################################################################################################### */}
       {/* TODO: Change the content for weekly events' information below */}
 {/* TODO: Change the content for weekly events' information below */}
-{/* Event Details Replacement Start */}
-{/* TODO: Change the content for weekly events' information below */}
-{/* Event Details Replacement Start */}
-<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">09/29 周日 2:00 - 5:00PM</h2>
-<p className="mb-4">🐒户外丛林探险3hrs Treetop Journey<br />店家票价64.3🔪/人<br />限定报名人数：8人</p>
-<p className="mb-4">地点：1100 Ogden Avenue, Western Springs, IL 60558r<br /<a https://maps.app.goo.gl/qBgr2uDWMCUsG4ZB6?g_st=com.google.maps.preview.copy> <📍Google Map Link</a><br />距离loop车程大概50分钟左右，请各位合理安排出行时间</p>
-<a href="https://www.eventbrite.com/e/1027172128487?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mb-4">活动票价：$64.3/人<br />*<br />*请在eventbrite报名后，当天23:59前 小红书私信联系管理员薛辰思, 备注Eventbrite报名所用的名字，管理员会私信Zelle转账信息。请在报名当天0点之前联系管理员并转账，否则名额将作废。<br />*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-<p className="mt-4 font-bold">辛苦这次主负责人Chensi！</p>
+      {/* TODO: Update weekly event details below */}
+      {/* Event Details Replacement Start */}
+        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+        <h2 className="text-2xl font-bold mb-2">10/6 周日 1PM - 4PM</h2>
+        <p className="mb-4">☕️小桌Shift制主题聊天（i人友好）<br />限定报名人数：12人</p>
+        <p className="mb-4">地点：1821 W Hubbard St, Suite 209, 二楼<br />楼下有免费停车场和街边停车位</p>
+        <p className="mb-4">场地预约平摊：$25/人（含税）<br />请报名后当天23点前通过Zelle支付管理员</p>
+        <p className="mb-4">Zelle 收款人：QIONG YIN<br />Email: yin_chloe@icloud.com</p>
+        <p className="mb-4">欢迎大家带一些自己想分享的小零食！</p>
+        <p className="mb-4">活动简介：<br />2轮Shift制小桌主题聊天 + Gather + 自由讨论</p>
+        <p className="mb-4">共有4个不同主题的聚点，每个聚点4人，每轮45分钟，2轮后轮换其他主题。</p>
+        <p className="mb-4">本次话题包括：<br />生活趣事，如何决定来芝加哥/美国等</p>
+        <a href="https://www.eventbrite.com/e/cfcht106-1-4pm-tickets-1032602721537?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <p className="mt-4">*报名成功后，请于当天22:00前通过Zelle支付场地费用，否则名额将被取消</p>
+        <p className="mt-4">*如报名后无法出席，请联系群里的其他成员转让票务</p>
+        <p className="mt-4">*此次活动为我们自行预约场地的尝试。以往免费场地常出现人数限制或店家不支持活动的情况。本次收取的费用将用于场地预订。若费用不足，可能会更换场地，敬请理解！如有变动，会提前通知所有参与者。</p>
+      {/* Event Details Replacement End */}
+
 <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
