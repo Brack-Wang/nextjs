@@ -27,7 +27,7 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2">10/6 周日 1PM - 4PM</h2>
         <p className="mb-4">☕️小桌Shift制主题聊天（i人友好）<br />限定报名人数：12人</p>
         <p className="mb-4">地点：1821 W Hubbard St, Suite 209, 二楼<br />楼下有免费停车场和街边停车位</p>
-        <p className="mb-4">场地预约平摊：$25/人（含税）<br />请报名后当天23点前通过Zelle支付管理员</p>
+        <p className="mb-4">场地预约平摊：$22/人（含税）<br />请报名后当天23点前通过Zelle支付管理员</p>
         <p className="mb-4">Zelle 收款人：QIONG YIN<br />Email: yin_chloe@icloud.com</p>
         <p className="mb-4">欢迎大家带一些自己想分享的小零食！</p>
         <p className="mb-4">活动简介：<br />2轮Shift制小桌主题聊天 + Gather + 自由讨论</p>
