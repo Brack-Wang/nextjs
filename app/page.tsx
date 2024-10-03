@@ -27,12 +27,12 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2">10/6 周日 1PM - 4PM</h2>
         <p className="mb-4">☕️小桌Shift制主题聊天（i人友好）<br />限定报名人数：12人</p>
         <p className="mb-4">地点：1821 W Hubbard St, Suite 209, 二楼<br />楼下有免费停车场和街边停车位</p>
-        <p className="mb-4">场地预约平摊：$22/人（含税）<br />请报名后当天23点前通过Zelle支付管理员</p>
+        <p className="mb-4">场地预约平摊：$21/人（含税）<br />请报名后当天23点前通过Zelle支付管理员</p>
         <p className="mb-4">Zelle 收款人：QIONG YIN<br />Email: yin_chloe@icloud.com</p>
         <p className="mb-4">欢迎大家带一些自己想分享的小零食！</p>
         <p className="mb-4">活动简介：<br />2轮Shift制小桌主题聊天 + Gather + 自由讨论</p>
         <p className="mb-4">共有4个不同主题的聚点，每个聚点4人，每轮45分钟，2轮后轮换其他主题。</p>
-        <p className="mb-4">本次话题包括：<br />音乐分享、来芝加哥/美国的理由/想做什么等</p>
+        <p className="mb-4">本次话题包括：<br />音乐分享、来芝加哥/美国的理由/想做什么、保暖建议、秋冬必备等</p>
         <a href="https://www.eventbrite.com/e/cfcht106-1-4pm-tickets-1032602721537?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mt-4">*报名成功后，请于当天22:00前通过Zelle支付场地费用，否则名额将被取消</p>
         <p className="mt-4">*如报名后无法出席，请联系群里的其他成员转让票务</p>
