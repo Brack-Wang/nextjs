@@ -24,6 +24,16 @@ export default function Home() {
       {/* TODO: Update weekly event details below */}
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+        <h2 className="text-2xl font-bold mb-2">10/13 周日 2PM - 4:30PM</h2>
+        <p className="mb-4">☕️Paint your own pottery <br />限定报名人数：10人</p>
+        <p className="mb-4">地点：Glazed Expressions, 717 West Armitage Ave</p>
+        <p className="mb-4">价格: Studio fees 每人$8到场直接付给商家，另外画的陶器根据类别不同价格不同，在现场付费购买即可</p>
+           <a href="https://www.eventbrite.com/e/cfcht106-1-4pm-tickets-1032602721537?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <p className="mb-4">活动简介：<br />商家店里有各类陶器，大家到场后可以自行挑选想画的盘子/杯子/碗/花瓶/装饰品etc （需付费），听完店家简单的tutorial以后就可以设计一个属于自己的陶器啦！</p>
+        <p className="mt-4">*如报名后无法出席，请联系群里的其他朋友转票</p>
+
+        
+{/*         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
         <h2 className="text-2xl font-bold mb-2">10/6 周日 1PM - 4PM</h2>
         <p className="mb-4">☕️小桌Shift制主题聊天（i人友好）<br />限定报名人数：12人</p>
         <p className="mb-4">地点：1821 W Hubbard St, Suite 209, 二楼<br />楼下有免费停车场和街边停车位</p>
@@ -36,7 +46,7 @@ export default function Home() {
         <p className="mb-4">本次话题包括：<br />音乐分享、来芝加哥/美国的理由/想做什么、保暖建议、秋冬必备等</p>
         <p className="mt-4">*报名成功后，请于当天23:59前通过Zelle支付场地费用，否则名额将被取消</p>
         <p className="mt-4">*如报名后无法出席，请联系群里的其他成员转让票务</p>
-        <p className="mt-4">*此次活动为我们自行预约场地的尝试。以往免费场地常出现人数限制或店家不支持活动的情况。本次收取的费用将用于场地预订。若费用不足，可能会更换场地，敬请理解！如有变动，会提前通知所有参与者。</p>
+        <p className="mt-4">*此次活动为我们自行预约场地的尝试。以往免费场地常出现人数限制或店家不支持活动的情况。本次收取的费用将用于场地预订。若费用不足，可能会更换场地，敬请理解！如有变动，会提前通知所有参与者。</p> */}
       {/* Event Details Replacement End */}
 
 <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
