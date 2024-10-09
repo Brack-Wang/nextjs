@@ -27,9 +27,12 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2">10/13 周日 2PM - 4:30PM</h2>
         <p className="mb-4">☕️Paint your own pottery <br />限定报名人数：10人</p>
         <p className="mb-4">地点：Glazed Expressions, 717 West Armitage Ave</p>
-        <p className="mb-4">价格: Studio fees 每人$8到场直接付给商家，另外画的陶器根据类别不同价格不同，在现场付费购买即可</p>
-           <a href="https://www.eventbrite.com/e/cfcht106-1-4pm-tickets-1032602721537?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mb-4">活动简介：<br />商家店里有各类陶器，大家到场后可以自行挑选想画的盘子/杯子/碗/花瓶/装饰品etc （需付费），<br />听完店家简单的tutorial以后就可以设计一个属于自己的陶器啦！</p>
+        <p className="mb-4">价格: Studio fees 每人$8到场直接付给商家，画的陶器根据类别不同价格不同，在现场付费购买即可</p>
+           <a href="https://www.eventbrite.com/e/cfcht1013-2-pm-430-pm-paint-your-own-pottery-tickets-1043272705747?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <p className="mb-4">活动简介：<br />商家店里有各类陶器，大家到场后可以自行挑选想画的盘子/杯子/碗/花瓶/装饰品etc （需付费），
+          <br />听完店家简单的tutorial以后就可以设计一个属于自己的陶器啦！
+          <br />详情参见: https://glazedexpressionslp.weebly.com/how-it-works.html 
+          <br />更多图片可以看店家Instagram: https://www.instagram.com/glazedexpressionslp/?utm_source=ig_embed&ig_rid=5a0b2d24-c096-4f35-bf6a-9f3d3407fc01</p>
         <p className="mt-4">*如报名后无法出席，请联系群里的其他朋友转票</p>
 
 <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
