@@ -17,6 +17,11 @@ const eventsData = [
     websiteUrl: 'http://xhslink.com/a/MFBKAYCyAkNW', // 替换为对应的网站链接
     altText: '9/15 主题性小桌聊天Coffee Chat @West Town', // 图片的替代文本
   },  
+   {
+    imageUrl: '/0908酒庄.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/a/Fjaf3ZDbPApX', // 替换为对应的网站链接
+    altText: '9/8 酒庄tour @Valentino Winery', // 图片的替代文本
+  },  
       {
     imageUrl: '/0817vr.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/a/WwCZsvALukNW', // 替换为对应的网站链接
