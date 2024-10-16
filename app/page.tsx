@@ -24,7 +24,7 @@ export default function Home() {
       {/* TODO: Update weekly event details below */}
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">10/20 周日 10：00AM - 6:00PM</h2>
+        <h2 className="text-2xl font-bold mb-2">10/20 周日 10:00AM - 6:00PM</h2>
         <p className="mb-4"> Holy Hill 赏🍁 <br />限定报名人数：共10人</p>
         <p className="mb-4">地点：Holyhill,1525 Carmel Rd, Hubertus, WI 53033</p>
         <p className="mb-4">价格: 无预支付价格，活动结束后油费均摊 </p>
