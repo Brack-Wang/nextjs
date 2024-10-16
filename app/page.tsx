@@ -30,6 +30,7 @@ export default function Home() {
         <p className="mb-4">价格: 无预支付价格，活动结束后油费均摊 </p>
            <a href="https://www.eventbrite.co.nz/e/1020-wi-holyhill-tickets-1047622867197?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mb-4">活动简介：<br /> CFCHT 首次road trip，去威斯康星欣赏枫叶🍁，
+          <br />具体行程请参考 eventbrite 活动报名页面。 
           <br />活动地点详情参见: https://www.holyhill.com </p>
         <p className="mt-4">*如报名后无法出席，请联系群里的其他朋友转票</p>
 
