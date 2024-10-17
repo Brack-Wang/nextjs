@@ -29,6 +29,7 @@ export default function Home() {
         <p className="mb-4">地点：Holyhill,1525 Carmel Rd, Hubertus, WI 53033</p>
         <p className="mb-4">价格: 预付款（多退少补）：每人11刀，10刀邮费，1刀toll。
           <br />油费计算为全程270 miles 除以epa rating 27，乘以4刀油价。每车4人平摊。 
+          <br />toll为4刀。每车4人平摊。 
           <br />报名成功后请联系xhs管理员 小城市薛 获取转账信息！</p>
            <a href="https://www.eventbrite.co.nz/e/1020-wi-holyhill-tickets-1047622867197?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mb-4">活动简介：<br /> CFCHT 首次road trip，去威斯康星欣赏枫叶🍁，
