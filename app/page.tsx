@@ -25,9 +25,11 @@ export default function Home() {
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
         <h2 className="text-2xl font-bold mb-2">10/20 周日 10:00AM - 6:00PM</h2>
-        <p className="mb-4"> Holy Hill 赏🍁 <br />限定报名人数：共10人</p>
+        <p className="mb-4"> Holy Hill 赏🍁 <br />限定报名人数：共7人</p>
         <p className="mb-4">地点：Holyhill,1525 Carmel Rd, Hubertus, WI 53033</p>
-        <p className="mb-4">价格: 无预支付价格，活动结束后油费均摊 </p>
+        <p className="mb-4">价格: 预付款（多退少补）：每人11刀，10刀邮费，1刀toll。
+          <br />油费计算为全程270 miles 除以epa rating 27，乘以4刀油价。每车4人平摊。 
+          <br />报名成功后请联系xhs管理员 小城市薛 获取转账信息！</p>
            <a href="https://www.eventbrite.co.nz/e/1020-wi-holyhill-tickets-1047622867197?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mb-4">活动简介：<br /> CFCHT 首次road trip，去威斯康星欣赏枫叶🍁，
           <br />具体行程请参考 eventbrite 活动报名页面。 
