@@ -24,7 +24,7 @@ export default function Home() {
       {/* TODO: Update weekly event details below */}
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">10/26 周六 18:45 </h2>
+        <h2 className="text-2xl font-bold mb-2">10/26 周六 19:00 </h2>
         <p className="mb-4"> 午夜鬼屋挑战 Midnight Terror Haunted House <br />限定报名人数：共9人</p>
         <p className="mb-4">地点：5520 W 111th St, Oak Lawn, IL 60453 </p>
         <p className="mb-4">价格: 预付款（多退少补）：每人35.23刀。
