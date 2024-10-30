@@ -33,7 +33,7 @@ export default function Home() {
   <p className="mb-4">小桌聊天场地平摊：$6.25/人（含税）
   <p className="mb-4">Zelle收款信息：<br />收款人：QIONG YIN<br />邮箱：yin_chloe@icloud.com</p>
 
-  <p className="mt-4">*报名成功后，请于报名当天22点前向群主CHLOE通过Zelle支付，否则将取消名额</p>
+  <p className="mt-4">*请于报名成功当天22点前向群主CHLOE通过Zelle支付，否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群内其他成员进行转票</p>
   
   <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
