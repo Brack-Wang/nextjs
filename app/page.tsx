@@ -20,6 +20,7 @@ export default function Home() {
 
 {/*   #################################################################################################################### */}
 {/* TODO: Change the content for weekly events' information below */}
+{/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">11/3 周日 4 - 7PM 小桌聊天+晚餐</h2>
@@ -30,14 +31,11 @@ export default function Home() {
   <h2 className="text-xl font-bold mb-2">报名链接</h2>
   <a href="https://www.eventbrite.co.nz/e/cfcht113-4-7pm-tickets-1064583510939?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Eventbrite 报名🔗</a>
   
-  <p className="mb-4">小桌聊天场地平摊：$6.25/人（含税）
+  <p className="mb-4">小桌聊天场地平摊：$6.25/人（含税）</p>
   <p className="mb-4">Zelle收款信息：<br />收款人：QIONG YIN<br />邮箱：yin_chloe@icloud.com</p>
 
-  <p className="mt-4">*请于报名成功当天22点前向群主CHLOE通过Zelle支付，否则将取消名额</p>
+  <p className="mt-4">*请报名成功当天22点前向群主CHLOE通过Zelle支付，否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群内其他成员进行转票</p>
-  
-  <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
-  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
 
 
