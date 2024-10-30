@@ -19,32 +19,28 @@ export default function Home() {
 
 
 {/*   #################################################################################################################### */}
-      {/* TODO: Change the content for weekly events' information below */}
 {/* TODO: Change the content for weekly events' information below */}
-      {/* TODO: Update weekly event details below */}
-      {/* Event Details Replacement Start */}
-        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">10/26 周六 19:00 </h2>
-        <p className="mb-4"> 午夜鬼屋挑战 Midnight Terror Haunted House <br />限定报名人数：共9人</p>
-        <p className="mb-4">地点：5520 W 111th St, Oak Lawn, IL 60453 </p>
-        <p className="mb-4">价格: 预付款（多退少补）：每人35.23刀。
-          <br />报名成功后请在当天23:59前私信管理员Dessi获取转账信息！</p>
-           <a href="https://www.eventbrite.com/e/cfcht1026-1900-pm-tickets-1056779238149?aff=oddtdtcreator&fbclid=IwZXh0bgNhZW0CMTEAAR3eB-26_JEXUycC_o_cIMMKSXq6XoSv9-LQbHm4OsU7sTVbMuiwceCa4M4_aem_ZdMxQXr-pD2ZxeCKT2EJDg" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        
-        <h2 className="text-2xl font-bold mb-2">活动 Agenda</h2>
+{/* Event Details Replacement Start */}
+  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+  <h2 className="text-2xl font-bold mb-2">11/3 周日 4 - 7PM 小桌聊天+晚餐</h2>
+  <p className="mb-4">🔥Agenda<br />4-5PM ☕️小桌主题聊天<br />地点：1821 W Hubbard St, Suite 209, 二楼<br />楼下有免费停车场和街边停车位</p>
+  <p className="mb-4">5-7PM 晚餐Gather<br />地点：TBD</p>
+  <p className="mb-4">限定报名人数：8人</p>
+  
+  <h2 className="text-xl font-bold mb-2">报名链接</h2>
+  <a href="https://www.eventbrite.co.nz/e/cfcht113-4-7pm-tickets-1064583510939?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Eventbrite 报名🔗</a>
+  
+  <p className="mb-4">小桌聊天场地平摊：$6.25/人（含税）
+  <p className="mb-4">Zelle收款信息：<br />收款人：QIONG YIN<br />邮箱：yin_chloe@icloud.com</p>
 
-<p className="mb-4"><strong>5:00 - 6:30 PM</strong> <br />
-📍<strong>Al Bawadi Grill</strong> (晚餐，optional) <br />
-地址：7216 W 87th St, Bridgeview, IL 60455 <br />
-（暂定，看人数）
-</p>
+  <p className="mt-4">*报名成功后，请于报名当天22点前向群主CHLOE通过Zelle支付，否则将取消名额</p>
+  <p className="mt-4">*如报名后无法出席，请联系群内其他成员进行转票</p>
+  
+  <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
+{/* Event Details Replacement End */}
 
-<p className="mb-4"><strong>6:45 - 8:00 PM</strong> <br />
-📍<strong>Midnight Terror Haunted House</strong> <br />
-地址：5520 W 111th St, Oak Lawn, IL 60453 <br />
-从 Loop 出发 🚗 大概 32 分钟车程
-</p>
-        <p className="mt-4">*如报名后无法出席，请联系群里的其他朋友转票</p>
+
 
 <p className="mt-4 font-bold">那么各位，周日见！🌞</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
