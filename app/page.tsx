@@ -19,30 +19,21 @@ export default function Home() {
 
 
 {/*   #################################################################################################################### */}
-{/* TODO: Change the content for weekly events' information below */}
-{/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
-  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">11/3 周日 4 - 7PM 小桌聊天+晚餐</h2>
-  <p className="mb-4">🔥Agenda<br />4-5PM ☕️小桌主题聊天<br />地点：1821 W Hubbard St, Suite 209, 二楼<br />楼下有免费停车场和街边停车位</p>
-  <p className="mb-4">5-7PM 晚餐Gather<br />地点：TBD</p>
-  <p className="mb-4">限定报名人数：8人</p>
-  
-  <h2 className="text-xl font-bold mb-2">报名链接</h2>
-  <a href="https://www.eventbrite.co.nz/e/cfcht113-4-7pm-tickets-1064583510939?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">Eventbrite 报名🔗</a>
-  
-  <p className="mb-4">小桌聊天场地平摊：$6.25/人（含税）</p>
+<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+<h2 className="text-2xl font-bold mb-2">11/9 周六 5:30 - 8PM 晚餐+鱿鱼游戏 VR</h2>
+<p className="mb-4">限定报名人数：4人<br />VR票价：52.32🔪/人（含税）</p>
   <p className="mb-4">Zelle收款信息：<br />收款人：QIONG YIN<br />邮箱：yin_chloe@icloud.com</p>
-
-  <p className="mt-4">*请报名成功当天22点前向群主CHLOE通过Zelle支付，否则将取消名额</p>
-  <p className="mt-4">*如报名后无法出席，请联系群内其他成员进行转票</p>
+<p className="mb-4 font-bold">Agenda</p>
+<p className="mb-4">5:30-7PM 晚餐<br />📍D Cuisine<br />2723 N Clark St, Chicago, IL 60614</p>
+<p className="mb-4">7:20 VR Check-in<br />📍Sandbox VR<br />2359 N Lincoln Ave, Chicago, IL 60614</p>
+<a href="https://www.eventbrite.co.nz/e/cfcht119-530-8pm-vr-tickets-1075693290589?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名链接</a>
+<p className="mt-4">*请报名成功当天22点前向群主CHLOE Zelle， 否则将取消名额</p>
+<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+<p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
+<p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
 
-
-
-<p className="mt-4 font-bold">那么各位，周日见！🌞</p>
-  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
-{/* Event Details Replacement End */}
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
 {/* Event Details Replacement End */}
 
