@@ -23,11 +23,11 @@ export default function Home() {
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">11/9 周六 5:30 - 8PM 晚餐+鱿鱼游戏 VR</h2>
 <p className="mb-4">限定报名人数：4人<br />VR票价：52.32🔪/人（含税）</p>
+      <a href="https://www.eventbrite.co.nz/e/cfcht119-530-8pm-vr-tickets-1075693290589?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 <p className="mb-4">Zelle:<br />QIONG YIN<br />yin_chloe@icloud.com</p>
 <p className="mb-4 font-bold">Agenda</p>
 <p className="mb-4">5:30-7PM 晚餐<br />📍D Cuisine Lincoln Park<br />2723 N Clark St, Chicago, IL 60614<br />* 🉑️街pa</p>
 <p className="mb-4">7:20 VR Check-in<br />📍Sandbox VR Lincoln Park<br />2359 N Lincoln Ave, Chicago, IL 60614<br />* The closest parking garage is located across the street at 2316 N Lincoln Ave. Sandbox VR will validate your 90-minute parking when you arrive in store.</p>
-<a href="https://www.eventbrite.co.nz/e/cfcht119-530-8pm-vr-tickets-1075693290589?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗（详情）</a>
 <p className="mt-4">*请报名成功当天22点前向群主CHLOE Zelle，否则将取消名额</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">那么各位，这周六见！🌞</p>
