@@ -25,8 +25,8 @@ export default function Home() {
 <p className="mb-4">限定报名人数：4人<br />VR票价：52.32🔪/人（含税）</p>
   <p className="mb-4">Zelle收款信息：<br />收款人：QIONG YIN<br />邮箱：yin_chloe@icloud.com</p>
 <p className="mb-4 font-bold">Agenda</p>
-<p className="mb-4">5:30-7PM 晚餐<br />📍D Cuisine<br />2723 N Clark St, Chicago, IL 60614</p>
-<p className="mb-4">7:20 VR Check-in<br />📍Sandbox VR<br />2359 N Lincoln Ave, Chicago, IL 60614</p>
+<p className="mb-4">5:30-7PM 晚餐<br />📍D Cuisine Lincoln Park<br />2723 N Clark St, Chicago, IL 60614</p>
+<p className="mb-4">7:20 VR Check-in<br />📍Sandbox VR Lincoln Park<br />2359 N Lincoln Ave, Chicago, IL 60614</p>
 <a href="https://www.eventbrite.co.nz/e/cfcht119-530-8pm-vr-tickets-1075693290589?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名链接</a>
 <p className="mt-4">*请报名成功当天22点前向群主CHLOE Zelle， 否则将取消名额</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
