@@ -25,7 +25,8 @@ export default function Home() {
   <p className="mb-4">🛝 Slick City 滑梯公园<br />店家票价（含税）：25.99🔪/人</p>
   <p className="mb-4">📍 Slick City Action Park - North Aurora<br />1830 Towne Center Dr, North Aurora, IL 60542<br />距离Loop车程🚗大概1.5小时左右<br />本次不安排聚餐，大家可自行约饭</p>
   <a href="https://www.eventbrite.com/e/cfcht1026-130-pm-slick-city-tickets-1089530859129?aff=oddtdtcreator&fbclid=IwZXh0bgNhZW0CMTEAAR3SpJMNFKskSe8PjFgpnezLcsUKo-n85_3keJxvHz1wIjblmungYaL49Nw_aem_ZzdnoFOCtWt6oJiA8Dp2Lw" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mt-4">*请在Eventbrite报名后，当天23:59前私信管理员Dessi，同时备注Eventbrite报名名字，管理员将告知Zelle信息，否则将取消名额</p>
+  <p className="mt-4">到场后商家建议每人额外购买3.99的CitySocks（应该是专用滑梯袜子）</p>
+      <p className="mt-4">*请在Eventbrite报名后，当天23:59前私信管理员Dessi，同时备注Eventbrite报名名字，管理员将告知Zelle信息，否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴进行转票</p>
   <p className="mt-4 font-bold">那么各位，周六见！🌞</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
