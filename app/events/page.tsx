@@ -15,7 +15,7 @@ const eventsData = [
    {
     imageUrl: '/1109VR2.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/a/uTbXoIhCTWg0', // 替换为对应的网站链接
-    altText: '24/11/9 鱿鱼游戏@Sandbox VR + D Cuisine', // 图片的替代文本
+    altText: '24/11/9 鱿鱼游戏 @Sandbox VR + D Cuisine', // 图片的替代文本
   },  
       {
     imageUrl: '/1026鬼屋.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
