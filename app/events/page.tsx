@@ -25,7 +25,7 @@ const eventsData = [
       {
     imageUrl: '/1020枫叶.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/a/vLT5jV841Wg0', // 替换为对应的网站链接
-    altText: '24/10/20 主题性小桌聊天Coffee Chat @West Town', // 图片的替代文本
+    altText: '24/10/20 赏枫 @Hollyhill', // 图片的替代文本
   },  
       {
     imageUrl: '/1013手工2.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
