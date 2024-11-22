@@ -13,7 +13,7 @@ import Link from 'next/link';
 const eventsData = [
      // Add the events as the following template ahead
    {
-    imageUrl: '/1109VR.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/1109VR2.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/a/uTbXoIhCTWg0', // 替换为对应的网站链接
     altText: '24/11/9 鱿鱼游戏@Sandbox VR + D Cuisine', // 图片的替代文本
   },  
@@ -28,7 +28,7 @@ const eventsData = [
     altText: '24/10/20 主题性小桌聊天Coffee Chat @West Town', // 图片的替代文本
   },  
       {
-    imageUrl: '/1013手工.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/1013手工2.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1732313975&share_id=41d3a11a3c51414db8f615803d875138', // 替换为对应的网站链接
     altText: '24/10/13 画盘子 @Glazed Expressions', // 图片的替代文本
   },  
