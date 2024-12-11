@@ -21,12 +21,14 @@ export default function Home() {
 {/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">12/8 周日 2:15 PM </h2>
-<p className="mb-4">❄️冬季限定室内Winter Flower Show + 晚餐<br />📍 Garfield Park Conservatory<br />300 N Central Park Ave, Chicago, IL 60624<br />距离Loop车程大概17分钟，请合理安排出行时间</p>
-<p className="mb-4">晚餐：<br />📍 Rose Mary, Croatian Restaurant<br />932 W Fulton St, Chicago, IL 60607<br />距离花园车程大概13分钟</p>
-<a href="https://www.eventbrite.co.nz/e/cfcht128-2pm-garfield-park-conservatory-tickets-1102504433439?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
-<p className="mt-4 font-bold">期待周日与大家见面！🌟</p>
+<h2 className="text-2xl font-bold mb-2">12/15 周日 11:00 小桌聊天+午餐</h2>
+<p className="mb-4">本次主题：兴趣爱好，最近期待的事，室内活动/运动，书籍 等<br />限定人数：11人<br />场地AA：12.73🔪/人</p>
+<p className="mb-4">📍1821 W Hubbard St in Suite 209 on the second floor<br />楼下有免费停车场和街pa</p>
+<p className="mb-4">Zelle:<br />Chloe Yin<br />yin_chloe@icloud.com</p>
+<a href="https://www.eventbrite.co.nz/e/cfcht1215-1100-tickets-1110978549749?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">BAOMING🔗</a>
+<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+<p className="mt-4">*请在eventbrite报名成功后，当天23:59前向管理员转zelle，否则将取消名额</p>
+<p className="mt-4 font-bold">期待与大家见面！🎉</p>
 <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
 
