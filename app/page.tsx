@@ -27,7 +27,7 @@ export default function Home() {
 <p className="mb-4">Zelle:<br />Chloe Yin<br />yin_chloe@icloud.com</p>
 <a href="https://www.eventbrite.co.nz/e/cfcht1215-1100-tickets-1110978549749?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名</a>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-<p className="mt-4">*请在eventbrite报名成功后，当天23:59前向管理员转zelle，否则将取消名额</p>
+<p className="mt-4">*请在eventbrite报名成功后，当天22点前向管理员转zelle，否则将取消名额</p>
 <p className="mt-4 font-bold">期待与大家见面！🎉</p>
 <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
