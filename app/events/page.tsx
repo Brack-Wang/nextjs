@@ -12,6 +12,11 @@ import Link from 'next/link';
 
 const eventsData = [
      // Add the events as the following template ahead
+      {
+    imageUrl: '/1208花园.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/a/yNogU93H9Dq1', // 替换为对应的网站链接
+    altText: '24/12/8 温室花园 @Garfield Park Conservatory', // 图片的替代文本
+  },  
    {
     imageUrl: '/1109VR2.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/a/uTbXoIhCTWg0', // 替换为对应的网站链接
