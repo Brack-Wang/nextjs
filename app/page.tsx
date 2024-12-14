@@ -28,7 +28,7 @@ export default function Home() {
 <p className="mb-4">📋 zelle收款信息填写：<br /><a href="https://forms.gle/EDdDqVNDdS2pFssz8" target="_blank" className="inline-block text-blue-500 hover:underline">https://forms.gle/EDdDqVNDdS2pFssz8</a></p>
 <p className="mb-4">最新安排请见：</p>
 <ul className="list-disc list-inside mb-4">
-  <li>11:00-11:10 Check-in</li>
+  <li>11:00-11:10 Check-in @Sweet Bean</li>
   <li>11:10-11:50 第一轮小桌聊天</li>
   <li>11:50-12:30 第二轮小桌聊天</li>
   <li>12:30-12:50 Gather</li>
