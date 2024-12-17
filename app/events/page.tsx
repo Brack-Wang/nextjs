@@ -13,6 +13,11 @@ import Link from 'next/link';
 const eventsData = [
      // Add the events as the following template ahead
       {
+    imageUrl: '/1215小桌.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/a/0HnDvktyWKR1', // 替换为对应的网站链接
+    altText: '24/12/15 主题性小桌聊天Coffee Chat @Sweet Bean & Avec', // 图片的替代文本
+  },  
+   {
     imageUrl: '/1208花园2.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/a/yNogU93H9Dq1', // 替换为对应的网站链接
     altText: '24/12/8 温室花园 @Garfield Park Conservatory', // 图片的替代文本
