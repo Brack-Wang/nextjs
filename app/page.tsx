@@ -18,26 +18,47 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
 
 
-{/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
-<h2 className="text-2xl font-bold mb-2">【本周安排】</h2>
-<h2 className="text-2xl font-bold mb-2">12/15 周日 11:00 小桌聊天+午餐</h2>
-<p className="mb-4">🔥本次主题：兴趣爱好，最近期待的事，室内活动/运动，书籍 等</p>
-<p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
-<p className="mb-4">感谢大家报名活动！由于场地方失联，本周活动将更改地点。<br />原先场地的AA费将全额退还给大家！</p>
-<p className="mb-4">📋 zelle收款信息填写：<br /><a href="https://forms.gle/EDdDqVNDdS2pFssz8" target="_blank" className="inline-block text-blue-500 hover:underline">https://forms.gle/EDdDqVNDdS2pFssz8</a></p>
-<p className="mb-4">最新安排请见：</p>
-<ul className="list-disc list-inside mb-4">
-  <li>11:00-11:10 Check-in @Sweet Bean</li>
-  <li>11:10-11:50 第一轮小桌聊天</li>
-  <li>11:50-12:30 第二轮小桌聊天</li>
-  <li>12:30-12:50 Gather</li>
-</ul>
-<p className="mb-4">🚗 20mins左右</p>
-<p className="mb-4">1:15 午餐@Avec River North<br />141 W Erie St, Chicago, IL 60654</p>
-<p className="mt-4 font-bold">那么大家，周日见🌞</p>
+<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+<h2 className="text-2xl font-bold mb-2">12/21 周六 11:30 Gallery Day + 午餐</h2>
+<p className="mb-4">限定人数：6人</p>
+<a href="https://www.eventbrite.co.nz/e/1221-1100-gallery-day-6-tickets-1116789480399" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+
+<p className="mb-4">Agenda：</p>
+<p className="mb-4">
+  11:30 <a href="https://corbettvsdempsey.com/exhibitions/celeste-rapone_2024/" target="_blank" className="text-blue-500 underline">Corbett Vs Dempsey</a><br />
+  📍2156 W Fulton St, Chicago, IL 60612
+</p>
+
+<p className="mb-4">🚗 5mins</p>
+
+<p className="mb-4">
+  12:00 午餐 @Yuzu Sushi & Robata Grill<br />
+  📍1751 W Chicago Ave, Chicago, IL 60622
+</p>
+
+<p className="mb-4">🚶步行2mins</p>
+
+<p className="mb-4">
+  1:00 <a href="http://wvvolumes.com/current/" target="_blank" className="text-blue-500 underline">Volume Gallery</a><br />
+  📍1709 W Chicago Ave 2nd floor, Chicago, IL 60622
+</p>
+
+<p className="mb-4">同栋/隔壁建筑物内其他画廊展览：</p>
+<p className="mb-2">
+  1. <a href="https://documentspace.com/exhibition/chicago-anneke-eussen-beyond-purpose/" target="_blank" className="text-blue-500 underline">Document</a>
+</p>
+<p className="mb-2">
+  2. <a href="https://westernexhibitions.com/current-exhibition/" target="_blank" className="text-blue-500 underline">Western Exhibitions</a>
+</p>
+<p className="mb-2">
+  3. <a href="https://www.rhoffmangallery.com/exhibitions/these-times" target="_blank" className="text-blue-500 underline">Rhona Hoffman Gallery</a>
+</p>
+
+<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
 <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
+
 
 
 
