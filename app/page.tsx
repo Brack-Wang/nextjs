@@ -26,14 +26,17 @@ export default function Home() {
   报名
   <a href="https://www.eventbrite.com/e/cfcht1231-630-tickets-1124633893249?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 </p>
-<p className="mb-4">
-  📍 Marquee at Block 37<br />
-  25 W Randolph St, Chicago, IL, 60601<br />
-  （请准时到大堂集合）
+
 </p>
 <h3 className="text-xl font-bold mt-4">🎯 Agenda：</h3>
 <p className="mb-4">
   6:30-11 PM 晚餐 + 交换礼物 + 桌游<br />
+  📍 Marquee at Block 37<br />
+  25 W Randolph St, Chicago, IL, 60601<br />
+  （请准时到大堂集合）
+ 
+    <p className="mb-4">
+  11 PM 🎆<br />    
   🚗 Navy Pier附近停车 & 散步去看烟花<br />
   *建议跟管理员车，我们已预订停车位*2。友情提示：自驾的各位请注意提前预约车位，跨年当天可能不好找。
 </p>
