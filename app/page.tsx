@@ -26,7 +26,6 @@ export default function Home() {
   <a href="https://www.eventbrite.com/e/cfcht1231-630-tickets-1124633893249?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 </p>
 
-</p>
 <h3 className="text-xl font-bold mt-4">🎯 Agenda：</h3>
 <p className="mb-4">
   6:30-11 PM 晚餐 + 交换礼物 + 桌游<br />
@@ -37,7 +36,7 @@ export default function Home() {
 <p className="mb-4">
   11 PM 🎆<br />
   🚗 Navy Pier附近停车 & 散步去看烟花<br />
-  * 建议跟管理员车，我们已预订停车位*2。友情提示：自驾的各位请注意提前预约车位，跨年当天可能不好找。
+  * 建议跟管理员车，我们已预订停车位*2。自驾的各位请提前预约车位，跨年当天可能不好找。
 </p>
 
 <h3 className="text-xl font-bold mt-4">🎁 交换礼物：</h3>
@@ -51,21 +50,23 @@ export default function Home() {
   外卖餐厅选择：<br />
   - Central East Asian Cuisine 印象新疆<br />
   - Taipei Cafe 小台北<br />
-  *请告知管理员 Justin 想点的菜（两间餐馆共选1-2道菜/人）。
+  * 请告知管理员 Justin 想点的菜（两间餐馆共选1-2道菜/人）。
 </p>
 
-<h3 className="text-xl font-bold mt-4">🧩桌游：</h3>
+<h3 className="text-xl font-bold mt-4">🧩 桌游：</h3>
 <p className="mb-4">
   提供游戏：爆炸猫、说书人、你画我猜、卡坦岛<br />
   * 也欢迎自带桌游。
 </p>
 
 <h3 className="text-xl font-bold mt-4">🚗 公寓附近停车资讯：</h3>
-      <p className="mb-4">
+<p className="mb-4">
   - Theatre District Garage: 181 N Dearborn St.<br />
   - Wabash Randolph Garage: 20 East Randolph St.<br />
   - Government Center Garage: 81 W Lake St.<br />
 </p>
+
+<h3 className="text-xl font-bold mt-4">📩 重要提醒：</h3>
 <p className="mb-4">
   * 请在Eventbrite报名后，当天23:59前私信管理员 Justin，同时备注Eventbrite报名名字 & 菜名及其餐厅，否则将取消名额。<br />
   * 现场有饮料，欢迎带想分享的东西。如有，请提前通知管理员。<br />
