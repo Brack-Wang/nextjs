@@ -33,11 +33,11 @@ export default function Home() {
   📍 Marquee at Block 37<br />
   25 W Randolph St, Chicago, IL, 60601<br />
   （请准时到大堂集合）
- 
-    <p className="mb-4">
-  11 PM 🎆<br />    
+</p>
+<p className="mb-4">
+  11 PM 🎆<br />
   🚗 Navy Pier附近停车 & 散步去看烟花<br />
-  *建议跟管理员车，我们已预订停车位*2。友情提示：自驾的各位请注意提前预约车位，跨年当天可能不好找。
+  * 建议跟管理员车，我们已预订停车位*2。友情提示：自驾的各位请注意提前预约车位，跨年当天可能不好找。
 </p>
 
 <h3 className="text-xl font-bold mt-4">🎁 交换礼物：</h3>
