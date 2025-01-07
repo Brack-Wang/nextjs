@@ -41,7 +41,8 @@ export default function Home() {
 <h3 className="text-xl font-bold mt-4">🍽️ 晚餐AA：</h3>
 <p className="mb-4">
   餐厅：<br />
-  - Ugazdy Polish Restaurant <br />
+  - Ugazdy Polish Restaurant 
+  270 Irving Park Rd, Wood Dale, IL 60191<br />
 </p>
 
 
