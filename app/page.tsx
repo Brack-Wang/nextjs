@@ -23,7 +23,7 @@ export default function Home() {
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">1/12 周日 17:00PM 室内射箭  + 晚餐</h2>
 <p className="mb-4">
-  <a href="https://www.eventbrite.com/e/cfcht1231-630-tickets-1124633893249?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+  <a href="https://www.eventbrite.com/e/112-1700-tickets-1141553119109?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 </p>
 
 <h3 className="text-xl font-bold mt-4">🎯About this event：</h3>
