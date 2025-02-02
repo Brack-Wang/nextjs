@@ -22,16 +22,16 @@ export default function Home() {
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">2/9 周日 11点小桌聊天+午餐</h2>
-  <p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
   
   <h3 className="text-xl font-bold mt-2">Agenda：</h3>
   <p className="mb-2">11:00-11:10 Check-in</p>
+        <p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
   <p className="mb-2">11:10-11:50 第一轮小桌聊天</p>
   <p className="mb-2">11:50-12:30 第二轮小桌聊天</p>
   
   <p className="mb-4">🚶8分钟 / 🚗2分钟左右</p>
 
-  <h3 className="text-xl font-bold mt-2">12:45 午餐 @ MIKAMI IZAKAYA & RAMEN</h3>
+  <p className="mb-2">12:45 午餐 @ MIKAMI IZAKAYA & RAMEN</p>
   <p className="mb-4">📍1400 S Michigan Ave, Chicago, IL 60605</p>
 
   <a href="https://www.eventbrite.co.nz/e/cfcht29-11-tickets-1232332141609?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
