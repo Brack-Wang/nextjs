@@ -18,18 +18,29 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
 
 
-      {/* TODO: Change the content for weekly events' information below */}
-      {/* Event Details Replacement Start */}
-        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">2/2 周日 1:10PM - 3:30PM</h2>
-        <p className="mb-4">🔥室内保龄球<br />45🔪/人，参与者请Zelle给管理员 @Justin (详情请见Eventbrite）<br />限定报名人数：10人</p>
-        <p className="mb-4">Pinstripes - Chicago (Downtown)<br />📍435 E Illinois St, Chicago, IL 60611</p>
-        <a href="https://www.eventbrite.com/e/cfcht22-110pm-tickets-1227087986199?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4">*报名成功，但未及时到场：店家如要求损失费，请未到场的个人承担全部所需费用。</p>
-        <p className="mt-4">*请至少提前2天取消，店家要求预约时间前48小时内 cancelation fee：20刀/人。</p>
-        <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
-        <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
-      {/* Event Details Replacement End */}
+```jsx
+{/* TODO: Change the content for weekly events' information below */}
+{/* Event Details Replacement Start */}
+  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+  <h2 className="text-2xl font-bold mb-2">2/9 周日 11点小桌聊天+午餐</h2>
+  <p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
+  
+  <h3 className="text-xl font-bold mt-2">Agenda：</h3>
+  <p className="mb-2">11:00-11:10 Check-in</p>
+  <p className="mb-2">11:10-11:50 第一轮小桌聊天</p>
+  <p className="mb-2">11:50-12:30 第二轮小桌聊天</p>
+  
+  <p className="mb-4">🚶8分钟 / 🚗2分钟左右</p>
+
+  <h3 className="text-xl font-bold mt-2">12:45 午餐 @ MIKAMI IZAKAYA & RAMEN</h3>
+  <p className="mb-4">📍1400 S Michigan Ave, Chicago, IL 60605</p>
+
+  <a href="https://www.eventbrite.co.nz/e/cfcht29-11-tickets-1232332141609?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+
+  <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
+  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
+{/* Event Details Replacement End */}
+```
 
 
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
