@@ -18,7 +18,6 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
 
 
-```jsx
 {/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
@@ -40,7 +39,7 @@ export default function Home() {
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
-```
+
 
 
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
