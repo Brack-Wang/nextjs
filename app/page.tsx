@@ -18,12 +18,12 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
 
 
-```jsx
+
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">3/1 周六 12PM - 2PM</h2>
-        <p className="mb-4">🏺️做陶瓷<br />55🔪/人（到店自付）<br />限定报名人数：5人</p>
+        <h2 className="text-2xl font-bold mb-2">3/1 周六 12PM - 2PM 🏺️做陶瓷</h2>
+        <p className="mb-4">55🔪/人（到店自付）<br />限定报名人数：5人</p>
         <p className="mb-4">Freestyle Ceramics & Tufting (Andersonville)<br />📍5127 N Clark St, Chicago, IL 60640<br />（距离Loop车程大概20分钟左右，请各位合理安排出行时间）</p>
         <a href="https://www.eventbrite.com/e/cfcht31-1200pm-200pm-tickets-1259643300019?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
