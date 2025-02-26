@@ -29,7 +29,6 @@ export default function Home() {
         <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
         <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
       {/* Event Details Replacement End */}
-```
 
 
 
