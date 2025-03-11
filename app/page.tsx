@@ -22,23 +22,40 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
       <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">3/16 周日 11:00AM 小桌聊天 + 午餐</h2>
-        <p className="mb-4">🗣️ 小桌聊天<br />报名人数：6人</p>
+      <h2 className="text-2xl font-bold mb-2">3/16 周日 11:00AM 小桌聊天 + 午餐</h2>
+      <p className="mb-4">🗣️ 小桌聊天<br />报名人数：6人</p>
 
-        <p className="mb-4">📍 Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
-        
-        <p className="mb-4">📝 Agenda：<br />11:00 - 11:10 Check-in<br />11:10 - 12:00 第一轮小桌聊天<br />12:00 - 12:50 第二轮小桌聊天</p>
+      <p className="mb-4">
+        📍 Sweet Bean<br />
+        1152 S Wabash Ave, Chicago, IL 60605
+      </p>
 
-        <p className="mb-4">🚶 8 mins 步行</p>
+      <p className="mb-4">
+        📝 Agenda：<br />
+        11:00 - 11:10 Check-in<br />
+        11:10 - 12:00 第一轮小桌聊天<br />
+        12:00 - 12:50 第二轮小桌聊天
+      </p>
 
-        <p className="mb-4">🍽️ 午餐 @ Lou Malnati's Pizzeria<br />📍 805 S State St, Chicago, IL 60605</p>
+      <p className="mb-4">🚶 8 mins 步行</p>
 
-        <a href="https://www.eventbrite.co.nz/e/cfcht316-11-tickets-1278571444609?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+      <p className="mb-4">
+        🍽️ 午餐 @ Lou Malnati&apos;s Pizzeria<br />
+        📍 805 S State St, Chicago, IL 60605
+      </p>
 
-        <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
-        <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
-        <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
+      <a href="https://www.eventbrite.co.nz/e/cfcht316-11-tickets-1278571444609?aff=oddtdtcreator" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">
+        报名🔗
+      </a>
+
+      <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
+      <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+      <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
       {/* Event Details Replacement End */}
+
 
 
 
