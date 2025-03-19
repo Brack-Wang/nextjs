@@ -26,7 +26,7 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2">3/23 周日 15:30 Activated室内游戏+晚餐</h2>
         <p className="mb-4">店家票价：$32.24/人<br />报名人数：9人</p>
         <p className="mb-4">📍Activated Oak Brook<br />1600 16th Street #unit 6, Oak Brook, IL, 60523</p>
-        <p className="mb-4">17:30 晚餐@D Cuisine<br />📍665 Pasquinelli Dr STE A, Westmont, IL 60559</p>
+        <p className="mb-4">17:30 晚餐@D Cuisine<br /> 665 Pasquinelli Dr STE A, Westmont, IL 60559</p>
         <p className="mt-4">Chih-Chien Lin<br />Zelle: 7328043047</p>
         <a href="https://www.eventbrite.com/e/cfcht323-330pm-activate-tickets-1295128828189?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mt-4">*请报名当天23:59前向管理员转zelle，并私信管理员 小红书@Justin 转账zelle名字+Eventbrite报名名字，否则将取消名额</p>
