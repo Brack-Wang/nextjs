@@ -23,8 +23,8 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">3/23 周日 15:30 Activated室内游戏</h2>
-        <p className="mb-4">🔥Activated室内游戏+晚餐<br />店家票价：$32.24/人<br />报名人数：9人</p>
+        <h2 className="text-2xl font-bold mb-2">3/23 周日 15:30 Activated室内游戏+晚餐</h2>
+        <p className="mb-4">店家票价：$32.24/人<br />报名人数：9人</p>
         <p className="mb-4">📍Activated Oak Brook<br />1600 16th Street #unit 6, Oak Brook, IL, 60523</p>
         <p className="mb-4">17:30 晚餐@D Cuisine<br />📍665 Pasquinelli Dr STE A, Westmont, IL 60559</p>
         <p className="mt-4">Chih-Chien Lin<br />Zelle: 7328043047</p>
