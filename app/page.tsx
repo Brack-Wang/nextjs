@@ -23,9 +23,11 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">4/6  周日1:50PM - 4:00PM 迷你高尔夫</h2>
+        <h2 className="text-2xl font-bold mb-2">4/6  周日1:50PM - 5:00PM 迷你高尔夫+晚餐</h2>
         <p className="mb-4">店家票价：$25/人<br />报名人数：9人</p>
         <p className="mb-4">📍Puttshack - Oakbrook<br />1828 Oakbrook Center, Oak Brook, IL 60523</p>
+        <p className="mb-4">官方介绍：https://www.puttshack.com/the-game</p>
+        <p className="mb-4">距离loop车程大概30分钟左右，请各位合理安排出行时间</p>
         <a href="https://www.eventbrite.com/e/cfcht46-1250pm-400pm-tickets-1310612450119?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mt-4">*请在报名成功后，当天23:59前私信管理员小红书@Nameless，同时备注Eventbrite报名名字，管理员将告知zelle信息，否则将取消名额</p>
         <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
