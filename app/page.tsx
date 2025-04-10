@@ -27,7 +27,7 @@ export default function Home() {
         <p className="mb-4">🔥春季Hiking!<br />报名人数：10人</p>
         <p className="mb-4">地点：Matthiessen State Park<br />📍2500 IL-178, Oglesby, IL 61348</p>
         <p className="mb-4">活动简介：Car pool 在市区接人，大概中午从DT出发，下午两点在停车场集合<br />，依照情况决定其中一条路线 <br />Dells Area to Vermillion River Area Loop (ETA 1hr, 难度Moderate)<br />Dells Canyon and Bluff Trail (ETA 2hr30min, 难度Moderate)<br />Hiking结束后可视情况一起晚餐。</p>
-        <a href="https://www.eventbrite.com/e/cfcht46-1250pm-400pm-tickets-1310612450119?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <a href="https://www.eventbrite.com/e/cfcht413-matthiessen-state-park-hiking-tickets-1319442821999?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，並告知管理員 Justin</p>
         <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
         <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
