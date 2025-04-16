@@ -23,13 +23,15 @@ export default function Home() {
       {/* TODO: Change the content for weekly events' information below */}
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">4/13  周日2:00PM - x:00PM(待定）Matthiessen State Park Hiking</h2>
-        <p className="mb-4">🔥春季Hiking!<br />报名人数：10人</p>
-        <p className="mb-4">地点：Matthiessen State Park<br />📍2500 IL-178, Oglesby, IL 61348</p>
-        <p className="mb-4">活动简介：Car pool 在市区接人，大概中午从DT出发，下午两点在停车场集合<br />，依照情况决定其中一条路线 <br />Dells Area to Vermillion River Area Loop (ETA 1hr, 难度Moderate)<br />Dells Canyon and Bluff Trail (ETA 2hr30min, 难度Moderate)<br />Hiking结束后可视情况一起晚餐。</p>
-        <a href="https://www.eventbrite.com/e/cfcht413-matthiessen-state-park-hiking-tickets-1319442821999?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，並告知管理員 Justin</p>
-        <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
+        <h2 className="text-2xl font-bold mb-2">4/20 周日 11AM 小桌聊天+午餐</h2>
+        <p className="mb-4">👥报名人数：6人</p>
+        <a href="https://www.eventbrite.co.nz/e/cfcht420-11-tickets-1328659810259?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <p className="mt-4 font-bold">Agenda：</p>
+        <p className="mb-2">11:00 Check-in<br />📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
+        <p className="mb-2">11:10 - 12:00 第一轮小桌聊天</p>
+        <p className="mb-2">12:00 - 12:50 第二轮小桌聊天</p>
+        <p className="mb-4">🚶8分钟步行</p>
+        <p className="mb-4">13:00 午餐 @ Siam Thai Eatery Chicago<br />📍1329 S Michigan Ave, Chicago, IL 60605</p>
         <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
       {/* Event Details Replacement End */}
 
