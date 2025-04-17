@@ -24,7 +24,7 @@ export default function Home() {
       {/* Event Details Replacement Start */}
         <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
         <h2 className="text-2xl font-bold mb-2">4/20 周日 11AM 小桌聊天+午餐</h2>
-        <p className="mb-4">👥报名人数：6人</p>
+        <p className="mb-4">👥报名人数：9人</p>
         <a href="https://www.eventbrite.co.nz/e/cfcht420-11-tickets-1328659810259?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mt-4 font-bold">Agenda：</p>
         <p className="mb-2">11:00 Check-in<br />📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
