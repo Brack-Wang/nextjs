@@ -20,20 +20,19 @@ export default function Home() {
 
 
 
-      {/* TODO: Change the content for weekly events' information below */}
-      {/* Event Details Replacement Start */}
-        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">4/20 周日 11AM 小桌聊天+午餐</h2>
-        <p className="mb-4">👥报名人数：9人</p>
-        <a href="https://www.eventbrite.co.nz/e/cfcht420-11-tickets-1328659810259?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4 font-bold">Agenda：</p>
-        <p className="mb-2">11:00 Check-in<br />📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
-        <p className="mb-2">11:10 - 12:00 第一轮小桌聊天</p>
-        <p className="mb-2">12:00 - 12:50 第二轮小桌聊天</p>
-        <p className="mb-4">🚶8分钟步行</p>
-        <p className="mb-4">13:00 午餐 @ Siam Thai Eatery Chicago<br />📍1329 S Michigan Ave, Chicago, IL 60605</p>
-        <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
-      {/* Event Details Replacement End */}
+{/* TODO: Change the content for weekly events' information below */}
+{/* Event Details Replacement Start */}
+  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+  <h2 className="text-2xl font-bold mb-2">4/27 周日 1 - 4:30PM</h2>
+  <p className="mb-4">🌳Go Ape Treetop Adventure<br />含税 $72/人，如订满团购人数会退一部分票价</p>
+  <p className="mb-4">📍1100 Ogden Ave, Western Springs, IL 60558<br />距离 Loop 车程约 50 分钟，有车位但可能被停满，请大家合理安排出行时间，建议提前到达</p>
+  <a href="https://www.eventbrite.com/e/cfcht068-215pm-go-ape-treetop-journey-tickets-918556285577?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名（详情🔎）</a>
+  <p className="mt-4">*店家要求每人活动期间佩戴手套，可自带或现场购买（$9.95/副），我们不提前代购</p>
+  <p className="mt-4">*请在 Eventbrite 报名后，当天 23:59 前私信管理员 Dessi Eventbrite报名名字，管理员会告知 Zelle 转账方式，否则名额将被取消</p>
+  <p className="mt-4">*如报名后无法出席，请自行联系群内其他成员转票</p>
+  <p className="mt-4 font-bold">周日见！</p>
+  <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
+{/* Event Details Replacement End */}
 
 
 
