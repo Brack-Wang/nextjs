@@ -23,7 +23,7 @@ export default function Home() {
 {/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">4/27 周日 1 - 4:30PM</h2>
+  <h2 className="text-2xl font-bold mb-2">4/27 周日 1 - 4:30PM Zipline</h2>
   <p className="mb-4">🌳Go Ape Treetop Adventure<br />含税 $72/人，如订满团购人数会退一部分票价</p>
   <p className="mb-4">📍1100 Ogden Ave, Western Springs, IL 60558<br />距离 Loop 车程约 50 分钟，有车位但可能被停满，请大家合理安排出行时间，建议提前到达</p>
   <a href="https://www.eventbrite.com/e/cfcht068-215pm-go-ape-treetop-journey-tickets-918556285577?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名（详情🔎）</a>
