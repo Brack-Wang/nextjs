@@ -23,12 +23,10 @@ export default function Home() {
 {/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">4/27 周日 1 - 4:30PM Zipline</h2>
-  <p className="mb-4">🌳Go Ape Treetop Adventure<br />含税 $72/人，如订满团购人数会退一部分票价</p>
-  <p className="mb-4">📍1100 Ogden Ave, Western Springs, IL 60558<br />距离 Loop 车程约 50 分钟，有车位但可能被停满，请大家合理安排出行时间，建议提前到达</p>
-  <a href="https://www.eventbrite.com/e/cfcht427-go-ape-treetop-adventrue-tickets-1338068933199?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mt-4">*店家要求每人活动期间佩戴手套，可自带或现场购买（$9.95/副），我们不提前代购</p>
-  <p className="mt-4">*请在 Eventbrite 报名后，当天 23:59 前私信管理员 Dessi Eventbrite报名名字，管理员会告知 Zelle 转账方式，否则名额将被取消</p>
+  <h2 className="text-2xl font-bold mb-2">5/4  周日11:30PM - 1:00PM 奶茶分享会</h2>
+  <p className="mb-4">🌳UniUni 奶茶分享会：讲解制作奶茶的步骤，各种比例对于口感以及味道的影响，还能尝到他们的内测新品！</p>
+  <p className="mb-4">📍1415 N Milwaukee Ave Unit 1, Chicago, IL 60622<br />距离 Loop 车程约 15 分钟，请大家合理安排出行时间，建议提前到达</p>
+  <a href="https://www.eventbrite.com/e/cfcht54-1130pm-100pm-tickets-1347235390319?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
   <p className="mt-4">*如报名后无法出席，请自行联系群内其他成员转票</p>
   <p className="mt-4 font-bold">周日见！</p>
   <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
