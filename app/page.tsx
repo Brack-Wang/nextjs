@@ -24,7 +24,7 @@ export default function Home() {
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">5/4  周日11:30PM - 1:00PM 奶茶分享会</h2>
-  <p className="mb-4">🌳UniUni 奶茶分享会：讲解制作奶茶的步骤，各种比例对于口感以及味道的影响，还能尝到他们的内测新品！</p>
+  <p className="mb-4">🌳奶茶分享会：讲解制作奶茶的步骤，各种比例对于口感以及味道的影响，还能尝试不同口味的奶茶！</p>
   <p className="mb-4">📍1415 N Milwaukee Ave Unit 1, Chicago, IL 60622<br />距离 Loop 车程约 15 分钟，请大家合理安排出行时间，建议提前到达</p>
   <a href="https://www.eventbrite.com/e/cfcht54-1130pm-100pm-tickets-1347235390319?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
   <p className="mt-4">*如报名后无法出席，请自行联系群内其他成员转票</p>
