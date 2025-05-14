@@ -19,18 +19,17 @@ export default function Home() {
 
 
 
+      {/* TODO: Change the content for weekly events' information below */}
+      {/* Event Details Replacement Start */}
+        <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
+        <h2 className="text-2xl font-bold mb-2">5/18 周日 11AM 小桌聊天 + 午餐</h2>
+        <p className="mb-4">👥 报名人数：9人（共3桌）</p>
+        <p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
+        <p className="mb-4">🕒 Agenda:<br />11:00 - 11:10 Check-in<br />11:10 - 12:00 第一轮小桌聊天<br />12:00 - 12:50 第二轮小桌聊天<br /><br />🚶步行约10分钟<br />13:15 午餐 @ Niu B<br />📍888 S Michigan Ave, Chicago, IL 60605</p>
+        <a href="https://www.eventbrite.co.nz/e/cfcht518-11-tickets-1363822462699?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+        <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
+      {/* Event Details Replacement End */}
 
-{/* TODO: Change the content for weekly events' information below */}
-{/* Event Details Replacement Start */}
-  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">5/4  周日11:30PM - 1:00PM 奶茶分享会</h2>
-  <p className="mb-4">🌳奶茶分享会：讲解制作奶茶的步骤，各种比例对于口感以及味道的影响，还能尝试不同口味的奶茶！</p>
-  <p className="mb-4">📍1415 N Milwaukee Ave Unit 1, Chicago, IL 60622<br />距离 Loop 车程约 15 分钟，请大家合理安排出行时间，建议提前到达</p>
-  <a href="https://www.eventbrite.com/e/cfcht54-1130pm-100pm-tickets-1347235390319?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mt-4">*如报名后无法出席，请自行联系群内其他成员转票</p>
-  <p className="mt-4 font-bold">周日见！</p>
-  <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
-{/* Event Details Replacement End */}
 
 
 
