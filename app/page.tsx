@@ -24,8 +24,7 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
         <h2 className="text-2xl font-bold mb-2">5/18 周日 11AM 小桌聊天 + 午餐</h2>
         <p className="mb-4">👥 报名人数：9人（共3桌）</p>
-        <p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
-        <p className="mb-4">🕒 Agenda:<br />11:00 - 11:10 Check-in<br />11:10 - 12:00 第一轮小桌聊天<br />12:00 - 12:50 第二轮小桌聊天<br /><br />🚶步行约10分钟<br />13:15 午餐 @ Niu B<br />📍888 S Michigan Ave, Chicago, IL 60605</p>
+        <p className="mb-4">🕒 Agenda:<br />11:00 - 11:10 Check-in @Sweet Bean<br />📍1152 S Wabash Ave, Chicago, IL 60605<br />11:10 - 12:00 第一轮小桌聊天<br />12:00 - 12:50 第二轮小桌聊天<br /><br />🚶步行约10分钟<br />13:15 午餐 @ Niu B<br />📍888 S Michigan Ave, Chicago, IL 60605</p>
         <a href="https://www.eventbrite.co.nz/e/cfcht518-11-tickets-1363822462699?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
         <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
       {/* Event Details Replacement End */}
