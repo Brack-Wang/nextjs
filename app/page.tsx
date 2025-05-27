@@ -22,11 +22,9 @@ export default function Home() {
   <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">6/1 周日 11AM - 12:30PM 冥想香薰制作：Resilience</h2>
   <p className="mb-4">报名人数：8人</p>🕯️自己挑香味！12oz<br />团购价：$27.57/人（含税）
+  <p className="mb-4">📍Uni Uni Bubble Tea - Wick Park<br />1415 N Milwaukee Ave Unit 1, Chicago, IL 60622</p>
   <p className="mt-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
-        
-  <p className="mb-4">📍Uni Uni Bubble Tea - Wick Park<br />地址：1415 N Milwaukee Ave Unit 1, Chicago, IL 60622</p>
   <a href="https://www.eventbrite.co.nz/e/cfcht61-11-1230-resilience-tickets-1383115468599?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-
   <p className="mt-4">*周末比较热闹，街pa的朋友们建议提前30分钟左右到找车位，我们11点准时开始</p>
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
   <p className="mt-4">*请在eventbrite报名成功后，当天22点前向管理员转Zelle，否则将取消名额</p>
