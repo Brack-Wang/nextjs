@@ -21,7 +21,7 @@ export default function Home() {
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">6/1 周日 11AM - 12:30PM 冥想香薰制作：Resilience</h2>
-  <p className="mb-4">Craft your own 12oz Intention candle, infused with a personally selected fragrance, while indulging in a meditative experience.<br />
+  <p className="mb-4">🕯️自己挑香味！12oz<br />
     团购价：$27.57/人（含税）<br />报名人数：8人</p>
           <p className="mt-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
   <p className="mb-4">📍Uni Uni Bubble Tea - Wick Park<br />地址：1415 N Milwaukee Ave Unit 1, Chicago, IL 60622</p>
