@@ -18,16 +18,20 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
 
 
-
-      {/* TODO: Change the content for weekly events' information below */}
-      {/* Event Details Replacement Start */}
-        <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
-        <h2 className="text-2xl font-bold mb-2">5/18 周日 11AM 小桌聊天 + 午餐</h2>
-        <p className="mb-4">👥 报名人数：9人（共3桌）</p>
-        <p className="mb-4">🕒 Agenda:<br />11:00 - 11:10 Check-in @Sweet Bean<br />📍1152 S Wabash Ave, Chicago, IL 60605<br />11:10 - 12:00 第一轮小桌聊天<br />12:00 - 12:50 第二轮小桌聊天<br /><br />🚶步行约10分钟<br />13:15 午餐 @ Niu B<br />📍888 S Michigan Ave, Chicago, IL 60605</p>
-        <a href="https://www.eventbrite.co.nz/e/cfcht518-11-tickets-1363822462699?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-        <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
-      {/* Event Details Replacement End */}
+{/* Event Details Replacement Start */}
+  <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
+  <h2 className="text-2xl font-bold mb-2">6/1 周日 11AM - 12:30PM 冥想香薰制作：Resilience</h2>
+  <p className="mb-4">Craft your own 12oz Intention candle, infused with a personally selected fragrance, while indulging in a meditative experience.<br />
+    团购价：$27.57/人（含税）<br />报名人数：8人</p>
+          <p className="mt-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
+  <p className="mb-4">📍Uni Uni Bubble Tea - Wick Park<br />地址：1415 N Milwaukee Ave Unit 1, Chicago, IL 60622</p>
+  <a href="https://www.eventbrite.co.nz/e/cfcht61-11-1230-resilience-tickets-1383115468599?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+  <p className="mt-4">*周末比较热闹，街pa的朋友们建议提前30分钟左右到找车位，我们11点准时开始</p>
+  <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
+  <p className="mt-4">*请在eventbrite报名成功后，当天22点前向管理员转Zelle，否则将取消名额</p>
+  <p className="mt-4 font-bold">大家周日见！🕯️🌿</p>
+  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
+{/* Event Details Replacement End */}
 
 
 
