@@ -40,7 +40,7 @@ export default function Home() {
 
   <a href="https://www.eventbrite.com/e/hiking-cfcht-sunday-tickets-1400553105039?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 
-  <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，并告知管理员 Justin</p>
+  <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，并告知管理员 Frank</p>
 
   <p className="mt-4 font-bold">活动简介：</p>
   <p className="mt-4">Car pool 在市区接人，大概中午从DT出发，下午1点在停车场集合，依照情况决定其中一条路线：</p>
