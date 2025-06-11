@@ -19,41 +19,18 @@ export default function Home() {
 
 
 {/* Event Details Replacement Start */}
-{/*   <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">6/1 周日 11AM - 12:30PM 冥想香薰制作：Resilience</h2>
-  <p className="mb-4">报名人数：8人<br />🕯️自己挑香味！12oz<br />团购价：$27.57/人（含税）</p>
-  <p className="mb-4">📍Uni Uni Bubble Tea - Wick Park<br />1415 N Milwaukee Ave Unit 1, Chicago, IL 60622</p>
-  <p className="mt-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
-  <a href="https://www.eventbrite.co.nz/e/cfcht61-11-1230-resilience-tickets-1383115468599?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mt-4">*周末比较热闹，街pa的朋友们建议提前30分钟左右到找车位，我们11点准时开始</p>
-  <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴，进行转票</p>
-  <p className="mt-4">*请在eventbrite报名成功后，当天22点前向管理员转Zelle，否则将取消名额</p>
-  <p className="mt-4 font-bold">大家周日见！🌞</p>
-  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p> */}
-
-  {/* TODO: Change the content for weekly events' information below */}
-{/* Event Details Replacement Start */}
-  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">6/8 周日 1:00 PM - ??:?? PM</h2>
-  <p className="mb-4">🔥夏季Hiking!</p>
-  <p className="mb-4">地点：Matthiessen State Park<br />📍2500 IL-178, Oglesby, IL 61348</p>
-
-  <a href="https://www.eventbrite.com/e/hiking-cfcht-sunday-tickets-1400553105039?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-
-  <p className="mt-4">*报名成功后，如无法出席请在eventbrite取消，并告知管理员 Frank</p>
-
-  <p className="mt-4 font-bold">活动简介：</p>
-  <p className="mt-4">Car pool 在市区接人，大概中午从DT出发，下午1点在停车场集合，依照情况决定其中一条路线：</p>
-  <ul className="list-disc list-inside mb-4">
-    <li>Dells Area to Vermillion River Area Loop（预计 1 小时，难度 Moderate）</li>
-    <li>Dells Canyon and Bluff Trail（预计 2 小时30 分钟，难度 Moderate）</li>
-  </ul>
-
-  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
+<h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
+<h2 className="text-2xl font-bold mb-2">6/15 周日 11:00 🍓草莓采摘</h2>
+<p className="mb-4">限定人数：7人，<strong>管理员🉑️安排拼车</strong><br />🕚 ETA：上午11:00到达草莓园<br />从Loop出发车程约1.5小时，请大家合理安排出行时间（工作人员提示：再晚到可能会很热哦！）</p>
+<p className="mb-4">TOM’s Farm Market<br />📍10214 Algonquin Road, Huntley, IL 60142</p>
+<p className="mb-4">报名🔗<br /><a href="https://www.eventbrite.com/e/cfcht615-1100-tickets-1407922878229?aff=oddtdtcreator" target="_blank" className="underline text-blue-600 hover:text-blue-800 visited:text-purple-600">https://www.eventbrite.com/e/cfcht615-1100-tickets-1407922878229?aff=oddtdtcreator</a></p>
+<p className="mb-4">🎟 费用说明（到场后自付）：<br />* 入园 Field Access Pass：$5/人<br />* 草莓采摘：$3.99/lb</p>
+<p className="mb-4">🌿 下午 optional 活动：<br />* 想散步的同学可前往附近trail放松<br />* 想休息的朋友也可留在market逛逛聊天</p>
+<p className="mt-4">*草莓采摘非常看天气，周六我们会再确认一下，如果突然有雨有变更会及时群里通知大家！</p>
+<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额；如新成员需要管理员帮安排拼车请ASAP联系群主@CHLOE Q</p>
+<p className="mt-4 font-bold">本周日见！🍓🌞</p>
+<p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
-
-{/* Event Details Replacement End */}
-
 
 
 
