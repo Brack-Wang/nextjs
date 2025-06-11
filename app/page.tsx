@@ -15,11 +15,10 @@ export default function Home() {
       </div>
 
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
-        <h2 className="text-2xl font-bold mb-2"> 【芝加哥CFCHT】 </h2>
+        <h2 className="text-2xl font-bold mb-2"> 【芝加哥CFCHT】报名中 </h2>
 
 
 {/* Event Details Replacement Start */}
-<h2 className="text-2xl font-bold mb-2">报名中</h2>
 <h2 className="text-2xl font-bold mb-2">6/15 周日 11:00 🍓草莓采摘</h2>
 <p className="mb-4">限定人数：7人，<strong>管理员🉑️安排拼车</strong><br />🕚 ETA：上午11:00到达草莓园<br />从Loop出发车程约1.5小时，请大家合理安排出行时间（工作人员提示：再晚到可能会很热哦！）</p>
 <p className="mb-4">地点：TOM’s Farm Market<br />📍10214 Algonquin Road, Huntley, IL 60142</p>
