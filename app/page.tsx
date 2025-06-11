@@ -15,7 +15,7 @@ export default function Home() {
       </div>
 
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
-        <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
+        <h2 className="text-2xl font-bold mb-2"> 【芝加哥CFCHT】 </h2>
 
 
 {/* Event Details Replacement Start */}
