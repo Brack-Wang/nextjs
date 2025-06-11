@@ -22,7 +22,7 @@ export default function Home() {
 <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">6/15 周日 11:00 🍓草莓采摘</h2>
 <p className="mb-4">限定人数：7人，<strong>管理员🉑️安排拼车</strong><br />🕚 ETA：上午11:00到达草莓园<br />从Loop出发车程约1.5小时，请大家合理安排出行时间（工作人员提示：再晚到可能会很热哦！）</p>
-<p className="mb-4">TOM’s Farm Market<br />📍10214 Algonquin Road, Huntley, IL 60142</p>
+<p className="mb-4">地点：TOM’s Farm Market<br />📍10214 Algonquin Road, Huntley, IL 60142</p>
 <p className="mb-4">
   <a 
     href="https://www.eventbrite.com/e/cfcht615-1100-tickets-1407922878229?aff=oddtdtcreator" 
