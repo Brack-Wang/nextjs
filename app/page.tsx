@@ -18,27 +18,26 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
 
 
-{/* Event Details Replacement Start */}
-<h2 className="text-2xl font-bold mb-2"> 【本周安排】报名中 </h2>
-<h2 className="text-2xl font-bold mb-2">6/15 周日 11:00 🍓草莓采摘</h2>
-<p className="mb-4">限定人数：7人，<strong>管理员🉑️安排拼车</strong><br />🕚 ETA：上午11:00到达草莓园<br />从Loop出发车程约1.5小时，请大家合理安排出行时间（工作人员提示：再晚到可能会很热哦！）</p>
-<p className="mb-4">地点：TOM’s Farm Market<br />📍10214 Algonquin Road, Huntley, IL 60142</p>
-<p className="mb-4">
-  <a 
-    href="https://www.eventbrite.com/e/cfcht615-1100-tickets-1407922878229?aff=oddtdtcreator" 
-    target="_blank" 
-    className="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out"
-  >
-    报名🔗
-  </a>
-</p>
-<p className="mb-4">🎟 费用说明（到场后自付）：<br />* 入园 Field Access Pass：$5/人<br />* 草莓采摘：$3.99/lb</p>
-<p className="mb-4">🌿 下午 optional 活动：<br />* 想散步的同学可前往附近trail放松<br />* 想休息的朋友也可留在market逛逛聊天</p>
-<p className="mt-4">*草莓采摘非常看天气，周六我们会再确认一下，如果突然有雨有变更会及时群里通知大家！</p>
-<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额；如新成员需要管理员帮安排拼车请ASAP联系群主@CHLOE Q</p>
-<p className="mt-4 font-bold">本周日见！🍓🌞</p>
-<p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
-{/* Event Details Replacement End */}
+      {/* Event Details Replacement Start */}
+      <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+      <h2 className="text-2xl font-bold mb-2">6/22 周日 2:15 PM 🔥Mish Mash Adventures</h2>
+      <p className="mb-4">限定人数：15人，<strong>管理员🉑️统一付全款</strong><br />🕑 ETA：下午2:15集合，活动持续至5:00 PM<br />从Loop出发车程约1小时（含可能拥堵），请大家合理安排出行时间</p>
+      <p className="mb-4">地点：Fox Valley Mall<br />📍2402 Fox Valley Mall, Aurora, IL 60504</p>
+      <p className="mb-4">
+        <a 
+          href="https://www.eventbrite.com/e/cfcht622-215pm-mish-mash-adventures-tickets-1418059045779?aff=oddtdtcreator" 
+          target="_blank" 
+          className="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out"
+        >
+          报名🔗
+        </a>
+      </p>
+      <p className="mb-4">🎟 费用说明（需提前转账AA制）：<br />* 店家票价：$29.15/人<br />* 管理员已支付定金，现场将统一付清尾款</p>
+      <p className="mb-4">⚠️ 报名确认方式：<br />* 请于报名当天<strong>23:59前</strong>通过Zelle向管理员转账<br />* 并私信小红书@Justin，注明zelle转账名字+报名名字（必须与Eventbrite报名名字完全一致）<br />* 逾期未完成将取消报名名额</p>
+      <p className="mt-4">*如报名后无法出席，请及时联系群里其他小伙伴转票</p>
+      <p className="mt-4 font-bold">本周日见！🌀🎉</p>
+      <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
+      {/* Event Details Replacement End */}
 
 
 
