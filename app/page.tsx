@@ -25,7 +25,7 @@ export default function Home() {
       <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
       <p className="mb-4">
         <a 
-          href="https://www.eventbrite.com/e/cfcht622-215pm-mish-mash-adventures-tickets-1418059045779?aff=oddtdtcreator" 
+          href="https://www.eventbrite.com/e/cfcht629-345pm-500pm-lastertag-tickets-1434670581329?aff=oddtdtcreator" 
           target="_blank" 
           className="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out"
         >
