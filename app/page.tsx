@@ -20,9 +20,9 @@ export default function Home() {
 
       {/* Event Details Replacement Start */}
       <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-      <h2 className="text-2xl font-bold mb-2">6/22 周日 2:15 PM 🔥Mish Mash Adventures</h2>
-      <p className="mb-4">限定人数：15人，<strong>管理员🉑️统一付全款</strong><br />🕑 ETA：下午2:15集合，活动持续至5:00 PM<br />从Loop出发车程约1小时（含可能拥堵），请大家合理安排出行时间</p>
-      <p className="mb-4">地点：Fox Valley Mall<br />📍2402 Fox Valley Mall, Aurora, IL 60504</p>
+      <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】6/29  周日3:45PM - 5:00PM LasterTag</h2>
+      <p className="mb-4">限定人数：10人，<br />🕑 ETA：下午3:45集合，活动持续至5:00 PM<br />从Loop出发车程约20mins（含可能拥堵），请大家合理安排出行时间</p>
+      <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
       <p className="mb-4">
         <a 
           href="https://www.eventbrite.com/e/cfcht622-215pm-mish-mash-adventures-tickets-1418059045779?aff=oddtdtcreator" 
@@ -32,8 +32,8 @@ export default function Home() {
           报名🔗
         </a>
       </p>
-      <p className="mb-4">🎟 费用说明（需提前转账AA制）：<br />* 店家票价：$29.15/人<br />* 管理员已支付定金，现场将统一付清尾款</p>
-      <p className="mb-4">⚠️ 报名确认方式：<br />* 请于报名当天<strong>23:59前</strong>通过Zelle向管理员转账<br />* 并私信小红书@Justin，注明zelle转账名字+报名名字（必须与Eventbrite报名名字完全一致）<br />* 逾期未完成将取消报名名额</p>
+      <p className="mb-4">🎟 费用说明（需提前转账AA制）：<br />* 店家票价（税后）：33.60/人<br />* 管理员已支付</p>
+      <p className="mb-4">⚠️ 报名确认方式：<br />* 请于报名当天<strong>23:59前</strong>通过Zelle向管理员转账<br />* 并私信小红书@Nameless，注明zelle转账名字+报名名字（必须与Eventbrite报名名字完全一致）<br />* 逾期未完成将取消报名名额</p>
       <p className="mt-4">*如报名后无法出席，请及时联系群里其他小伙伴转票</p>
       <p className="mt-4 font-bold">本周日见！🌀🎉</p>
       <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
