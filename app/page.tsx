@@ -20,7 +20,7 @@ export default function Home() {
 
       {/* Event Details Replacement Start */}
       <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-      <h2 className="text-2xl font-bold mb-2">6/29  周日3:45PM - 5:00PM LasterTag</h2>
+      <h2 className="text-2xl font-bold mb-2">6/29  周日3:45PM - 5PM LasterTag</h2>
       <p className="mb-4">限定人数：10人，<br />🕑 ETA：下午3:45集合，活动持续至5:00 PM<br />从Loop出发车程约20mins（含可能拥堵），请大家合理安排出行时间</p>
       <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
       <p className="mb-4">
@@ -34,10 +34,10 @@ export default function Home() {
       </p>
       <p className="mb-4">🎟 费用说明（需提前转账AA制）：<br />* 店家票价（税后）：33.60/人<br />* 管理员已支付</p>
   <p className="mb-4"> ⚠️ 报名确认方式：<br /> * 请在 Eventbrite 报名成功后，私信管理员小红书 <strong>@Nameless</strong><br />
-* 私信内容请备注：<strong>Eventbrite 报名名字 + Zelle 转账名字</strong><br />
-* 管理员将回复 Zelle 信息，请于报名当天 <strong>23:59 前</strong>完成转账<br />
-* 逾期未完成将自动取消报名名额 </p>
-      <p className="mt-4">*如报名后无法出席，请及时联系群里其他小伙伴转票</p>
+私信内容请备注：<strong>Eventbrite 报名名字 + Zelle 转账名字</strong><br />
+管理员将回复 Zelle 信息，请于报名当天 <strong>23:59 前</strong>完成转账<br />
+逾期未完成将自动取消报名名额 </p>
+      <p className="mt-4">* 如报名后无法出席，请及时联系群里其他小伙伴转票</p>
       <p className="mt-4 font-bold">周日见！🌀🎉</p>
       <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
       {/* Event Details Replacement End */}
