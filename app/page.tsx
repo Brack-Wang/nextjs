@@ -33,9 +33,12 @@ export default function Home() {
         </a>
       </p>
       <p className="mb-4">🎟 费用说明（需提前转账AA制）：<br />* 店家票价（税后）：33.60/人<br />* 管理员已支付</p>
-      <p className="mb-4">⚠️ 报名确认方式：<br />* 请于报名当天<strong>23:59前</strong>通过Zelle向管理员转账<br />* 并私信小红书@Nameless，注明zelle转账名字+报名名字（必须与Eventbrite报名名字完全一致）<br />* 逾期未完成将取消报名名额</p>
+  <p className="mb-4"> ⚠️ 报名确认方式：<br /> * 请在 Eventbrite 报名成功后，私信管理员小红书 <strong>@Nameless</strong><br />
+* 私信内容请备注：<strong>Eventbrite 报名名字 + Zelle 转账名字</strong><br />
+* 管理员将回复 Zelle 信息，请于报名当天 <strong>23:59 前</strong>完成转账<br />
+* 逾期未完成将自动取消报名名额 </p>
       <p className="mt-4">*如报名后无法出席，请及时联系群里其他小伙伴转票</p>
-      <p className="mt-4 font-bold">本周日见！🌀🎉</p>
+      <p className="mt-4 font-bold">周日见！🌀🎉</p>
       <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
       {/* Event Details Replacement End */}
 
