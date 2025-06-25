@@ -32,7 +32,7 @@ export default function Home() {
           报名🔗
         </a>
       </p>
-      <p className="mb-4">🎟 费用说明（需提前转账AA制）：<br /> 店家票价（税后）：33.60/人<br /> 管理员已支付</p>
+      <p className="mb-4">🎟 费用说明（需提前转账AA制）：<br /> 店家票价（税后）：33.60/人</p>
   <p className="mb-4"> ⚠️ 报名确认方式：<br /> * 请在 Eventbrite 报名成功后，私信管理员小红书 <strong>@Nameless</strong><br />
 私信内容请备注：<strong>Eventbrite 报名名字 + Zelle 转账名字</strong><br />
 管理员将回复 Zelle 信息，请于报名当天 <strong>23:59 前</strong>完成转账<br />
