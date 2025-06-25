@@ -20,7 +20,7 @@ export default function Home() {
 
       {/* Event Details Replacement Start */}
       <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-      <h2 className="text-2xl font-bold mb-2">【芝加哥CFCHT】6/29  周日3:45PM - 5:00PM LasterTag</h2>
+      <h2 className="text-2xl font-bold mb-2">6/29  周日3:45PM - 5:00PM LasterTag</h2>
       <p className="mb-4">限定人数：10人，<br />🕑 ETA：下午3:45集合，活动持续至5:00 PM<br />从Loop出发车程约20mins（含可能拥堵），请大家合理安排出行时间</p>
       <p className="mb-4">地点：WhirlyBall Chicago<br />📍1825 W Webster Ave, Chicago, IL 60614</p>
       <p className="mb-4">
