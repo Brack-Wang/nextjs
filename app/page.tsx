@@ -19,11 +19,11 @@ export default function Home() {
 
 
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">7/13 周日 11-13:00 野餐🧺</h2>
+<h2 className="text-2xl font-bold mb-2">7/13 周日 11-13:00 野餐式小桌🧺</h2>
 <p className="mb-4">报名人数：12人<br />👋欢迎大家带想share的吃的喝的！</p>
 <p className="mb-4">地点：Burnham Park Promontory Point<br />📍5491 S DuSable Lake Shore Dr, Chicago, IL 60615</p>
 <a href="https://www.eventbrite.co.nz/e/cfcht713-11-1300-tickets-1477849089409?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mt-4">*详细位置管理员当天群里发定位</p>
+<p className="mt-4">⚠️详细位置管理员当天群里发定位</p>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
 <p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
 <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
