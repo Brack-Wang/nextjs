@@ -27,7 +27,7 @@ export default function Home() {
     🔥Prison Break & Mysterious Market<br />
     📍42 E Ontario St, Chicago, IL 60611
   </p>
-  <p className="mb-4 font-bold">Prison报名：</p>
+  <p className="mb-4 font-bold">rison Break：</p>
   <a
     href="https://www.eventbrite.com/e/cfcht720-1200pm-escape-game-prison-break-tickets-1497692712219?aff=oddtdtcreator"
     target="_blank"
@@ -36,7 +36,7 @@ export default function Home() {
   >
     报名🔗
   </a>
-  <p className="mb-4 font-bold">Market报名：</p>
+  <p className="mb-4 font-bold">Mysterious Market：</p>
   <a
     href="https://www.eventbrite.com/e/cfcht720-1200pm-escape-game-mysterious-market-tickets-1497703935789?aff=oddtdtcreator"
     target="_blank"
