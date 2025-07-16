@@ -17,16 +17,47 @@ export default function Home() {
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
 
+```jsx
+{/* TODO: Change the content for weekly events' information below */}
+{/* Event Details Replacement Start */}
+  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+  <h2 className="text-2xl font-bold mb-2">7/20 周日 12 - 2 PM 密室逃脱</h2>
+  <p className="mb-4">店家票价：$48/人</p>
+  <p className="mb-4">
+    The Escape Game Chicago<br />
+    🔥Prison Break & Mysterious Market<br />
+    📍42 E Ontario St, Chicago, IL 60611
+  </p>
+  <p className="mb-4">
+    Prison报名🔗：<br />
+    <a
+      href="https://www.eventbrite.com/e/cfcht720-1200pm-escape-game-prison-break-tickets-1497692712219?aff=oddtdtcreator"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-600 underline"
+    >
+      https://www.eventbrite.com/e/cfcht720-1200pm-escape-game-prison-break-tickets-1497692712219?aff=oddtdtcreator
+    </a>
+  </p>
+  <p className="mb-4">
+    Market报名🔗：<br />
+    <a
+      href="https://www.eventbrite.com/e/cfcht720-1200pm-escape-game-mysterious-market-tickets-1497703935789?aff=oddtdtcreator"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-600 underline"
+    >
+      https://www.eventbrite.com/e/cfcht720-1200pm-escape-game-mysterious-market-tickets-1497703935789?aff=oddtdtcreator
+    </a>
+  </p>
+  <p className="mb-4">* 请务必准时到，需要当场sign waiver *</p>
+  <p className="mb-4">
+    * 请报名当天23:59前私信管理员@Justin转zelle，并提供转账zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额 *
+  </p>
+  <p className="mb-4">* 如报名后无法出席，请直接联系群里其他小伙伴转票 *</p>
+{/* Event Details Replacement End */}
+```
 
-<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">7/13 周日 11-13:00 野餐式小桌🧺</h2>
-<p className="mb-4">报名人数：12人<br />👋欢迎大家带想share的吃的喝的！</p>
-<p className="mb-4">地点：Burnham Park Promontory Point<br />📍5491 S DuSable Lake Shore Dr, Chicago, IL 60615</p>
-<a href="https://www.eventbrite.co.nz/e/cfcht713-11-1300-tickets-1477849089409?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-<p className="mt-4">⚠️详细位置管理员当天群里发定位</p>
-<p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
-<p className="mt-4 font-bold">那么各位，这周日见！🌞</p>
-<p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 
 
 
