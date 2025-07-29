@@ -17,54 +17,17 @@ export default function Home() {
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
         
-{/* TODO: Change the content for weekly events' information below */}
 {/* Event Details Replacement Start */}
-<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-<h2 className="text-2xl font-bold mb-2">7/22 周六 10 AM 🔥Lake Geneva 划船</h2>
-<p className="mb-4">
-  CFCHT第二次短途road trip启动！本周六我们将前往 Lake Geneva 进行划船、hiking 和野餐，欢迎大家带上自己想分享的零食～
-</p>
-<p className="mb-4">
-  📍 Clear Water Outdoor Kayak Rental<br />
-  📍327 Wrigley Drive, Lake Geneva, WI<br />
-  距离Loop车程约2小时，附近设有停车场（有可能停满），建议大家提前规划出行时间。
-</p>
-<p className="mb-4">
-  本次活动提供三种选择：<br />
-  - 单人 Kayak / Paddle Board：税后 $49.28 / 人<br />
-  - 双人 Kayak：$35.59 / 人
-</p>
-<a
-  href="https://www.eventbrite.com/e/cfcht727-lake-genevaroad-trip-tickets-1514377827849?aff=oddtdtcreator"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out mb-4"
->
-  报名🔗
-</a>
-<p className="mb-4">
-  * 请报名后当天23:59前尽快联系管理员 Dessi，告知Eventbrite报名名字及选择项目后Zelle转账，否则将取消名额。管理员将在统计所有信息后统一购票 🎫
-</p>
-<p className="mb-4">
-  * 报名双人 Kayak 的朋友请提前告知管理员队友信息，以便统计。若需组队可在群内自行发布信息，或请管理员代发。
-  周四中午前如未组队成功将默认成为单人 Kayak。
-</p>
-<p className="mb-4">
-  * 如报名后无法出席，请联系群里其他小伙伴进行转票处理。
-</p>
-<p className="mb-4 font-bold">大致行程：</p>
-<p className="mb-4">
-  - 最晚10 AM从市区集合出发<br />
-  - 到达 Lake Geneva 后一起午餐（报名结束后公布餐厅信息）<br />
-  - 2 PM 开始2小时划船项目<br />
-  - 划船结束后湖边野餐或散步<br />
-  - 晚餐是否一起将视情况而定
-</p>
-
+  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+  <h2 className="text-2xl font-bold mb-2">8/3 周日 5:15-6:30PM DIY油基滚珠香水</h2>
+  <p className="mb-4">含税福利折扣价：$38.59/人（原价$50）<br />限定报名人数：6人</p>
+  <p className="mb-4">Lovely Intentions<br />📍1937 W North Ave, Chicago IL 60622<br />距离Loop车程大概20分钟左右，请各位合理安排出行时间</p>
+  <p className="mb-4">报名（详情🔎）：<br /><a href="https://www.eventbrite.co.nz/e/cfcht83-515-630pm-diy-tickets-1542289111249?aff=oddtdtcreator" target="_blank" className="inline-block text-blue-600 underline hover:text-blue-800">Eventbrite 报名链接</a></p>
+  <p className="mb-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
+  <p className="mt-4">*请报名后当天23:59前 Zelle，否则将取消名额</p>
+  <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转票</p>
+  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
-
-
-
 
 
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
