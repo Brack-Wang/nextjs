@@ -20,14 +20,15 @@ export default function Home() {
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">8/3 周日 5:15-6:30PM DIY油基滚珠香水</h2>
-  <p className="mb-4">含税福利折扣价：$38.59/人（原价$50）<br />限定报名人数：6人</p>
+  <p className="mb-4">含税折扣价：38.59🔪/人（原价50）<br />限定报名人数：6人</p>
   <p className="mb-4">Lovely Intentions<br />📍1937 W North Ave, Chicago IL 60622<br />距离Loop车程大概20分钟左右，请各位合理安排出行时间</p>
-  <p className="mb-4">报名（详情🔎）：<br /><a href="https://www.eventbrite.co.nz/e/cfcht83-515-630pm-diy-tickets-1542289111249?aff=oddtdtcreator" target="_blank" className="inline-block text-blue-600 underline hover:text-blue-800">Eventbrite 报名链接</a></p>
-  <p className="mb-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
-  <p className="mt-4">*请报名后当天23:59前 Zelle，否则将取消名额</p>
+  <a href="https://www.eventbrite.co.nz/e/cfcht83-515-630pm-diy-tickets-1542289111249?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+  <p className="mt-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
+  <p className="mt-4">*请Eventbrite报名成功后，当天23:59前 Zelle，否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转票</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
+
 
 
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
