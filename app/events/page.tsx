@@ -17,7 +17,7 @@ const eventsData = [
     altText: '25/8/3 DIY香水 @Lovely Intentions', // 图片的替代文本
   },  
       {
-    imageUrl: '/划船.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/727划船.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961', // 替换为对应的网站链接
     altText: '25/7/27 Kayak @Lake Geneva', // 图片的替代文本
   },  
@@ -32,7 +32,7 @@ const eventsData = [
     altText: '25/7/13 野餐式小桌🧺 @Burnham Park Promontory Point', // 图片的替代文本
   },  
       {
-    imageUrl: '/lasertag.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/629laser.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/9Px6OXhq5rs', // 替换为对应的网站链接
     altText: '25/6/29 LaserTag @WhirlyBall Chicago', // 图片的替代文本
   },  
@@ -42,17 +42,17 @@ const eventsData = [
     altText: '25/6/22 @Mish Mash Adventures', // 图片的替代文本
   },  
       {
-    imageUrl: '/615草莓.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/615草莓.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/7j7h1df7yRo', // 替换为对应的网站链接
     altText: '25/6/15 摘草莓 @TOM’s Farm Market', // 图片的替代文本
   },  
       {
-    imageUrl: '/68hiking.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/68hiking.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961', // 替换为对应的网站链接
     altText: '25/6/8 Hiking @Matthiessen State Park', // 图片的替代文本
   },  
       {
-    imageUrl: '/83香薰.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/83香薰.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/AP3rV00pnlt', // 替换为对应的网站链接
     altText: '25/8/3 DIY香薰 @Uni Uni Bubble Tea-Wick Park', // 图片的替代文本
   },  
@@ -62,9 +62,9 @@ const eventsData = [
     altText: '25/5/18 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
   },  
        {
-    imageUrl: '/54奶茶.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/54奶茶.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/1vLt8LSFVGj', // 替换为对应的网站链接
-    altText: '25/5/18 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+    altText: '25/5/4 奶茶分享会 @Uni Uni Bubble Tea-Wick Park', // 图片的替代文本
   },  
    {
     imageUrl: '/427zipline.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
@@ -87,7 +87,7 @@ const eventsData = [
     altText: '25/4/6 迷你高尔夫 @Puttshack', // 图片的替代文本
   },  
     {
-    imageUrl: '/323activated.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    imageUrl: '/323activated.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/A0RGclqgZ56', // 替换为对应的网站链接
     altText: '25/3/23 室内游戏 @Activated Oak Brook', // 图片的替代文本
   },  
