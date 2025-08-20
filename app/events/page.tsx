@@ -11,7 +11,82 @@
 import Link from 'next/link';
 
 const eventsData = [
-     // Add the events as the following template ahead
+      {
+    imageUrl: '/香水.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/24JnS4vzkKI', // 替换为对应的网站链接
+    altText: '25/8/3 DIY香水 @Lovely Intentions', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/划船.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961', // 替换为对应的网站链接
+    altText: '25/7/27 Kayak @Lake Geneva', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/密室.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961', // 替换为对应的网站链接
+    altText: '25/7/20 密室逃脱 @The Escape Game Chicago', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/野餐.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/4GmgYsjlKNr', // 替换为对应的网站链接
+    altText: '25/7/13 野餐式小桌🧺 @Burnham Park Promontory Point', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/lasertag.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/9Px6OXhq5rs', // 替换为对应的网站链接
+    altText: '25/6/29 LaserTag @WhirlyBall Chicago', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/mishmash.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/6hjnBjmoZRI', // 替换为对应的网站链接
+    altText: '25/6/22 @Mish Mash Adventures', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/615草莓.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/7j7h1df7yRo', // 替换为对应的网站链接
+    altText: '25/6/15 摘草莓 @TOM’s Farm Market', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/68hiking.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961', // 替换为对应的网站链接
+    altText: '25/6/8 Hiking @Matthiessen State Park', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/83香薰.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/AP3rV00pnlt', // 替换为对应的网站链接
+    altText: '25/8/3 DIY香薰 @Uni Uni Bubble Tea-Wick Park', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/518小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/bPlCHBFb3v', // 替换为对应的网站链接
+    altText: '25/5/18 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+  },  
+       {
+    imageUrl: '/54奶茶.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/1vLt8LSFVGj', // 替换为对应的网站链接
+    altText: '25/5/18 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+  },  
+   {
+    imageUrl: '/427zipline.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/6XADTa47xfZ', // 替换为对应的网站链接
+    altText: '25/4/27 Zipline @Go Ape Treetop Adventure', // 图片的替代文本
+  },  
+      {
+    imageUrl: '/420小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/8QxyKaNJphl', // 替换为对应的网站链接
+    altText: '25/4/20 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+  },  
+    {
+    imageUrl: '/413hiking.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/aG7DQq10Zj', // 替换为对应的网站链接
+    altText: '25/4/13 Hiking @Matthiessen State Park', // 图片的替代文本
+  },  
+    {
+    imageUrl: '/46高尔夫.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: ' http://xhslink.com/m/9ESM9qnOCvN', // 替换为对应的网站链接
+    altText: '25/4/6 迷你高尔夫 @Puttshack', // 图片的替代文本
+  },  
+     // 到这了
       {
     imageUrl: '/1215小桌.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/a/0HnDvktyWKR1', // 替换为对应的网站链接
