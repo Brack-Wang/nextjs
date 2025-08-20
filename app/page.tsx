@@ -19,11 +19,13 @@ export default function Home() {
         
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">8/3 周日 5:15-6:30PM DIY油基滚珠香水</h2>
-  <p className="mb-4">含税折扣价：38.59🔪/人（原价50）<br />限定报名人数：6人</p>
-  <p className="mb-4">Lovely Intentions<br />📍1937 W North Ave, Chicago IL 60622<br />距离Loop车程大概20分钟左右，请各位合理安排出行时间</p>
-  <a href="https://www.eventbrite.co.nz/e/cfcht83-515-630pm-diy-tickets-1542289111249?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mt-4">Zelle:<br />Qiong Yin<br />yin_chloe@icloud.com</p>
+  <h2 className="text-2xl font-bold mb-2">8/24 周日 3PM-5:30PM TOPGOLF 娱乐版高尔夫</h2>
+  <p className="mb-4">含税价格：24.28🔪/人（原价50）<br />限定报名人数：6人</p>
+  <p className="mb-4">价格按6人报名计算，如果有更多朋友报名管理员会退还多余费用，另外从未玩过Topgolf的朋友有$5 new player fee</p>
+  <p className="mb-4">活动后大家会一起吃晚饭。需要carpool或是可以提供carpool的朋友麻烦报名后尽快联系管理员</p>
+  <p className="mb-4">Topgolf Schaumburg<br />📍2050 Progress Pkwy, Schaumburg, IL 60173<br />距离Loop车程大概1hr，请各位合理安排出行时间</p>
+  <a href="https://www.eventbrite.com/e/cfcht824-3-pm-530-pm-topgolf-tickets-1608883827839" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
+  <p className="mt-4">Zelle:<br />Tianyou Luo<br />4707753396</p>
   <p className="mt-4">*请Eventbrite报名成功后，当天23:59前 Zelle，否则将取消名额</p>
   <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转票</p>
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
