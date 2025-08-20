@@ -119,7 +119,7 @@ const eventsData = [
       {
     imageUrl: '/1231跨年.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961k', // 替换为对应的网站链接
-    altText: '24/12/31 跨年！🎆y', // 图片的替代文本
+    altText: '24/12/31 跨年！🎆', // 图片的替代文本
   }, 
       {
     imageUrl: '/1221画廊.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
