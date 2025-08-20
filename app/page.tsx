@@ -20,7 +20,7 @@ export default function Home() {
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
   <h2 className="text-2xl font-bold mb-2">8/24 周日 3PM-5:30PM TOPGOLF 娱乐版高尔夫</h2>
-  <p className="mb-4">含税价格：24.28🔪/人（原价50）<br />限定报名人数：6人</p>
+  <p className="mb-4">含税价格：24.28🔪/人 <br />限定报名人数：6人</p>
   <p className="mb-4">价格按6人报名计算，如果有更多朋友报名管理员会退还多余费用，另外从未玩过Topgolf的朋友有$5 new player fee</p>
   <p className="mb-4">活动后大家会一起吃晚饭。需要carpool或是可以提供carpool的朋友麻烦报名后尽快联系管理员</p>
   <p className="mb-4">Topgolf Schaumburg<br />📍2050 Progress Pkwy, Schaumburg, IL 60173<br />距离Loop车程大概1hr，请各位合理安排出行时间</p>
