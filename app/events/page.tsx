@@ -83,9 +83,49 @@ const eventsData = [
   },  
     {
     imageUrl: '/46高尔夫.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    websiteUrl: ' http://xhslink.com/m/9ESM9qnOCvN', // 替换为对应的网站链接
+    websiteUrl: 'http://xhslink.com/m/9ESM9qnOCvN', // 替换为对应的网站链接
     altText: '25/4/6 迷你高尔夫 @Puttshack', // 图片的替代文本
   },  
+    {
+    imageUrl: '/323activated.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/A0RGclqgZ56', // 替换为对应的网站链接
+    altText: '25/3/23 室内游戏 @Activated Oak Brook', // 图片的替代文本
+  },  
+       {
+    imageUrl: '/316小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/2beIAuTzgTn', // 替换为对应的网站链接
+    altText: '25/3/16 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+  }, 
+      {
+    imageUrl: '/31陶瓷.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961', // 替换为对应的网站链接
+    altText: '25/3/1 做陶瓷🏺️ @Freestyle Ceramics & Tufting', // 图片的替代文本
+  }, 
+      {
+    imageUrl: '/29小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/2sraYzfIDsk', // 替换为对应的网站链接
+    altText: '25/3/16 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+  }, 
+      {
+    imageUrl: '/22保龄球.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961k', // 替换为对应的网站链接
+    altText: '25/2/2 室内保龄球🎳 @Pinstripes', // 图片的替代文本
+  }, 
+      {
+    imageUrl: '/112射箭.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961k', // 替换为对应的网站链接
+    altText: '25/1/12 室内射箭🏹️ @Chicago Archery', // 图片的替代文本
+  }, 
+      {
+    imageUrl: '/1231跨年.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961k', // 替换为对应的网站链接
+    altText: '24/12/31 跨年！🎆y', // 图片的替代文本
+  }, 
+      {
+    imageUrl: '/1221画廊.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/m/5XPUBkXSaPP', // 替换为对应的网站链接
+    altText: '24/12/21 Gallery Day', // 图片的替代文本
+  }, 
      // 到这了
       {
     imageUrl: '/1215小桌.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
