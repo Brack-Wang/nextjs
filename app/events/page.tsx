@@ -59,7 +59,7 @@ const eventsData = [
       {
     imageUrl: '/518小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/bPlCHBFb3v', // 替换为对应的网站链接
-    altText: '25/5/18 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+    altText: '25/5/18 小桌聊天 @Sweet Bean', // 图片的替代文本
   },  
        {
     imageUrl: '/54奶茶.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
@@ -74,7 +74,7 @@ const eventsData = [
       {
     imageUrl: '/420小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/8QxyKaNJphl', // 替换为对应的网站链接
-    altText: '25/4/20 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+    altText: '25/4/20 小桌聊天 @Sweet Bean', // 图片的替代文本
   },  
     {
     imageUrl: '/413hiking.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
@@ -94,7 +94,7 @@ const eventsData = [
        {
     imageUrl: '/316小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/2beIAuTzgTn', // 替换为对应的网站链接
-    altText: '25/3/16 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+    altText: '25/3/16 小桌聊天 @Sweet Bean', // 图片的替代文本
   }, 
       {
     imageUrl: '/31陶瓷.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
@@ -104,7 +104,7 @@ const eventsData = [
       {
     imageUrl: '/29小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/2sraYzfIDsk', // 替换为对应的网站链接
-    altText: '25/3/16 小桌聊天 @Sweet Bean & Avec', // 图片的替代文本
+    altText: '25/3/16 小桌聊天 @Sweet Bean', // 图片的替代文本
   }, 
       {
     imageUrl: '/22保龄球.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
