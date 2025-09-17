@@ -18,16 +18,33 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
         
 {/* Event Details Replacement Start */}
-  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">8/24 周日 3PM-5:30PM TOPGOLF 娱乐版高尔夫</h2>
-  <p className="mb-4">含税价格：24.28🔪/人 <br />限定报名人数：6人</p>
-  <p className="mb-4">价格按6人报名计算，如果有更多朋友报名管理员会退还多余费用，另外从未玩过Topgolf的朋友有$5 new player fee</p>
-  <p className="mb-4">活动后大家会一起吃晚饭。需要carpool的朋友麻烦报名后尽快联系管理员</p>
-  <p className="mb-4">Topgolf Schaumburg<br />📍2050 Progress Pkwy, Schaumburg, IL 60173<br />距离Loop车程大概1hr，请各位合理安排出行时间</p>
-  <a href="https://www.eventbrite.com/e/cfcht824-3-pm-530-pm-topgolf-tickets-1608883827839" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
-  <p className="mt-4">Zelle:<br />Tianyou Luo<br />4707753396</p>
-  <p className="mt-4">*请Eventbrite报名成功后，当天23:59前 Zelle，否则将取消名额</p>
-  <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转票</p>
+<h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+<h2 className="text-2xl font-bold mb-2">9/21 周日 11AM 小桌聊天 + 午餐</h2>
+<p className="mb-4">报名人数：9人（3桌）</p>
+<a
+  href="https://www.eventbrite.com/e/cfcht921-11-tickets-1712335965969?aff=oddtdtcreator"
+  target="_blank"
+  className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out"
+>
+  报名🔗
+</a>
+
+<p className="mt-4 font-bold">Agenda：</p>
+<p className="mb-2">
+  11:00-11:10 Check-in<br />
+  📍 Sweet Bean<br />
+  1152 S Wabash Ave, Chicago, IL 60605
+</p>
+<p className="mb-2">11:10-12:00 第一轮小桌聊天</p>
+<p className="mb-2">12:00-12:50 第二轮小桌聊天</p>
+<p className="mb-4">🚶 步行约 10 分钟</p>
+<p className="mb-4">
+  13:00 午餐 @ AO Hawaiian Hideout<br />
+  1315 S Wabash Ave, Chicago, IL 60605
+</p>
+  <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
+<p className="mt-4 font-bold">周日见！🌞</p>
+
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
 {/* Event Details Replacement End */}
 
