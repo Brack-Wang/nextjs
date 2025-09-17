@@ -23,7 +23,7 @@ export default function Home() {
 <p className="mb-4">报名人数：8人 （3桌）</p>
 <p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
 <p className="mb-4">Aganda:<br />11-11:10 Check-in<br />11:10-12:00 第一轮小桌聊天<br />12:00-12:50 第二轮小桌聊天</p>
-<p className="mb-4">🚶10 mins</p>
+<p className="mb-4">🚶5 mins</p>
 <p className="mb-4">13:00 午餐@AO Hawaiian Hideout<br />1315 S Wabash Ave, Chicago, IL 60605</p>
 <a href="https://www.eventbrite.com/e/cfcht921-11-tickets-1712335965969?aff=oddtdtcreator" target="_blank" rel="noreferrer" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a>
 <p className="mt-4">*如报名后无法出席，请联系群里其他小伙伴转名额</p>
