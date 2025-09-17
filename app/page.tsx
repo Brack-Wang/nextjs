@@ -20,7 +20,7 @@ export default function Home() {
 {/* Event Details Replacement Start */}
 <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
 <h2 className="text-2xl font-bold mb-2">9/21 周日 11点小桌聊天+午餐</h2>
-<p className="mb-4">报名人数：9人 （3桌）</p>
+<p className="mb-4">报名人数：8人 （3桌）</p>
 <p className="mb-4">📍Sweet Bean<br />1152 S Wabash Ave, Chicago, IL 60605</p>
 <p className="mb-4">Aganda:<br />11-11:10 Check-in<br />11:10-12:00 第一轮小桌聊天<br />12:00-12:50 第二轮小桌聊天</p>
 <p className="mb-4">🚶10 mins</p>
