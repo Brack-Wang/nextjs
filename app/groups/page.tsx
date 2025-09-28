@@ -13,8 +13,8 @@ import Link from 'next/link';
 const groupsData = [
      // Add the events as the following template ahead
   {
-    imageUrl: '/xiaohongshu2.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
-    altText: 'CFCHT小红书群--每日分享🎁', // 图片的替代文本
+    imageUrl: '/小红书.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    altText: 'CFCHT活动群', // 图片的替代文本
   },
   {
     imageUrl: '/ershouqun.jpeg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
