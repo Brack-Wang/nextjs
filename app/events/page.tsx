@@ -12,6 +12,16 @@ import Link from 'next/link';
 
 const eventsData = [
       {
+    imageUrl: '/921小桌.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'http://xhslink.com/o/4wEZjWgmUcE', // 替换为对应的网站链接
+    altText: '25/9/21 小桌聊天 @Sweet Bean', // 图片的替代文本
+  },  
+         {
+    imageUrl: '/824golf.JPG', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
+    websiteUrl: 'https://www.xiaohongshu.com/user/profile/5c25ac9d000000000700db3c?xsec_token=YBolyG7kbrB9Cp8KXGHfCqX5dB9Q8gqsn-NykhWEqR2-Q=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c25ac9d000000000700db3c&apptime=1755730538&share_id=92fb819a4b2047e78f78319790c14961', // 替换为对应的网站链接
+    altText: '25/8/24 @Topgolf Schaumburg', // 图片的替代文本
+  },  
+   {
     imageUrl: '/香水.jpg', // 替换为图片路径,请注意后缀名".jpg"或者".png"要和你上传的图片相同
     websiteUrl: 'http://xhslink.com/m/24JnS4vzkKI', // 替换为对应的网站链接
     altText: '25/8/3 DIY香水 @Lovely Intentions', // 图片的替代文本
