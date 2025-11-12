@@ -17,27 +17,51 @@ export default function Home() {
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
         
-/* Event Details Replacement Start */
+{/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">11/16 周日 11AM 手工银戒指</h2>
-  <p className="mb-4">🎟️ 福利票价：$50/人（原价 60）</p>
+  <h2 className="text-2xl font-bold mb-2">11/16 周日 11AM — 手工银戒指</h2>
+  <p className="mb-4">🎟️ 福利票价：50🔪/人（原价 60）</p>
+
   <p className="mb-4">
-    报名🔗 <a href="https://www.eventbrite.co.nz/e/cfcht1116-11am-tickets-1967672046058?aff=oddtdtcreator" target="_blank" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">前往 Eventbrite</a>
+    报名🔗（详情）：<br />
+    <a
+      href="https://www.eventbrite.co.nz/e/cfcht1116-11am-tickets-1967672046058?aff=oddtdtcreator"
+      target="_blank"
+      className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out"
+    >
+      点击前往 Eventbrite 报名
+    </a>
   </p>
 
   <h3 className="text-lg font-semibold mb-2">Agenda</h3>
   <p className="mb-2">11:00 - 13:00 手工银戒指</p>
-  <p className="mb-4">📍 The Bridgeport Art Center<br />1200 W 35th St, 4th FL, Chicago, IL 60609<br />（距离 Loop 车程约 15 分钟，请合理安排出行时间）</p>
+  <p className="mb-4">
+    📍 The Bridgeport Art Center<br />
+    1200 W 35th St, 4th FL, Chicago, IL 60609<br />
+    （距离 Loop 车程约 15 分钟，请合理安排出行时间）
+  </p>
 
-  <p className="mb-4">13:45 午餐<br />📍 Victory Tap | South Loop<br />1416 S Michigan Ave, Chicago, IL 60605</p>
+  <p className="mb-4">
+    13:45 午餐<br />
+    📍 Victory Tap | South Loop<br />
+    1416 S Michigan Ave, Chicago, IL 60605
+  </p>
 
   <h3 className="text-lg font-semibold mb-2">付款方式（Zelle）</h3>
-  <p className="mb-4">Qiong Yin<br />Zelle：yin_chloe@icloud.com</p>
+  <p className="mb-4">
+    Zelle：Qiong Yin<br />
+    yin_chloe@icloud.com
+  </p>
 
-  <p className="mt-4">* 请于报名当天 22:00 前通过 Zelle 转账给管理员，并私信管理员（小红书 @CHLOE Q）说明 Zelle 转账姓名 + 报名姓名（请与 Eventbrite 报名姓名完全一致），否则将取消名额。</p>
-  <p className="mt-4">* 如报名后无法出席，请联系群内其他小伙伴转票</p>
+  <p className="mt-4">
+    * 请于报名当天 22:00 前通过 Zelle 转账，并私信管理员（小红书 @CHLOE Q）备注
+    “Zelle 转账名字 + 报名名字”（须与 Eventbrite 报名姓名完全一致），否则将取消名额。
+  </p>
+  <p className="mt-4">
+    * 如报名后无法出席，请联系群内其他小伙伴转票。
+  </p>
   <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
-/* Event Details Replacement End */
+{/* Event Details Replacement End */}
 
 
   <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
