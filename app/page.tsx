@@ -19,11 +19,11 @@ export default function Home() {
         
 {/* Event Details Replacement Start */}
   <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">11/16 周日 11AM — 手工银戒指</h2>
-  <p className="mb-4">🎟️ 福利票价：50🔪/人（原价 60）</p>
+  <h2 className="text-2xl font-bold mb-2">11/16 周日 11AM 手工银戒指</h2>
+  <p className="mb-4">🎟️ 福利票价：$50/人（原价$60）</p>
 
   <p className="mb-4">
-    报名🔗（详情）：<br />
+    报名🔗：<br />
     <a
       href="https://www.eventbrite.co.nz/e/cfcht1116-11am-tickets-1967672046058?aff=oddtdtcreator"
       target="_blank"
