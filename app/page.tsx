@@ -54,7 +54,7 @@ export default function Home() {
   </p>
 
   <p className="mt-4">
-    * 请于报名当天 22:00 前通过 Zelle 转账，并私信管理员（小红书 @CHLOE Q）备注
+    * 请于报名当天 22:00 前Zelle，并私信 @CHLOE Q 备注
     “Zelle 转账名字 + 报名名字”（须与 Eventbrite 报名姓名完全一致），否则将取消名额。
   </p>
   <p className="mt-4">
