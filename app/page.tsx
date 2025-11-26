@@ -25,13 +25,8 @@ export default function Home() {
         <p className="mb-4">店家票价：$23.34/人（含溜冰鞋租赁）</p>
         <p className="mb-4">报名页面：<a href="https://www.eventbrite.co.nz/e/cfcht1129-11am-tickets-1975701326853?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a></p>
 
-        <p className="mb-4 font-bold">Zelle信息</p>
-        <p className="mb-4">姓名：Qiong Yin<br />Zelle 邮箱：yin_chloe@icloud.com</p>
-
-        <p className="mt-4 font-bold">报名须知（官网要求摘选）</p>
-        <p className="mt-2">- 所有进入冰道的人需佩戴溜冰鞋。<br />
-        - 可租借 figure skates / hockey skates，尺码儿童 8 号至男码 15（无半码）。<br />
-        - 禁止携带包、咖啡/饮料等进入冰面；禁止倒退滑行、危险动作、站在冰上不动等。</p>
+        <p className="mb-4 font-bold">Zelle信息：</p>
+        <p className="mb-4">姓名：Qiong Yin<br />邮箱：yin_chloe@icloud.com</p>
 
         <p className="mt-4">* 请于报名当天 22:00 前通过 Zelle 付款，并私信 Chloe（私信内容请包含 Zelle 收款人姓名 + 报名者姓名，报名者姓名需与 Eventbrite 报名姓名完全一致），否则名额将被取消。</p>
         <p className="mt-4">* 如报名后无法出席，请在群内联系其他小伙伴转票。</p>
