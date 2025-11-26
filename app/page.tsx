@@ -28,8 +28,8 @@ export default function Home() {
         <p className="mb-4 font-bold">Zelle信息：</p>
         <p className="mb-4">姓名：Qiong Yin<br />邮箱：yin_chloe@icloud.com</p>
 
-        <p className="mt-4">* 请于报名当天 22:00 前通过 Zelle 付款，并私信 Chloe（私信内容请包含 Zelle 收款人姓名 + 报名者姓名，报名者姓名需与 Eventbrite 报名姓名完全一致），否则名额将被取消。</p>
-        <p className="mt-4">* 如报名后无法出席，请在群内联系其他小伙伴转票。</p>
+        <p className="mt-4">* 请报名当天22:00前zelle，并私信Chloe zelle名字+报名名字（请与Eventbrite报名名字完全一致），否则将取消名额</p>
+        <p className="mt-4">* 如报名后无法出席，请在群内联系其他小伙伴转票</p>
 
         <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
       {/* Event Details Replacement End */}
