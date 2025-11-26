@@ -17,56 +17,27 @@ export default function Home() {
       <div className="mt-20 my-12 p-4 md:p-6 max-w-xs md:max-w-2xl lg:max-w-4xl w-full bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 text-center">
         <h2 className="text-2xl font-bold mb-2"> 芝加哥CFCHT </h2>
         
-{/* Event Details Replacement Start */}
-  <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
-  <h2 className="text-2xl font-bold mb-2">11/16 周日 11AM 手工银戒指</h2>
-  <p className="mb-4">🎟️ 福利票价：$50/人（原价$60）</p>
+        {/* TODO: Change the content for weekly events' information below */}
+      {/* Event Details Replacement Start */}
+        <h2 className="text-2xl font-bold mb-2">【本周安排】报名中</h2>
+        <h2 className="text-2xl font-bold mb-2">11/29 周六 11AM 溜冰</h2>
+        <p className="mb-4">📍Maggie Daley Park Ice Skating Ribbon<br/>337 E Randolph St, Chicago, IL 60601</p>
+        <p className="mb-4">店家票价：$23.34/人（含溜冰鞋租赁）</p>
+        <p className="mb-4">报名页面：<a href="https://www.eventbrite.co.nz/e/cfcht1129-11am-tickets-1975701326853?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer" className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out">报名🔗</a></p>
 
-  <p className="mb-4">
-    报名🔗：<br />
-    <a
-      href="https://www.eventbrite.co.nz/e/cfcht1116-11am-tickets-1967672046058?aff=oddtdtcreator"
-      target="_blank"
-      className="inline-block bg-blue-500 text-white p-2 rounded hover:bg-blue-700 transition duration-300 ease-in-out"
-    >
-      点击前往 Eventbrite 报名
-    </a>
-  </p>
+        <p className="mb-4 font-bold">Zelle信息</p>
+        <p className="mb-4">姓名：Qiong Yin<br />Zelle 邮箱：yin_chloe@icloud.com</p>
 
-  <h3 className="text-lg font-semibold mb-2">Agenda</h3>
-  <p className="mb-2">11:00 - 13:00 手工银戒指</p>
-  <p className="mb-4">
-    📍 The Bridgeport Art Center<br />
-    1200 W 35th St, 4th FL, Chicago, IL 60609<br />
-    （距离 Loop 车程约 15 分钟，请合理安排出行时间）
-  </p>
+        <p className="mt-4 font-bold">报名须知（官网要求摘选）</p>
+        <p className="mt-2">- 所有进入冰道的人需佩戴溜冰鞋。<br />
+        - 可租借 figure skates / hockey skates，尺码儿童 8 号至男码 15（无半码）。<br />
+        - 禁止携带包、咖啡/饮料等进入冰面；禁止倒退滑行、危险动作、站在冰上不动等。</p>
 
-  <p className="mb-4">
-    13:45 午餐<br />
-    📍 Victory Tap | South Loop<br />
-    1416 S Michigan Ave, Chicago, IL 60605
-  </p>
+        <p className="mt-4">* 请于报名当天 22:00 前通过 Zelle 付款，并私信 Chloe（私信内容请包含 Zelle 收款人姓名 + 报名者姓名，报名者姓名需与 Eventbrite 报名姓名完全一致），否则名额将被取消。</p>
+        <p className="mt-4">* 如报名后无法出席，请在群内联系其他小伙伴转票。</p>
 
-  <h3 className="text-lg font-semibold mb-2">付款方式（Zelle）</h3>
-  <p className="mb-4">
-    Zelle：Qiong Yin<br />
-    yin_chloe@icloud.com
-  </p>
-
-  <p className="mt-4">
-    * 请于报名当天 22:00 前Zelle，并私信 @CHLOE Q 备注
-    “Zelle 转账名字 + 报名名字”（须与 Eventbrite 报名姓名完全一致），否则将取消名额。
-  </p>
-  <p className="mt-4">
-    * 如报名后无法出席，请联系群内其他小伙伴转票。
-  </p>
-  <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
-{/* Event Details Replacement End */}
-
-
-  <p className="mt-4 font-bold">固定报名时间：每周三8PM</p>
-{/* Event Details Replacement End */}
-
+        <p className="mt-4 font-bold">固定报名时间：每周三 8PM</p>
+      {/* Event Details Replacement End */}
 
 
 <p className="mt-4 font-bold">欢迎👏点击⬇️Groups进入小红书和二手群🌞：</p>
